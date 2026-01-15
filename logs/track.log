@@ -48,3 +48,241 @@ Conf Threshold:0.5
 2026-01-15 01:44:17.188 [INFO] [YoloDetector] 📊 FPS: 20.1 | Toplam: 101 frame
 2026-01-15 01:44:21.121 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
 2026-01-15 01:44:22.201 [INFO] [YoloDetector] 📊 FPS: 20.2 | Toplam: 101 frame
+2026-01-15 01:50:08.954 [INFO] Ayarlar /models/tapo_config_v2.json üzerinden yüklendi.
+2026-01-15 01:50:08.955 [INFO] [KlipperBridge] Worker Thread başlatıldı.
+2026-01-15 01:50:08.955 [INFO] [YoloDetector] Model yükleniyor: /models/best.engine ...
+2026-01-15 01:50:08.965 [INFO] [YoloDetector] ✅ Model (TensorRT) hazır!
+2026-01-15 01:50:08.970 [INFO] [CameraDriver] State: DISCONNECTED -> CONNECTING
+2026-01-15 01:50:08.971 [INFO] [CameraDriver] Bağlanılıyor: 10.42.0.116:2020...
+2026-01-15 01:50:09.683 [INFO] [CameraDriver] ✅ PTZ Hazır. Token: profile_1
+2026-01-15 01:50:09.702 [INFO] [CameraDriver] Limits: X[-1.0, 1.0] Y[-1.0, 1.0]
+2026-01-15 01:50:09.703 [WARNING] [PTZ] GetPosition: Bağlı değil!
+2026-01-15 01:50:09.703 [WARNING] [CameraDriver] Seed alınamadı, 0.0 kabul edildi.
+2026-01-15 01:50:09.703 [INFO] [CameraDriver] State: CONNECTING -> CONNECTED
+2026-01-15 01:50:09.704 [DEBUG] [CameraDriver] Health check başlatıldı.
+2026-01-15 01:50:09.705 [INFO] 🚀 YOLO Detector başlatılıyor...
+Conf Threshold:0.5
+2026-01-15 01:50:09.705 [INFO] [YoloDetector] 🚀 Inference loop başlatıldı
+2026-01-15 01:50:09.707 [INFO] [YoloDetector] Inference thread başlatıldı.
+2026-01-15 01:50:09.707 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://test123:deneme123@10.42.0.116:554/stream1
+2026-01-15 01:50:09.707 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-01-15 01:50:10.919 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-01-15 01:50:10.921 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-01-15 01:50:10.922 [INFO]   -> conf: 0.5
+2026-01-15 01:50:10.922 [INFO]   -> imgsz: 640x640
+2026-01-15 01:50:10.922 [INFO]   -> class_id: 0
+2026-01-15 01:50:11.304 [INFO] [YoloDetector] ✅ YOLO predict generator oluştu, frame döngüsü başlıyor...
+2026-01-15 01:50:11.709 [INFO] 🔥 SİSTEM BAŞLATILDI - DÖNGÜ BAŞLIYOR 🔥
+2026-01-15 01:50:11.710 [INFO] [StateMachine] 🔄 IDLE -> PATROL
+2026-01-15 01:50:11.710 [INFO] [Patrol] 🔲 KARE TARAMA BAŞLIYOR...
+2026-01-15 01:50:11.722 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-15 01:50:11.723 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-15 01:50:11.861 [DEBUG] [PTZ] STOP sent
+2026-01-15 01:50:11.965 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 01:50:12.026 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-15 01:50:16.748 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 01:50:17.802 [INFO] [YoloDetector] 📊 FPS: 0.1 | Toplam: 1 frame
+2026-01-15 01:50:21.751 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 01:50:22.863 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 107 frame
+2026-01-15 01:50:26.769 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 01:50:27.872 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 108 frame
+2026-01-15 01:51:10.347 [INFO] Ayarlar /models/tapo_config_v2.json üzerinden yüklendi.
+2026-01-15 01:51:10.348 [INFO] [KlipperBridge] Worker Thread başlatıldı.
+2026-01-15 01:51:10.349 [INFO] [YoloDetector] Model yükleniyor: /models/best.engine ...
+2026-01-15 01:51:10.358 [INFO] [YoloDetector] ✅ Model (TensorRT) hazır!
+2026-01-15 01:51:10.363 [INFO] [CameraDriver] State: DISCONNECTED -> CONNECTING
+2026-01-15 01:51:10.363 [INFO] [CameraDriver] Bağlanılıyor: 10.42.0.116:2020...
+2026-01-15 01:51:11.095 [INFO] [CameraDriver] ✅ PTZ Hazır. Token: profile_1
+2026-01-15 01:51:11.112 [INFO] [CameraDriver] Limits: X[-1.0, 1.0] Y[-1.0, 1.0]
+2026-01-15 01:51:11.112 [WARNING] [PTZ] GetPosition: Bağlı değil!
+2026-01-15 01:51:11.112 [WARNING] [CameraDriver] Seed alınamadı, 0.0 kabul edildi.
+2026-01-15 01:51:11.113 [INFO] [CameraDriver] State: CONNECTING -> CONNECTED
+2026-01-15 01:51:11.114 [DEBUG] [CameraDriver] Health check başlatıldı.
+2026-01-15 01:51:11.114 [INFO] 🚀 YOLO Detector başlatılıyor...
+Conf Threshold:0.5
+2026-01-15 01:51:11.116 [INFO] [YoloDetector] 🚀 Inference loop başlatıldı
+2026-01-15 01:51:11.116 [INFO] [YoloDetector] Inference thread başlatıldı.
+2026-01-15 01:51:11.117 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://test123:deneme123@10.42.0.116:554/stream1
+2026-01-15 01:51:11.117 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-01-15 01:51:12.360 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-01-15 01:51:12.362 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-01-15 01:51:12.362 [INFO]   -> conf: 0.5
+2026-01-15 01:51:12.362 [INFO]   -> imgsz: 640x640
+2026-01-15 01:51:12.363 [INFO]   -> class_id: 0
+2026-01-15 01:51:12.738 [INFO] [YoloDetector] ✅ YOLO predict generator oluştu, frame döngüsü başlıyor...
+2026-01-15 01:51:13.119 [INFO] 🔥 SİSTEM BAŞLATILDI - DÖNGÜ BAŞLIYOR 🔥
+2026-01-15 01:51:13.119 [INFO] [StateMachine] 🔄 IDLE -> PATROL
+2026-01-15 01:51:13.119 [INFO] [Patrol] 🔲 KARE TARAMA BAŞLIYOR...
+2026-01-15 01:51:13.135 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-15 01:51:13.135 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-15 01:51:13.170 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 01:51:13.269 [DEBUG] [PTZ] STOP sent
+2026-01-15 01:51:13.277 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-15 01:51:13.285 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-15 01:51:13.294 [DEBUG] [PTZ] STOP sent
+2026-01-15 01:51:13.603 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 0.00, vx=0, vy=-0.4)...
+2026-01-15 01:51:13.603 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-15 01:51:13.741 [DEBUG] [PTZ] STOP sent
+2026-01-15 01:51:13.748 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-15 01:51:13.754 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (0.105)
+2026-01-15 01:51:13.777 [DEBUG] [PTZ] STOP sent
+2026-01-15 01:51:14.097 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-15 01:51:14.102 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-15 01:51:14.259 [DEBUG] [PTZ] STOP sent
+2026-01-15 01:51:14.269 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-15 01:51:18.190 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 01:51:19.441 [INFO] [YoloDetector] 📊 FPS: 0.1 | Toplam: 1 frame
+2026-01-15 01:51:23.205 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 01:51:24.479 [INFO] [YoloDetector] 📊 FPS: 19.7 | Toplam: 99 frame
+2026-01-15 01:52:36.967 [INFO] Ayarlar /models/tapo_config_v2.json üzerinden yüklendi.
+2026-01-15 01:52:36.968 [INFO] [KlipperBridge] Worker Thread başlatıldı.
+2026-01-15 01:52:36.968 [INFO] [YoloDetector] Model yükleniyor: /models/best.engine ...
+2026-01-15 01:52:36.978 [INFO] [YoloDetector] ✅ Model (TensorRT) hazır!
+2026-01-15 01:52:36.982 [INFO] [CameraDriver] State: DISCONNECTED -> CONNECTING
+2026-01-15 01:52:36.983 [INFO] [CameraDriver] Bağlanılıyor: 10.42.0.116:2020...
+2026-01-15 01:52:37.721 [INFO] [CameraDriver] ✅ PTZ Hazır. Token: profile_1
+2026-01-15 01:52:37.745 [INFO] [CameraDriver] Limits: X[-1.0, 1.0] Y[-1.0, 1.0]
+2026-01-15 01:52:37.745 [WARNING] [PTZ] GetPosition: Bağlı değil!
+2026-01-15 01:52:37.745 [WARNING] [CameraDriver] Seed alınamadı, 0.0 kabul edildi.
+2026-01-15 01:52:37.746 [INFO] [CameraDriver] State: CONNECTING -> CONNECTED
+2026-01-15 01:52:37.747 [DEBUG] [CameraDriver] Health check başlatıldı.
+2026-01-15 01:52:37.749 [INFO] 🚀 YOLO Detector başlatılıyor...
+Conf Threshold:0.5
+2026-01-15 01:52:37.751 [INFO] [YoloDetector] 🚀 Inference loop başlatıldı
+2026-01-15 01:52:37.751 [INFO] [YoloDetector] Inference thread başlatıldı.
+2026-01-15 01:52:37.752 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://test123:deneme123@10.42.0.116:554/stream1
+2026-01-15 01:52:37.752 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-01-15 01:52:38.963 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-01-15 01:52:38.966 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-01-15 01:52:38.966 [INFO]   -> conf: 0.5
+2026-01-15 01:52:38.966 [INFO]   -> imgsz: 640x640
+2026-01-15 01:52:38.966 [INFO]   -> class_id: 0
+2026-01-15 01:52:39.379 [ERROR] [YoloDetector] ❌ YOLO HATA: AttributeError: 'NoneType' object has no attribute 'get_tensor_shape'
+2026-01-15 01:52:39.381 [ERROR] [YoloDetector] 📍 Traceback:
+Traceback (most recent call last):
+  File "/app/src/core/yolo_detector.py", line 106, in _inference_loop
+    results_generator = self.model.predict(
+  File "/ultralytics/ultralytics/engine/model.py", line 550, in predict
+    self.predictor.setup_model(model=self.model, verbose=is_cli)
+  File "/ultralytics/ultralytics/engine/predictor.py", line 397, in setup_model
+    self.model = AutoBackend(
+  File "/usr/local/lib/python3.10/dist-packages/torch/utils/_contextlib.py", line 116, in decorate_context
+    return func(*args, **kwargs)
+  File "/ultralytics/ultralytics/nn/autobackend.py", line 384, in __init__
+    shape = tuple(context.get_tensor_shape(name))
+AttributeError: 'NoneType' object has no attribute 'get_tensor_shape'
+
+2026-01-15 01:52:39.754 [INFO] 🔥 SİSTEM BAŞLATILDI - DÖNGÜ BAŞLIYOR 🔥
+2026-01-15 01:52:39.754 [INFO] [StateMachine] 🔄 IDLE -> PATROL
+2026-01-15 01:52:39.755 [INFO] [Patrol] 🔲 KARE TARAMA BAŞLIYOR...
+2026-01-15 01:52:39.766 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-15 01:52:39.767 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-15 01:52:39.904 [DEBUG] [PTZ] STOP sent
+2026-01-15 01:52:39.952 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 01:52:40.051 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-15 01:52:41.397 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://test123:deneme123@10.42.0.116:554/stream1
+2026-01-15 01:52:41.397 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-01-15 01:52:42.635 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-01-15 01:52:42.637 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-01-15 01:52:42.637 [INFO]   -> conf: 0.5
+2026-01-15 01:52:42.637 [INFO]   -> imgsz: 640x640
+2026-01-15 01:52:42.637 [INFO]   -> class_id: 0
+2026-01-15 01:52:42.638 [INFO] [YoloDetector] ✅ YOLO predict generator oluştu, frame döngüsü başlıyor...
+2026-01-15 01:52:44.969 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 01:52:49.541 [INFO] [YoloDetector] 📊 FPS: 0.1 | Toplam: 1 frame
+2026-01-15 01:52:49.985 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 01:52:54.577 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 114 frame
+2026-01-15 01:52:55.002 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 01:52:57.621 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-15 01:52:57.628 [DEBUG] [PTZ] STOP sent
+2026-01-15 01:52:57.937 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 0.00, vx=0, vy=-0.4)...
+2026-01-15 01:52:57.938 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-15 01:52:58.073 [DEBUG] [PTZ] STOP sent
+2026-01-15 01:52:58.082 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-15 01:52:58.095 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (0.113)
+2026-01-15 01:52:58.102 [DEBUG] [PTZ] STOP sent
+2026-01-15 01:52:58.415 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-15 01:52:58.416 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-15 01:52:58.551 [DEBUG] [PTZ] STOP sent
+2026-01-15 01:52:58.560 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-15 01:52:59.606 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-15 01:53:00.018 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 01:53:04.621 [INFO] [YoloDetector] 📊 FPS: 20.7 | Toplam: 104 frame
+2026-01-15 01:53:05.034 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 02:00:19.316 [INFO] Ayarlar /models/tapo_config_v2.json üzerinden yüklendi.
+2026-01-15 02:00:19.316 [INFO] [KlipperBridge] Worker Thread başlatıldı.
+2026-01-15 02:00:19.317 [INFO] [YoloDetector] Model yükleniyor: /models/best.engine ...
+2026-01-15 02:00:19.328 [INFO] [YoloDetector] ✅ Model (TensorRT) hazır!
+2026-01-15 02:00:19.333 [INFO] [CameraDriver] State: DISCONNECTED -> CONNECTING
+2026-01-15 02:00:19.333 [INFO] [CameraDriver] Bağlanılıyor: 10.42.0.116:2020...
+2026-01-15 02:00:20.078 [INFO] [CameraDriver] ✅ PTZ Hazır. Token: profile_1
+2026-01-15 02:00:20.095 [INFO] [CameraDriver] Limits: X[-1.0, 1.0] Y[-1.0, 1.0]
+2026-01-15 02:00:20.096 [WARNING] [PTZ] GetPosition: Bağlı değil!
+2026-01-15 02:00:20.096 [WARNING] [CameraDriver] Seed alınamadı, 0.0 kabul edildi.
+2026-01-15 02:00:20.096 [INFO] [CameraDriver] State: CONNECTING -> CONNECTED
+2026-01-15 02:00:20.097 [DEBUG] [CameraDriver] Health check başlatıldı.
+2026-01-15 02:00:20.097 [INFO] 🚀 YOLO Detector başlatılıyor...
+Conf Threshold:0.5
+2026-01-15 02:00:20.099 [INFO] [YoloDetector] 🚀 Inference loop başlatıldı
+2026-01-15 02:00:20.099 [INFO] [YoloDetector] Inference thread başlatıldı.
+2026-01-15 02:00:20.100 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://test123:deneme123@10.42.0.116:554/stream1
+2026-01-15 02:00:20.100 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-01-15 02:00:21.318 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-01-15 02:00:21.321 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-01-15 02:00:21.321 [INFO]   -> conf: 0.5
+2026-01-15 02:00:21.321 [INFO]   -> imgsz: 640x640
+2026-01-15 02:00:21.322 [INFO]   -> class_id: 0
+2026-01-15 05:10:54.226 [INFO] Ayarlar /models/tapo_config_v2.json üzerinden yüklendi.
+2026-01-15 05:10:54.227 [INFO] [KlipperBridge] Worker Thread başlatıldı.
+2026-01-15 05:10:54.227 [INFO] [YoloDetector] Model yükleniyor: /models/best.engine ...
+2026-01-15 05:10:54.238 [INFO] [YoloDetector] ✅ Model (TensorRT) hazır!
+2026-01-15 05:10:54.243 [INFO] [CameraDriver] State: DISCONNECTED -> CONNECTING
+2026-01-15 05:10:54.243 [INFO] [CameraDriver] Bağlanılıyor: 10.42.0.116:2020...
+2026-01-15 05:10:54.990 [INFO] [CameraDriver] ✅ PTZ Hazır. Token: profile_1
+2026-01-15 05:10:55.014 [INFO] [CameraDriver] Limits: X[-1.0, 1.0] Y[-1.0, 1.0]
+2026-01-15 05:10:55.014 [WARNING] [PTZ] GetPosition: Bağlı değil!
+2026-01-15 05:10:55.014 [WARNING] [CameraDriver] Seed alınamadı, 0.0 kabul edildi.
+2026-01-15 05:10:55.014 [INFO] [CameraDriver] State: CONNECTING -> CONNECTED
+2026-01-15 05:10:55.016 [DEBUG] [CameraDriver] Health check başlatıldı.
+2026-01-15 05:10:55.016 [INFO] 🚀 YOLO Detector başlatılıyor...
+Conf Threshold:0.5
+2026-01-15 05:10:55.018 [INFO] [YoloDetector] 🚀 Inference loop başlatıldı
+2026-01-15 05:10:55.019 [INFO] [YoloDetector] Inference thread başlatıldı.
+2026-01-15 05:10:55.021 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://test123:deneme123@10.42.0.116:554/stream1
+2026-01-15 05:10:55.021 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-01-15 05:10:56.239 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-01-15 05:10:56.242 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-01-15 05:10:56.242 [INFO]   -> conf: 0.5
+2026-01-15 05:10:56.242 [INFO]   -> imgsz: 640x640
+2026-01-15 05:10:56.242 [INFO]   -> class_id: 0
+2026-01-15 05:10:56.835 [INFO] [YoloDetector] ✅ YOLO predict generator oluştu, frame döngüsü başlıyor...
+2026-01-15 05:10:57.022 [INFO] 🔥 SİSTEM BAŞLATILDI - DÖNGÜ BAŞLIYOR 🔥
+2026-01-15 05:10:57.022 [INFO] [StateMachine] 🔄 IDLE -> PATROL
+2026-01-15 05:10:57.023 [INFO] [Patrol] 🔲 KARE TARAMA BAŞLIYOR...
+2026-01-15 05:10:57.033 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-15 05:10:57.033 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-15 05:10:57.178 [DEBUG] [PTZ] STOP sent
+2026-01-15 05:10:57.186 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 05:10:57.333 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-15 05:11:02.203 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 05:11:03.836 [INFO] [YoloDetector] 📊 FPS: 0.1 | Toplam: 1 frame
+2026-01-15 05:11:07.213 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 05:11:08.858 [INFO] [YoloDetector] 📊 FPS: 20.7 | Toplam: 104 frame
+2026-01-15 05:11:12.228 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 05:11:13.897 [INFO] [YoloDetector] 📊 FPS: 22.0 | Toplam: 111 frame
+2026-01-15 05:11:14.819 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-15 05:11:14.826 [DEBUG] [PTZ] STOP sent
+2026-01-15 05:11:15.135 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 0.00, vx=0, vy=-0.4)...
+2026-01-15 05:11:15.135 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-15 05:11:15.270 [DEBUG] [PTZ] STOP sent
+2026-01-15 05:11:15.278 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-15 05:11:15.291 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (0.119)
+2026-01-15 05:11:15.297 [DEBUG] [PTZ] STOP sent
+2026-01-15 05:11:15.611 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-15 05:11:15.612 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-15 05:11:15.746 [DEBUG] [PTZ] STOP sent
+2026-01-15 05:11:15.753 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-15 05:11:17.242 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 05:11:18.925 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-15 05:11:22.255 [DEBUG] [MainLoop] Alive. No Fire | UV:-134284370
+2026-01-15 05:11:23.936 [INFO] [YoloDetector] 📊 FPS: 20.8 | Toplam: 104 frame
