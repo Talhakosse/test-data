@@ -144,3 +144,6 @@ To https://github.com/Talhakosse/test-data.git
  create mode 100644 logs/detections/fire_confirmed_2026-01-27_09-22-22.jpg
 To https://github.com/Talhakosse/test-data.git
    4fa506c..a13ec46  master -> master
+[master afa54f8] test-logs: auto commit @ 2026-01-27 12:30:01
+ 2 files changed, 67 insertions(+)
+fatal: unable to access 'https://github.com/Talhakosse/test-data.git/': Could not resolve host: github.com
