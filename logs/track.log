@@ -4336,3 +4336,2232 @@ Conf Threshold:0.5
 2026-01-27 13:29:55.494 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
 2026-01-27 13:29:59.506 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
 2026-01-27 13:30:00.505 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 13:30:01.607 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.018)
+2026-01-27 13:30:01.615 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:01.930 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:30:01.930 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:30:02.065 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:02.229 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:30:04.508 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:30:05.542 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 112 frame
+2026-01-27 13:30:07.537 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:30:07.543 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:07.852 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:30:07.853 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:30:07.991 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:08.132 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:30:09.524 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:30:10.568 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 13:30:13.130 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.178)
+2026-01-27 13:30:13.139 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:13.454 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 13:30:13.454 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:30:13.589 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:13.755 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:30:14.523 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:30:15.604 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 112 frame
+2026-01-27 13:30:19.548 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:30:20.618 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 13:30:23.104 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 13:30:23.111 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:23.420 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:30:23.420 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:30:23.555 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:23.719 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:30:24.570 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:30:25.637 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 115 frame
+2026-01-27 13:30:29.021 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:30:29.027 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:29.341 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:30:29.341 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:30:29.476 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:29.570 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:30:29.642 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:30:30.671 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 107 frame
+2026-01-27 13:30:34.574 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:30:34.630 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.174)
+2026-01-27 13:30:34.637 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:34.946 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 13:30:34.946 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:30:35.081 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:35.245 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 13:30:35.678 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 113 frame
+2026-01-27 13:30:39.583 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:30:40.731 [INFO] [YoloDetector] 📊 FPS: 21.4 | Toplam: 108 frame
+2026-01-27 13:30:44.591 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:30:45.763 [INFO] [YoloDetector] 📊 FPS: 21.7 | Toplam: 109 frame
+2026-01-27 13:30:49.614 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:30:50.775 [INFO] [YoloDetector] 📊 FPS: 21.7 | Toplam: 109 frame
+2026-01-27 13:30:52.351 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-27 13:30:52.357 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:52.672 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 13:30:52.672 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:30:52.815 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:30:52.822 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:30:54.601 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:30:55.786 [INFO] [YoloDetector] 📊 FPS: 22.4 | Toplam: 112 frame
+2026-01-27 13:30:59.610 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:31:00.818 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 13:31:01.855 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.018)
+2026-01-27 13:31:01.876 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:02.187 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:31:02.187 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:31:02.333 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:02.488 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:31:04.611 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:31:05.829 [INFO] [YoloDetector] 📊 FPS: 23.2 | Toplam: 116 frame
+2026-01-27 13:31:07.778 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:31:07.798 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:08.108 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:31:08.108 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:31:08.247 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:08.411 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:31:09.632 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:31:10.894 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 111 frame
+2026-01-27 13:31:13.402 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 13:31:13.410 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:13.722 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 13:31:13.723 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:31:13.858 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:14.023 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:31:14.630 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:31:15.920 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 13:31:19.630 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:31:20.924 [INFO] [YoloDetector] 📊 FPS: 21.4 | Toplam: 107 frame
+2026-01-27 13:31:23.364 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 13:31:23.371 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:23.686 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:31:23.686 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:31:23.821 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:23.988 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:31:24.634 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:31:25.981 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 114 frame
+2026-01-27 13:31:29.296 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:31:29.303 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:29.612 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:31:29.612 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:31:29.660 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:31:29.747 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:29.910 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:31:30.983 [INFO] [YoloDetector] 📊 FPS: 22.0 | Toplam: 110 frame
+2026-01-27 13:31:34.679 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:31:34.883 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 13:31:34.893 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:35.211 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 13:31:35.212 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:31:35.346 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:35.513 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 13:31:36.004 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 13:31:39.688 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:31:41.015 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 109 frame
+2026-01-27 13:31:44.698 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:31:46.030 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 13:31:49.709 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:31:51.046 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 13:31:52.599 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-27 13:31:52.621 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:52.930 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 13:31:52.930 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:31:53.067 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:31:53.074 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:31:54.733 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:31:56.061 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 13:31:59.742 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:32:01.067 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 111 frame
+2026-01-27 13:32:02.081 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.016)
+2026-01-27 13:32:02.107 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:02.415 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:32:02.416 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:32:02.556 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:02.716 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:32:04.752 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:32:06.073 [INFO] [YoloDetector] 📊 FPS: 23.2 | Toplam: 116 frame
+2026-01-27 13:32:08.001 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:32:08.009 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:08.317 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:32:08.317 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:32:08.453 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:08.625 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:32:09.760 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:32:11.076 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 13:32:13.604 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.174)
+2026-01-27 13:32:13.612 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:13.920 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 13:32:13.920 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:32:14.056 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:14.221 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:32:14.776 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:32:16.150 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 112 frame
+2026-01-27 13:32:19.785 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:32:21.162 [INFO] [YoloDetector] 📊 FPS: 20.6 | Toplam: 103 frame
+2026-01-27 13:32:23.560 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-0.999)
+2026-01-27 13:32:23.567 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:23.876 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:32:23.877 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:32:24.011 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:24.176 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:32:24.771 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:32:26.167 [INFO] [YoloDetector] 📊 FPS: 23.4 | Toplam: 117 frame
+2026-01-27 13:32:29.476 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:32:29.483 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:29.776 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:32:29.798 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:32:29.798 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:32:29.945 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:30.109 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:32:31.200 [INFO] [YoloDetector] 📊 FPS: 21.5 | Toplam: 108 frame
+2026-01-27 13:32:34.776 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:32:35.081 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.170)
+2026-01-27 13:32:35.089 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:35.400 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 13:32:35.401 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:32:35.535 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:35.701 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 13:32:36.214 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 13:32:39.780 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:32:41.216 [INFO] [YoloDetector] 📊 FPS: 22.0 | Toplam: 110 frame
+2026-01-27 13:32:44.799 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:32:46.230 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 13:32:49.813 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:32:51.260 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 13:32:52.507 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.981)
+2026-01-27 13:32:52.525 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:52.837 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 13:32:52.838 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:32:52.978 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:32:52.984 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:32:54.820 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:32:56.262 [INFO] [YoloDetector] 📊 FPS: 22.8 | Toplam: 114 frame
+2026-01-27 13:32:59.824 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:33:01.266 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 113 frame
+2026-01-27 13:33:02.003 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.017)
+2026-01-27 13:33:02.017 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:02.333 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:33:02.333 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:33:02.468 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:02.634 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:33:04.842 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:33:06.289 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 13:33:07.938 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:33:07.946 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:08.256 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:33:08.256 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:33:08.391 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:08.557 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:33:09.847 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:33:11.291 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 108 frame
+2026-01-27 13:33:13.557 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.178)
+2026-01-27 13:33:13.566 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:13.874 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 13:33:13.875 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:33:14.017 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:14.179 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:33:14.870 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:33:16.302 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 13:33:19.889 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:33:21.326 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 107 frame
+2026-01-27 13:33:23.501 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-0.996)
+2026-01-27 13:33:23.509 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:23.823 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:33:23.823 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:33:23.967 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:24.134 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:33:24.901 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:33:26.401 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 115 frame
+2026-01-27 13:33:29.430 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:33:29.437 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:29.746 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:33:29.747 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:33:29.881 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:29.924 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:33:30.047 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:33:31.431 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 13:33:34.909 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:33:35.047 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.178)
+2026-01-27 13:33:35.068 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:35.376 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 13:33:35.377 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:33:35.515 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:35.679 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 13:33:36.493 [INFO] [YoloDetector] 📊 FPS: 21.5 | Toplam: 109 frame
+2026-01-27 13:33:39.920 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:33:41.510 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 107 frame
+2026-01-27 13:33:44.921 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:33:46.528 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 13:33:49.924 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:33:51.596 [INFO] [YoloDetector] 📊 FPS: 23.5 | Toplam: 119 frame
+2026-01-27 13:33:52.479 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.986)
+2026-01-27 13:33:52.486 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:52.797 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 13:33:52.798 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:33:52.932 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:33:52.939 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:33:54.944 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:33:56.602 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 13:38:16.316 [INFO] [Sensors] MCP3008 SPI başlatıldı
+2026-01-27 13:38:36.756 [INFO] Ayarlar /models/tapo_config_v2.json üzerinden yüklendi.
+2026-01-27 13:38:36.756 [INFO] [YoloDetector] Model yükleniyor: /models/best.engine ...
+2026-01-27 13:38:36.766 [INFO] [YoloDetector] ✅ Model (TensorRT) hazır!
+2026-01-27 13:38:36.771 [INFO] [CameraDriver] State: DISCONNECTED -> CONNECTING
+2026-01-27 13:38:36.772 [INFO] [CameraDriver] Bağlanılıyor: 10.42.0.116:2020...
+2026-01-27 13:38:37.483 [INFO] [CameraDriver] ✅ PTZ Hazır. Token: profile_1
+2026-01-27 13:38:37.499 [INFO] [CameraDriver] Limits: X[-1.0, 1.0] Y[-1.0, 1.0]
+2026-01-27 13:38:37.499 [WARNING] [PTZ] GetPosition: Bağlı değil!
+2026-01-27 13:38:37.499 [WARNING] [CameraDriver] Seed alınamadı, 0.0 kabul edildi.
+2026-01-27 13:38:37.500 [INFO] [CameraDriver] State: CONNECTING -> CONNECTED
+2026-01-27 13:38:37.501 [DEBUG] [CameraDriver] Health check başlatıldı.
+2026-01-27 13:38:37.503 [INFO] 🚀 YOLO Detector başlatılıyor...
+Conf Threshold:0.5
+2026-01-27 13:38:37.504 [INFO] [YoloDetector] 🚀 Inference loop başlatıldı
+2026-01-27 13:38:37.504 [INFO] [YoloDetector] Inference thread başlatıldı.
+2026-01-27 13:38:37.504 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://test123:deneme123@10.42.0.116:554/stream1
+2026-01-27 13:38:37.505 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-01-27 13:38:38.727 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-01-27 13:38:38.730 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-01-27 13:38:38.730 [INFO]   -> conf: 0.5
+2026-01-27 13:38:38.730 [INFO]   -> imgsz: 640x640
+2026-01-27 13:38:38.730 [INFO]   -> class_id: 0
+2026-01-27 13:38:39.064 [INFO] [YoloDetector] ✅ YOLO predict generator oluştu, frame döngüsü başlıyor...
+2026-01-27 13:38:39.507 [INFO] 🔥 SİSTEM BAŞLATILDI - DÖNGÜ BAŞLIYOR 🔥
+2026-01-27 13:38:39.507 [INFO] [StateMachine] 🔄 IDLE -> PATROL
+2026-01-27 13:38:39.507 [INFO] [Patrol] 🔲 KARE TARAMA BAŞLIYOR...
+2026-01-27 13:38:39.509 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:38:39.517 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 13:38:39.517 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:38:39.655 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:38:39.822 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:38:39.829 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.973)
+2026-01-27 13:38:39.836 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:38:40.143 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:38:40.144 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:38:40.291 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:38:40.477 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:38:44.517 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:38:45.564 [INFO] [YoloDetector] 📊 FPS: 0.1 | Toplam: 1 frame
+2026-01-27 13:38:45.893 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:38:45.901 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:38:46.215 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:38:46.215 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:38:46.350 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:38:46.516 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:38:49.520 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:38:50.566 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 111 frame
+2026-01-27 13:38:51.505 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 13:38:51.513 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:38:51.822 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 13:38:51.822 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:38:51.957 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:38:52.098 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:38:53.039 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-0.990)
+2026-01-27 13:38:53.046 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:38:53.355 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:38:53.355 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:38:53.499 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:38:53.659 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:38:54.520 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:38:55.593 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 13:38:58.946 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:38:58.954 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:38:59.264 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:38:59.264 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:38:59.399 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:38:59.542 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:38:59.543 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:39:00.612 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 13:39:04.526 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:39:04.579 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.186)
+2026-01-27 13:39:04.587 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:04.902 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 13:39:04.902 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:39:05.037 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:05.204 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 13:39:05.643 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 13:39:09.526 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:39:10.667 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 13:39:14.550 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:39:15.687 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 13:39:19.566 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:39:20.713 [INFO] [YoloDetector] 📊 FPS: 23.5 | Toplam: 118 frame
+2026-01-27 13:39:22.018 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.982)
+2026-01-27 13:39:22.034 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:22.343 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 13:39:22.343 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:39:22.481 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:22.491 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:39:24.577 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:39:25.726 [INFO] [YoloDetector] 📊 FPS: 23.5 | Toplam: 118 frame
+2026-01-27 13:39:29.599 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:39:30.758 [INFO] [YoloDetector] 📊 FPS: 21.5 | Toplam: 108 frame
+2026-01-27 13:39:31.534 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.020)
+2026-01-27 13:39:31.543 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:31.851 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:39:31.852 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:39:31.993 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:32.158 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:39:34.590 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:39:35.788 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 13:39:37.455 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:39:37.463 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:37.772 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:39:37.773 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:39:37.909 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:38.050 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:39:39.593 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:39:40.815 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 13:39:43.021 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 13:39:43.044 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:43.359 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 13:39:43.360 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:39:43.495 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:43.662 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:39:44.610 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:39:45.835 [INFO] [YoloDetector] 📊 FPS: 21.7 | Toplam: 109 frame
+2026-01-27 13:39:49.632 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:39:50.837 [INFO] [YoloDetector] 📊 FPS: 20.6 | Toplam: 103 frame
+2026-01-27 13:39:52.972 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-0.997)
+2026-01-27 13:39:52.979 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:53.288 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:39:53.288 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:39:53.422 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:53.587 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:39:54.618 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:39:55.843 [INFO] [YoloDetector] 📊 FPS: 23.2 | Toplam: 116 frame
+2026-01-27 13:39:58.877 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:39:58.887 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:59.209 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:39:59.210 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:39:59.344 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:39:59.510 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:39:59.620 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:40:00.875 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 13:40:04.498 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.174)
+2026-01-27 13:40:04.505 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:04.625 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:40:04.814 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 13:40:04.814 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:40:04.948 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:05.112 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 13:40:05.885 [INFO] [YoloDetector] 📊 FPS: 21.0 | Toplam: 105 frame
+2026-01-27 13:40:09.630 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:40:10.915 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 13:40:14.651 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:40:15.947 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 13:40:19.654 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:40:21.023 [INFO] [YoloDetector] 📊 FPS: 23.8 | Toplam: 121 frame
+2026-01-27 13:40:21.928 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.984)
+2026-01-27 13:40:21.939 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:22.262 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 13:40:22.262 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:40:22.397 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:22.417 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:40:24.671 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:40:26.023 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 111 frame
+2026-01-27 13:40:29.675 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:40:31.055 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 13:40:31.425 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.016)
+2026-01-27 13:40:31.433 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:31.745 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:40:31.745 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:40:31.881 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:32.045 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:40:34.678 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:40:36.102 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 109 frame
+2026-01-27 13:40:37.347 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:40:37.355 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:37.671 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:40:37.671 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:40:37.806 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:37.948 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:40:39.686 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:40:41.122 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 13:40:42.940 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 13:40:42.953 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:43.267 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 13:40:43.267 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:40:43.402 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:43.541 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:40:44.706 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:40:46.152 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 13:40:49.709 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:40:51.176 [INFO] [YoloDetector] 📊 FPS: 21.5 | Toplam: 108 frame
+2026-01-27 13:40:52.875 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-0.997)
+2026-01-27 13:40:52.883 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:53.192 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:40:53.192 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:40:53.330 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:53.495 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:40:54.732 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:40:56.246 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 114 frame
+2026-01-27 13:40:58.803 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:40:58.810 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:59.122 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:40:59.122 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:40:59.257 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:40:59.398 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:40:59.734 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:41:01.305 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 113 frame
+2026-01-27 13:41:04.370 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 13:41:04.377 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:04.685 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 13:41:04.686 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:41:04.739 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:41:04.821 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:04.961 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 13:41:06.340 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 106 frame
+2026-01-27 13:41:09.746 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:41:11.370 [INFO] [YoloDetector] 📊 FPS: 21.7 | Toplam: 109 frame
+2026-01-27 13:41:14.758 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:41:16.381 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 13:41:19.769 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:41:21.405 [INFO] [YoloDetector] 📊 FPS: 23.3 | Toplam: 117 frame
+2026-01-27 13:41:21.807 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.990)
+2026-01-27 13:41:21.815 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:22.128 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 13:41:22.128 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:41:22.264 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:22.273 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:41:24.778 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:41:26.419 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 13:41:29.783 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:41:31.311 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.019)
+2026-01-27 13:41:31.322 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:31.456 [INFO] [YoloDetector] 📊 FPS: 22.4 | Toplam: 113 frame
+2026-01-27 13:41:31.630 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:41:31.631 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:41:31.781 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:31.923 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:41:34.792 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:41:36.482 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 13:41:37.222 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:41:37.229 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:37.539 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:41:37.539 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:41:37.675 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:37.816 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:41:39.796 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:41:41.511 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 13:41:42.794 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 13:41:42.803 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:43.111 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 13:41:43.112 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:41:43.247 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:43.388 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:41:44.812 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:41:46.555 [INFO] [YoloDetector] 📊 FPS: 22.0 | Toplam: 111 frame
+2026-01-27 13:41:49.815 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:41:51.576 [INFO] [YoloDetector] 📊 FPS: 21.5 | Toplam: 108 frame
+2026-01-27 13:41:52.720 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 13:41:52.728 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:53.037 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:41:53.037 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:41:53.172 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:53.313 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:41:54.825 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:41:56.584 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 113 frame
+2026-01-27 13:41:58.604 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:41:58.612 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:58.920 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:41:58.921 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:41:59.063 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:41:59.226 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:41:59.844 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:42:01.611 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 13:42:04.233 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.180)
+2026-01-27 13:42:04.241 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:42:04.550 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 13:42:04.550 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:42:04.684 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:42:04.849 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 13:42:04.850 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:42:06.684 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 108 frame
+2026-01-27 13:42:09.850 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:42:11.737 [INFO] [YoloDetector] 📊 FPS: 21.0 | Toplam: 106 frame
+2026-01-27 13:42:14.869 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:45:39.279 [INFO] [Sensors] MCP3008 SPI başlatıldı
+2026-01-27 13:45:50.744 [INFO] Ayarlar /models/tapo_config_v2.json üzerinden yüklendi.
+2026-01-27 13:45:50.745 [INFO] [YoloDetector] Model yükleniyor: /models/best.engine ...
+2026-01-27 13:45:50.755 [INFO] [YoloDetector] ✅ Model (TensorRT) hazır!
+2026-01-27 13:45:50.759 [INFO] [CameraDriver] State: DISCONNECTED -> CONNECTING
+2026-01-27 13:45:50.760 [INFO] [CameraDriver] Bağlanılıyor: 10.42.0.116:2020...
+2026-01-27 13:45:51.484 [INFO] [CameraDriver] ✅ PTZ Hazır. Token: profile_1
+2026-01-27 13:45:51.511 [INFO] [CameraDriver] Limits: X[-1.0, 1.0] Y[-1.0, 1.0]
+2026-01-27 13:45:51.512 [WARNING] [PTZ] GetPosition: Bağlı değil!
+2026-01-27 13:45:51.512 [WARNING] [CameraDriver] Seed alınamadı, 0.0 kabul edildi.
+2026-01-27 13:45:51.512 [INFO] [CameraDriver] State: CONNECTING -> CONNECTED
+2026-01-27 13:45:51.513 [DEBUG] [CameraDriver] Health check başlatıldı.
+2026-01-27 13:45:51.514 [INFO] 🚀 YOLO Detector başlatılıyor...
+Conf Threshold:0.2
+2026-01-27 13:45:51.516 [INFO] [YoloDetector] 🚀 Inference loop başlatıldı
+2026-01-27 13:45:51.516 [INFO] [YoloDetector] Inference thread başlatıldı.
+2026-01-27 13:45:51.517 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://test123:deneme123@10.42.0.116:554/stream1
+2026-01-27 13:45:51.517 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-01-27 13:45:52.742 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-01-27 13:45:52.745 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-01-27 13:45:52.745 [INFO]   -> conf: 0.2
+2026-01-27 13:45:52.745 [INFO]   -> imgsz: 640x640
+2026-01-27 13:45:52.745 [INFO]   -> class_id: 0
+2026-01-27 13:45:53.055 [INFO] [YoloDetector] ✅ YOLO predict generator oluştu, frame döngüsü başlıyor...
+2026-01-27 13:45:53.517 [INFO] 🔥 SİSTEM BAŞLATILDI - DÖNGÜ BAŞLIYOR 🔥
+2026-01-27 13:45:53.518 [INFO] [StateMachine] 🔄 IDLE -> PATROL
+2026-01-27 13:45:53.518 [INFO] [Patrol] 🔲 KARE TARAMA BAŞLIYOR...
+2026-01-27 13:45:53.519 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:45:53.530 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 13:45:53.531 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:45:53.667 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:45:53.674 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:45:58.535 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:45:59.528 [INFO] [YoloDetector] 📊 FPS: 0.1 | Toplam: 1 frame
+2026-01-27 13:46:02.665 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.014)
+2026-01-27 13:46:02.673 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:02.984 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:46:02.984 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:46:03.119 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:03.286 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:46:03.547 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:46:04.549 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 13:46:08.553 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:46:08.593 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:46:08.600 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:08.909 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:46:08.910 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:46:09.054 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:09.218 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:46:09.561 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 13:46:13.546 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:46:14.206 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 13:46:14.224 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:14.536 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 13:46:14.537 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:46:14.577 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 13:46:14.676 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:14.818 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:46:18.563 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:46:19.588 [INFO] [YoloDetector] 📊 FPS: 22.0 | Toplam: 110 frame
+2026-01-27 13:46:23.582 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:46:24.168 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-0.998)
+2026-01-27 13:46:24.176 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:24.485 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:46:24.485 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:46:24.619 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 13:46:24.628 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:24.791 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:46:28.567 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:46:29.634 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 13:46:30.069 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 13:46:30.076 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:30.391 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 13:46:30.391 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:46:30.526 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:30.692 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 13:46:33.572 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:46:34.684 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 112 frame
+2026-01-27 13:46:35.680 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 13:46:35.687 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:35.996 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 13:46:35.997 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:46:36.132 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:36.274 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 13:46:38.577 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:46:39.732 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 110 frame
+2026-01-27 13:46:43.587 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:46:44.784 [INFO] [YoloDetector] 📊 FPS: 22.0 | Toplam: 111 frame
+2026-01-27 13:46:48.601 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:46:49.812 [INFO] [YoloDetector] 📊 FPS: 23.3 | Toplam: 117 frame
+2026-01-27 13:46:53.110 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.987)
+2026-01-27 13:46:53.126 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:53.441 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 13:46:53.442 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:46:53.578 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:46:53.586 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 13:46:53.622 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:46:54.847 [INFO] [YoloDetector] 📊 FPS: 23.2 | Toplam: 117 frame
+2026-01-27 13:46:58.626 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:46:59.851 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 109 frame
+2026-01-27 13:47:02.623 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.019)
+2026-01-27 13:47:02.646 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:47:02.954 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 13:47:02.955 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 13:47:03.102 [DEBUG] [PTZ] STOP sent
+2026-01-27 13:47:03.265 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 13:47:03.643 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 13:47:04.861 [INFO] [YoloDetector] 📊 FPS: 23.4 | Toplam: 117 frame
+2026-01-27 16:06:32.726 [INFO] [Sensors] MCP3008 SPI başlatıldı
+2026-01-27 16:06:43.733 [INFO] Ayarlar /models/tapo_config_v2.json üzerinden yüklendi.
+2026-01-27 16:06:43.734 [INFO] [YoloDetector] Model yükleniyor: /models/best.engine ...
+2026-01-27 16:06:43.745 [INFO] [YoloDetector] ✅ Model (TensorRT) hazır!
+2026-01-27 16:06:43.750 [INFO] [CameraDriver] State: DISCONNECTED -> CONNECTING
+2026-01-27 16:06:43.750 [INFO] [CameraDriver] Bağlanılıyor: 10.42.0.116:2020...
+2026-01-27 16:06:44.568 [INFO] [CameraDriver] ✅ PTZ Hazır. Token: profile_1
+2026-01-27 16:06:44.588 [INFO] [CameraDriver] Limits: X[-1.0, 1.0] Y[-1.0, 1.0]
+2026-01-27 16:06:44.589 [WARNING] [PTZ] GetPosition: Bağlı değil!
+2026-01-27 16:06:44.589 [WARNING] [CameraDriver] Seed alınamadı, 0.0 kabul edildi.
+2026-01-27 16:06:44.589 [INFO] [CameraDriver] State: CONNECTING -> CONNECTED
+2026-01-27 16:06:44.590 [DEBUG] [CameraDriver] Health check başlatıldı.
+2026-01-27 16:06:44.592 [INFO] 🚀 YOLO Detector başlatılıyor...
+Conf Threshold:0.2
+2026-01-27 16:06:44.592 [INFO] [YoloDetector] 🚀 Inference loop başlatıldı
+2026-01-27 16:06:44.592 [INFO] [YoloDetector] Inference thread başlatıldı.
+2026-01-27 16:06:44.592 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://test123:deneme123@10.42.0.116:554/stream1
+2026-01-27 16:06:44.593 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-01-27 16:06:45.901 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-01-27 16:06:45.903 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-01-27 16:06:45.903 [INFO]   -> conf: 0.2
+2026-01-27 16:06:45.904 [INFO]   -> imgsz: 640x640
+2026-01-27 16:06:45.904 [INFO]   -> class_id: 0
+2026-01-27 16:06:46.464 [INFO] [YoloDetector] ✅ YOLO predict generator oluştu, frame döngüsü başlıyor...
+2026-01-27 16:06:46.595 [INFO] 🔥 SİSTEM BAŞLATILDI - DÖNGÜ BAŞLIYOR 🔥
+2026-01-27 16:06:46.595 [INFO] [StateMachine] 🔄 IDLE -> PATROL
+2026-01-27 16:06:46.596 [INFO] [Patrol] 🔲 KARE TARAMA BAŞLIYOR...
+2026-01-27 16:06:46.597 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:06:46.604 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:06:46.605 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:06:46.753 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:06:46.760 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:06:51.598 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:06:53.248 [INFO] [YoloDetector] 📊 FPS: 0.1 | Toplam: 1 frame
+2026-01-27 16:06:55.659 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.004)
+2026-01-27 16:06:55.673 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:06:55.988 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:06:55.989 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:06:56.124 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:06:56.266 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:06:56.620 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:06:58.272 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:07:01.568 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:07:01.575 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:01.627 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:07:01.884 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:07:01.885 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:07:02.027 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:02.186 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:07:03.305 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 16:07:06.638 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:07:07.177 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 16:07:07.188 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:07.497 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:07:07.497 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:07:07.636 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:07.776 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:07:08.335 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 16:07:11.658 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:07:13.349 [INFO] [YoloDetector] 📊 FPS: 21.5 | Toplam: 108 frame
+2026-01-27 16:07:16.678 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:07:17.098 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-0.984)
+2026-01-27 16:07:17.107 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:17.418 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:07:17.419 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:07:17.564 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:17.706 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:07:18.379 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 16:07:21.683 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:07:23.019 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:07:23.034 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:23.349 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:07:23.349 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:07:23.392 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 106 frame
+2026-01-27 16:07:23.484 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:23.626 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:07:26.706 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:07:28.394 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 111 frame
+2026-01-27 16:07:28.598 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.170)
+2026-01-27 16:07:28.604 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:28.915 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:07:28.916 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:07:29.051 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:29.217 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:07:31.695 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:07:33.396 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 109 frame
+2026-01-27 16:07:36.696 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:07:38.421 [INFO] [YoloDetector] 📊 FPS: 21.5 | Toplam: 108 frame
+2026-01-27 16:07:41.713 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:07:43.425 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 111 frame
+2026-01-27 16:07:46.346 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-27 16:07:46.353 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:46.662 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:07:46.663 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:07:46.724 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:07:46.799 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:46.810 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:07:48.425 [INFO] [YoloDetector] 📊 FPS: 23.2 | Toplam: 116 frame
+2026-01-27 16:07:51.709 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:07:53.427 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 108 frame
+2026-01-27 16:07:55.849 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.017)
+2026-01-27 16:07:55.856 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:56.165 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:07:56.166 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:07:56.301 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:07:56.444 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:07:56.724 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:07:58.444 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 16:08:01.731 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:08:01.742 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:08:01.748 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:02.056 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:08:02.057 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:08:02.192 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:02.334 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:08:03.471 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:08:06.754 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:08:07.311 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 16:08:07.317 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:07.625 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:08:07.626 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:08:07.760 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:07.902 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:08:08.476 [INFO] [YoloDetector] 📊 FPS: 22.4 | Toplam: 112 frame
+2026-01-27 16:08:11.756 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:08:13.513 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 112 frame
+2026-01-27 16:08:16.779 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:08:17.253 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 16:08:17.261 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:17.569 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:08:17.570 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:08:17.704 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:17.842 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:08:18.573 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 115 frame
+2026-01-27 16:08:21.766 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:08:23.139 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:08:23.146 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:23.455 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:08:23.455 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:08:23.591 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 106 frame
+2026-01-27 16:08:23.598 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:23.757 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:08:26.792 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:08:28.591 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 16:08:28.761 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.178)
+2026-01-27 16:08:28.769 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:29.084 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:08:29.085 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:08:29.220 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:29.361 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:08:31.795 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:08:33.611 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 16:08:36.804 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:08:38.616 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 111 frame
+2026-01-27 16:08:41.825 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:08:43.623 [INFO] [YoloDetector] 📊 FPS: 22.4 | Toplam: 112 frame
+2026-01-27 16:08:46.140 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.990)
+2026-01-27 16:08:46.152 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:46.467 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:08:46.468 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:08:46.603 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:46.626 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:08:46.845 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:08:48.649 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 115 frame
+2026-01-27 16:08:51.847 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:08:53.671 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 107 frame
+2026-01-27 16:08:55.635 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.020)
+2026-01-27 16:08:55.642 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:55.955 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:08:55.955 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:08:56.091 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:08:56.232 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:08:56.860 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:08:58.716 [INFO] [YoloDetector] 📊 FPS: 22.8 | Toplam: 115 frame
+2026-01-27 16:09:01.522 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:09:01.530 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:01.838 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:09:01.838 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:09:01.874 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:09:01.985 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:02.129 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:09:03.753 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 114 frame
+2026-01-27 16:09:06.880 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:09:07.113 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 16:09:07.120 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:07.428 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:09:07.429 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:09:07.571 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:07.730 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:09:08.776 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:09:11.903 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:09:13.813 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 109 frame
+2026-01-27 16:09:16.894 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:09:17.037 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-0.998)
+2026-01-27 16:09:17.045 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:17.359 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:09:17.359 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:09:17.494 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:17.658 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:09:18.844 [INFO] [YoloDetector] 📊 FPS: 23.1 | Toplam: 116 frame
+2026-01-27 16:09:21.912 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:09:22.993 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:09:23.001 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:23.315 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:09:23.315 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:09:23.450 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:23.592 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:09:23.861 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 107 frame
+2026-01-27 16:09:26.912 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:09:28.580 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 16:09:28.587 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:28.898 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:09:28.898 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:09:28.925 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 108 frame
+2026-01-27 16:09:29.037 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:29.177 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:09:31.931 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:09:33.925 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 16:09:36.918 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:09:38.940 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:09:41.941 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:09:43.956 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:09:46.027 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.987)
+2026-01-27 16:09:46.034 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:46.348 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:09:46.349 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:09:46.485 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:46.493 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:09:46.950 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:09:48.979 [INFO] [YoloDetector] 📊 FPS: 23.7 | Toplam: 119 frame
+2026-01-27 16:09:51.957 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:09:53.981 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 108 frame
+2026-01-27 16:09:55.531 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.019)
+2026-01-27 16:09:55.549 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:55.861 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:09:55.861 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:09:56.006 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:09:56.169 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:09:56.962 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:09:59.036 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 116 frame
+2026-01-27 16:10:01.472 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:10:01.480 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:01.791 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:10:01.792 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:10:01.928 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:01.971 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:10:02.070 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:10:04.053 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 115 frame
+2026-01-27 16:10:06.992 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:10:07.049 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.174)
+2026-01-27 16:10:07.057 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:07.366 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:10:07.366 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:10:07.501 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:07.639 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:10:09.067 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 16:10:11.995 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:10:14.099 [INFO] [YoloDetector] 📊 FPS: 21.5 | Toplam: 108 frame
+2026-01-27 16:10:16.991 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 16:10:16.999 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:17.019 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:10:17.311 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:10:17.311 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:10:17.446 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:17.588 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:10:19.102 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 16:10:22.033 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:10:22.880 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:10:22.887 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:23.196 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:10:23.197 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:10:23.331 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:23.498 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:10:24.166 [INFO] [YoloDetector] 📊 FPS: 20.9 | Toplam: 106 frame
+2026-01-27 16:10:27.056 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:10:28.498 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.178)
+2026-01-27 16:10:28.512 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:28.827 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:10:28.827 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:10:28.967 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:29.107 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:10:29.206 [INFO] [YoloDetector] 📊 FPS: 22.0 | Toplam: 111 frame
+2026-01-27 16:10:32.075 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:10:34.225 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:10:37.075 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:10:39.227 [INFO] [YoloDetector] 📊 FPS: 22.4 | Toplam: 112 frame
+2026-01-27 16:10:42.077 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:10:44.280 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 114 frame
+2026-01-27 16:10:46.183 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-27 16:10:46.190 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:46.504 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:10:46.505 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:10:46.640 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:46.647 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:10:47.095 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:10:49.284 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 113 frame
+2026-01-27 16:10:52.109 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:10:54.306 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 16:10:55.681 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.019)
+2026-01-27 16:10:55.689 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:55.997 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:10:55.998 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:10:56.141 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:10:56.299 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:10:57.111 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:10:59.318 [INFO] [YoloDetector] 📊 FPS: 23.1 | Toplam: 116 frame
+2026-01-27 16:11:01.586 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:11:01.593 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:01.902 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:11:01.902 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:11:02.037 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:02.117 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:11:02.177 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:11:04.390 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 114 frame
+2026-01-27 16:11:07.118 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:11:07.168 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 16:11:07.179 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:07.488 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:11:07.489 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:11:07.625 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:07.765 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:11:09.423 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:11:12.121 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:11:14.433 [INFO] [YoloDetector] 📊 FPS: 21.2 | Toplam: 106 frame
+2026-01-27 16:11:17.102 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 16:11:17.108 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:17.145 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:11:17.418 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:11:17.418 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:11:17.553 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:17.692 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:11:19.504 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 116 frame
+2026-01-27 16:11:22.137 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:11:23.003 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:11:23.018 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:23.333 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:11:23.333 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:11:23.469 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:23.610 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:11:24.520 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 16:11:27.158 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:11:28.601 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 16:11:28.622 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:28.931 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:11:28.931 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:11:29.066 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:29.207 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:11:29.532 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 107 frame
+2026-01-27 16:11:32.147 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:11:34.570 [INFO] [YoloDetector] 📊 FPS: 22.0 | Toplam: 111 frame
+2026-01-27 16:11:37.170 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:11:39.623 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 109 frame
+2026-01-27 16:11:42.178 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:11:44.663 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 110 frame
+2026-01-27 16:11:46.324 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-27 16:11:46.331 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:46.644 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:11:46.645 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:11:46.781 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:46.794 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:11:47.200 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:11:49.696 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 114 frame
+2026-01-27 16:11:52.218 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:11:54.712 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:11:55.855 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.021)
+2026-01-27 16:11:55.863 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:56.179 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:11:56.180 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:11:56.314 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:11:56.455 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:11:57.208 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:11:59.713 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 113 frame
+2026-01-27 16:12:01.742 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:12:01.749 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:02.063 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:12:02.064 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:12:02.199 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:02.234 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:12:02.340 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:12:04.787 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 113 frame
+2026-01-27 16:12:07.229 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:12:07.325 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.174)
+2026-01-27 16:12:07.344 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:07.656 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:12:07.657 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:12:07.801 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:07.967 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:12:09.820 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:12:12.245 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:12:14.826 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 109 frame
+2026-01-27 16:12:17.239 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:12:17.299 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 16:12:17.316 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:17.630 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:12:17.631 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:12:17.766 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:17.909 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:12:19.898 [INFO] [YoloDetector] 📊 FPS: 23.3 | Toplam: 118 frame
+2026-01-27 16:12:22.251 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:12:23.201 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:12:23.208 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:23.517 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:12:23.517 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:12:23.652 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:23.790 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:12:24.935 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 110 frame
+2026-01-27 16:12:27.276 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:12:28.801 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 16:12:28.808 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:29.117 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:12:29.117 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:12:29.252 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:29.391 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:12:29.960 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 16:12:32.267 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:12:34.991 [INFO] [YoloDetector] 📊 FPS: 21.7 | Toplam: 109 frame
+2026-01-27 16:12:37.274 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:12:40.015 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:12:42.294 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:12:45.045 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 16:12:46.214 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.982)
+2026-01-27 16:12:46.234 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:46.546 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:12:46.546 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:12:46.690 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:46.697 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:12:47.293 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:12:50.078 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 16:12:52.301 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:12:55.087 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 111 frame
+2026-01-27 16:12:55.716 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.016)
+2026-01-27 16:12:55.724 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:56.036 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:12:56.036 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:12:56.171 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:12:56.314 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:12:57.312 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:13:00.122 [INFO] [YoloDetector] 📊 FPS: 22.4 | Toplam: 113 frame
+2026-01-27 16:13:01.605 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:13:01.612 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:13:01.920 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:13:01.920 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:13:02.057 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:13:02.193 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:13:02.334 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:13:05.126 [INFO] [YoloDetector] 📊 FPS: 22.0 | Toplam: 110 frame
+2026-01-27 16:13:07.163 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 16:13:07.169 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:13:07.333 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:13:07.478 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:13:07.478 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:13:07.612 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:13:07.753 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:13:09.168 [INFO] [StateMachine] Alev onaylandı: 4/8 frame
+2026-01-27 16:13:09.170 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/tapo/detections/fire_confirmed_2026-01-27_13-13-09.jpg
+2026-01-27 16:13:09.170 [INFO] [StateMachine] 🔄 PATROL -> TRACKING
+2026-01-27 16:13:09.177 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:13:09.177 [INFO] [Patrol] ⏸️ DURAKLATILDI.
+2026-01-27 16:13:09.317 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.119, Tilt=-0.205
+2026-01-27 16:13:09.321 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:13:09.362 [INFO] [TRACKING] 📍 Kamera: X=-0.119, Y=-0.205 | UV:0
+2026-01-27 16:13:09.467 [INFO] [PTZ] 🎯 SOFT START: -0.0028, 0.0031
+2026-01-27 16:13:09.467 [DEBUG] [PTZ] 🎬 AbsMove: (-0.1194, -0.2051) -> (-0.1222, -0.2019)
+2026-01-27 16:13:09.689 [INFO] [StateMachine] 🔄 TRACKING -> LOCKED
+2026-01-27 16:13:10.154 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 107 frame
+2026-01-27 16:13:10.355 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:11.378 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:12.340 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:13:12.375 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:13.383 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:14.393 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:15.184 [INFO] [YoloDetector] 📊 FPS: 24.4 | Toplam: 123 frame
+2026-01-27 16:13:15.383 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:16.409 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:17.341 [DEBUG] [MainLoop] Alive. Fire:23% | UV:0.00
+2026-01-27 16:13:17.432 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:18.453 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:19.448 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:20.199 [INFO] [YoloDetector] 📊 FPS: 24.3 | Toplam: 122 frame
+2026-01-27 16:13:20.465 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:21.472 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:22.344 [DEBUG] [MainLoop] Alive. Fire:50% | UV:0.00
+2026-01-27 16:13:22.476 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:23.491 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:24.490 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:25.204 [INFO] [YoloDetector] 📊 FPS: 24.4 | Toplam: 122 frame
+2026-01-27 16:13:25.505 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:26.513 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:27.364 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:13:27.526 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:28.543 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:29.550 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:30.213 [INFO] [YoloDetector] 📊 FPS: 24.8 | Toplam: 124 frame
+2026-01-27 16:13:30.555 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:31.561 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:32.382 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:13:32.580 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:33.584 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:34.607 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:35.224 [INFO] [YoloDetector] 📊 FPS: 24.5 | Toplam: 123 frame
+2026-01-27 16:13:35.610 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:36.618 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:37.394 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:13:37.630 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:38.630 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:39.813 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:40.247 [INFO] [YoloDetector] 📊 FPS: 23.7 | Toplam: 119 frame
+2026-01-27 16:13:40.658 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:41.669 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:42.401 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:13:42.662 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:43.676 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:44.678 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:45.264 [INFO] [YoloDetector] 📊 FPS: 24.7 | Toplam: 124 frame
+2026-01-27 16:13:45.692 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:46.714 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:47.421 [DEBUG] [MainLoop] Alive. Fire:61% | UV:0.00
+2026-01-27 16:13:47.717 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:48.740 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:49.740 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:50.294 [INFO] [YoloDetector] 📊 FPS: 24.3 | Toplam: 122 frame
+2026-01-27 16:13:50.759 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:51.757 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:52.421 [DEBUG] [MainLoop] Alive. Fire:60% | UV:0.00
+2026-01-27 16:13:52.780 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:53.780 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:54.800 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:55.331 [INFO] [YoloDetector] 📊 FPS: 23.4 | Toplam: 118 frame
+2026-01-27 16:13:55.808 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:56.832 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:57.431 [DEBUG] [MainLoop] Alive. Fire:63% | UV:0.00
+2026-01-27 16:13:57.831 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:58.842 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:13:59.848 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:00.346 [INFO] [YoloDetector] 📊 FPS: 23.9 | Toplam: 120 frame
+2026-01-27 16:14:00.853 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:01.880 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:02.458 [DEBUG] [MainLoop] Alive. Fire:30% | UV:0.00
+2026-01-27 16:14:02.912 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:03.911 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:04.922 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:05.366 [INFO] [YoloDetector] 📊 FPS: 24.1 | Toplam: 121 frame
+2026-01-27 16:14:05.924 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:06.953 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:07.461 [DEBUG] [MainLoop] Alive. Fire:67% | UV:0.00
+2026-01-27 16:14:07.958 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:08.982 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:09.990 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:10.382 [INFO] [YoloDetector] 📊 FPS: 24.7 | Toplam: 124 frame
+2026-01-27 16:14:11.010 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:12.035 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:12.466 [DEBUG] [MainLoop] Alive. Fire:55% | UV:0.00
+2026-01-27 16:14:13.033 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:14.060 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:15.074 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:15.401 [INFO] [YoloDetector] 📊 FPS: 24.3 | Toplam: 122 frame
+2026-01-27 16:14:16.074 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:17.081 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:17.456 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:14:18.083 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:19.101 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:20.112 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:20.404 [INFO] [YoloDetector] 📊 FPS: 24.2 | Toplam: 121 frame
+2026-01-27 16:14:21.116 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:22.127 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:22.481 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:14:23.133 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:24.139 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:25.156 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:25.453 [INFO] [YoloDetector] 📊 FPS: 23.8 | Toplam: 120 frame
+2026-01-27 16:14:26.161 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:27.171 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:27.489 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:14:28.176 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:29.187 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:30.195 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:30.453 [INFO] [YoloDetector] 📊 FPS: 24.4 | Toplam: 122 frame
+2026-01-27 16:14:31.206 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:32.208 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:32.498 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:14:33.215 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:34.218 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:35.229 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:35.455 [INFO] [YoloDetector] 📊 FPS: 24.6 | Toplam: 123 frame
+2026-01-27 16:14:36.253 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:37.267 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:37.518 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:14:38.269 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:39.278 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:40.285 [INFO] [LOCKED] 📍 Kamera: X=-0.122, Y=-0.201 | UV:0
+2026-01-27 16:14:40.305 [INFO] [StateMachine] 🔄 LOCKED -> PATROL
+2026-01-27 16:14:40.306 [INFO] [Patrol] ▶️ DEVAM EDİYOR.
+2026-01-27 16:14:40.318 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.122, Tilt=-0.201
+2026-01-27 16:14:40.360 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:14:40.361 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:14:40.477 [INFO] [YoloDetector] 📊 FPS: 24.5 | Toplam: 123 frame
+2026-01-27 16:14:40.496 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:14:40.635 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:14:42.543 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:14:45.508 [INFO] [YoloDetector] 📊 FPS: 23.1 | Toplam: 116 frame
+2026-01-27 16:14:45.919 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:14:45.930 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:14:46.239 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:14:46.240 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:14:46.374 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:14:46.516 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:14:47.548 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:14:50.535 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 16:14:51.509 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 16:14:51.519 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:14:51.828 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:14:51.828 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:14:51.972 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:14:52.136 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:14:52.554 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:14:55.560 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:14:57.542 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:15:00.562 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 113 frame
+2026-01-27 16:15:01.167 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.980)
+2026-01-27 16:15:01.174 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:01.483 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:15:01.483 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:15:01.618 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:01.637 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:15:02.563 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:15:05.589 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 16:15:07.556 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:15:10.620 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 16:15:10.658 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.018)
+2026-01-27 16:15:10.675 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:10.985 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:15:10.985 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:15:11.126 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:11.269 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:15:12.576 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:15:15.643 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:15:16.578 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:15:16.586 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:16.894 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:15:16.895 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:15:17.036 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:17.196 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:15:17.580 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:15:20.661 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 115 frame
+2026-01-27 16:15:22.167 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 16:15:22.173 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:22.482 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:15:22.482 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:15:22.595 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:15:22.649 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:22.816 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:15:25.710 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 110 frame
+2026-01-27 16:15:27.620 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:15:30.717 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 109 frame
+2026-01-27 16:15:32.155 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 16:15:32.163 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:32.479 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:15:32.479 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:15:32.615 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:32.624 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:15:32.756 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:15:35.751 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:15:37.648 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:15:38.046 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:15:38.053 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:38.363 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:15:38.364 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:15:38.498 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:38.637 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:15:40.823 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 114 frame
+2026-01-27 16:15:42.652 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:15:43.605 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 16:15:43.611 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:43.920 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:15:43.920 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:15:44.054 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:15:44.195 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:15:45.894 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 115 frame
+2026-01-27 16:15:47.677 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:15:50.929 [INFO] [YoloDetector] 📊 FPS: 20.3 | Toplam: 102 frame
+2026-01-27 16:15:52.667 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:15:55.970 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 112 frame
+2026-01-27 16:15:57.693 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:16:00.982 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 115 frame
+2026-01-27 16:16:01.285 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-27 16:16:01.291 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:01.600 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:16:01.600 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:16:01.735 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:01.754 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:16:02.698 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:16:06.053 [INFO] [YoloDetector] 📊 FPS: 23.1 | Toplam: 117 frame
+2026-01-27 16:16:07.685 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:16:10.764 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.017)
+2026-01-27 16:16:10.771 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:11.063 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 16:16:11.080 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:16:11.096 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:16:11.235 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:11.373 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:16:12.709 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:16:16.087 [INFO] [YoloDetector] 📊 FPS: 23.3 | Toplam: 117 frame
+2026-01-27 16:16:16.678 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:16:16.685 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:16.995 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:16:16.995 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:16:17.131 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:17.273 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:16:17.693 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:16:21.092 [INFO] [YoloDetector] 📊 FPS: 23.4 | Toplam: 117 frame
+2026-01-27 16:16:22.253 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.174)
+2026-01-27 16:16:22.271 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:22.581 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:16:22.582 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:16:22.703 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:16:22.720 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:22.862 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:16:26.110 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 106 frame
+2026-01-27 16:16:27.723 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:16:31.119 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 108 frame
+2026-01-27 16:16:32.200 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-0.999)
+2026-01-27 16:16:32.207 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:32.516 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:16:32.516 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:16:32.650 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:32.747 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:16:32.791 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:16:36.191 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 114 frame
+2026-01-27 16:16:37.731 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:16:38.073 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:16:38.081 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:38.393 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:16:38.394 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:16:38.529 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:38.670 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:16:41.225 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:16:42.751 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:16:43.641 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 16:16:43.648 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:43.957 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:16:43.957 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:16:44.092 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:16:44.230 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:16:46.228 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 113 frame
+2026-01-27 16:16:47.756 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:16:51.253 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 106 frame
+2026-01-27 16:16:52.761 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:16:56.269 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 16:16:57.780 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:17:01.296 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:17:01.330 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-27 16:17:01.348 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:01.660 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:17:01.661 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:17:01.801 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:01.815 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:17:02.806 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:17:06.332 [INFO] [YoloDetector] 📊 FPS: 23.2 | Toplam: 117 frame
+2026-01-27 16:17:07.809 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:17:10.825 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.016)
+2026-01-27 16:17:10.832 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:11.146 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:17:11.147 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:17:11.282 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:11.344 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 115 frame
+2026-01-27 16:17:11.446 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:17:12.830 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:17:16.374 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:17:16.748 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:17:16.756 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:17.068 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:17:17.069 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:17:17.204 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:17.346 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:17:17.835 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:17:21.395 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 115 frame
+2026-01-27 16:17:22.343 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 16:17:22.352 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:22.666 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:17:22.666 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:17:22.801 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:22.856 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:17:22.965 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:17:26.418 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 16:17:27.852 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:17:31.439 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 115 frame
+2026-01-27 16:17:32.295 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-0.999)
+2026-01-27 16:17:32.306 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:32.617 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:17:32.617 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:17:32.759 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:32.857 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:17:32.924 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:17:36.497 [INFO] [YoloDetector] 📊 FPS: 23.1 | Toplam: 117 frame
+2026-01-27 16:17:37.863 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:17:38.226 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:17:38.234 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:38.546 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:17:38.546 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:17:38.690 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:38.823 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:17:41.561 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 111 frame
+2026-01-27 16:17:42.864 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:17:43.815 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.174)
+2026-01-27 16:17:43.824 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:44.135 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:17:44.135 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:17:44.279 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:17:44.442 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:17:46.574 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:17:47.866 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:17:51.584 [INFO] [YoloDetector] 📊 FPS: 21.2 | Toplam: 106 frame
+2026-01-27 16:17:52.882 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:17:56.586 [INFO] [YoloDetector] 📊 FPS: 22.4 | Toplam: 112 frame
+2026-01-27 16:17:57.882 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:18:01.263 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.986)
+2026-01-27 16:18:01.271 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:01.582 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:18:01.583 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:18:01.613 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 115 frame
+2026-01-27 16:18:01.718 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:01.725 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:18:02.890 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:18:06.654 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 110 frame
+2026-01-27 16:18:07.911 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:18:10.751 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.018)
+2026-01-27 16:18:10.757 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:11.066 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:18:11.066 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:18:11.201 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:11.368 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:18:11.669 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 16:18:12.911 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:18:16.660 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:18:16.669 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:16.674 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 113 frame
+2026-01-27 16:18:16.982 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:18:16.983 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:18:17.118 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:17.258 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:18:17.937 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:18:21.681 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 16:18:22.232 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 16:18:22.240 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:22.549 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:18:22.550 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:18:22.687 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:22.827 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:18:22.954 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:18:26.705 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 16:18:27.958 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:18:31.778 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 108 frame
+2026-01-27 16:18:32.179 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 16:18:32.188 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:32.497 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:18:32.497 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:18:32.632 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:32.796 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:18:32.967 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:18:36.807 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:18:37.958 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:18:38.084 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:18:38.101 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:38.415 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:18:38.416 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:18:38.550 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:38.714 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:18:41.815 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 16:18:42.978 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:18:43.696 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.174)
+2026-01-27 16:18:43.704 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:44.017 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:18:44.017 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:18:44.151 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:18:44.294 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:18:46.816 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 109 frame
+2026-01-27 16:18:47.982 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:18:51.841 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 107 frame
+2026-01-27 16:18:52.984 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:18:56.848 [INFO] [YoloDetector] 📊 FPS: 23.4 | Toplam: 117 frame
+2026-01-27 16:18:57.990 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:19:01.391 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-27 16:19:01.411 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:01.724 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:19:01.724 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:19:01.866 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:01.878 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:19:01.910 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 112 frame
+2026-01-27 16:19:03.012 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:19:06.915 [INFO] [YoloDetector] 📊 FPS: 22.4 | Toplam: 112 frame
+2026-01-27 16:19:08.030 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:19:10.930 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.021)
+2026-01-27 16:19:10.937 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:11.251 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:19:11.251 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:19:11.386 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:11.530 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:19:11.934 [INFO] [YoloDetector] 📊 FPS: 23.1 | Toplam: 116 frame
+2026-01-27 16:19:13.037 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:19:16.811 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:19:16.819 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:16.960 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 16:19:17.134 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:19:17.134 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:19:17.268 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:17.409 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:19:18.055 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:19:22.022 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 115 frame
+2026-01-27 16:19:22.402 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 16:19:22.414 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:22.729 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:19:22.729 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:19:22.865 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:23.028 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:19:23.055 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:19:27.024 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 111 frame
+2026-01-27 16:19:28.057 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:19:32.048 [INFO] [YoloDetector] 📊 FPS: 21.7 | Toplam: 109 frame
+2026-01-27 16:19:32.378 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 16:19:32.385 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:32.694 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:19:32.694 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:19:32.828 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:32.967 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:19:33.082 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:19:37.066 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:19:38.090 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:19:38.259 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:19:38.274 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:38.582 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:19:38.583 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:19:38.718 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:38.856 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:19:42.083 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 115 frame
+2026-01-27 16:19:43.093 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:19:43.826 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 16:19:43.848 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:44.157 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:19:44.157 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:19:44.296 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:19:44.436 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:19:47.109 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:19:48.118 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:19:52.161 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 109 frame
+2026-01-27 16:19:53.121 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:19:57.165 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 113 frame
+2026-01-27 16:19:58.118 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:20:01.305 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.987)
+2026-01-27 16:20:01.323 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:01.636 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:20:01.636 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:20:01.774 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:01.781 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:20:02.168 [INFO] [YoloDetector] 📊 FPS: 22.8 | Toplam: 114 frame
+2026-01-27 16:20:03.125 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:20:07.219 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 112 frame
+2026-01-27 16:20:08.140 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:20:10.846 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.022)
+2026-01-27 16:20:10.853 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:11.164 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:20:11.164 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:20:11.300 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:11.441 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:20:12.235 [INFO] [YoloDetector] 📊 FPS: 21.7 | Toplam: 109 frame
+2026-01-27 16:20:13.153 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:20:16.771 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:20:16.779 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:17.088 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:20:17.088 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:20:17.222 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:17.266 [INFO] [YoloDetector] 📊 FPS: 21.5 | Toplam: 108 frame
+2026-01-27 16:20:17.361 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:20:18.170 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:20:22.297 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 107 frame
+2026-01-27 16:20:22.333 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 16:20:22.340 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:22.648 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:20:22.648 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:20:22.790 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:22.950 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:20:23.171 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:20:27.306 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 108 frame
+2026-01-27 16:20:28.159 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:20:32.260 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 16:20:32.268 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:32.323 [INFO] [YoloDetector] 📊 FPS: 20.5 | Toplam: 103 frame
+2026-01-27 16:20:32.576 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:20:32.577 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:20:32.710 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:32.848 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:20:33.170 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:20:37.329 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 111 frame
+2026-01-27 16:20:38.149 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:20:38.159 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:38.177 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:20:38.468 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:20:38.469 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:20:38.606 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:38.748 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:20:42.352 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 16:20:43.177 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:20:43.720 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 16:20:43.728 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:44.040 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:20:44.040 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:20:44.176 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:20:44.317 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:20:47.393 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 112 frame
+2026-01-27 16:20:48.177 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:20:52.427 [INFO] [YoloDetector] 📊 FPS: 21.7 | Toplam: 109 frame
+2026-01-27 16:20:53.201 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:20:57.431 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 16:20:58.227 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:21:01.117 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.980)
+2026-01-27 16:21:01.124 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:01.439 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:21:01.440 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:21:01.575 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:01.596 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:21:02.492 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 114 frame
+2026-01-27 16:21:03.229 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:21:07.500 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 16:21:08.240 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:21:10.603 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.016)
+2026-01-27 16:21:10.609 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:10.918 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:21:10.919 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:21:11.052 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:11.193 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:21:12.533 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 115 frame
+2026-01-27 16:21:13.246 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:21:16.480 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:21:16.487 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:16.796 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:21:16.797 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:21:16.941 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:17.082 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:21:17.560 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:21:18.256 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:21:22.080 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.178)
+2026-01-27 16:21:22.087 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:22.396 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:21:22.396 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:21:22.530 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:22.574 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 106 frame
+2026-01-27 16:21:22.671 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:21:23.265 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:21:27.580 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 111 frame
+2026-01-27 16:21:28.285 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:21:32.018 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 16:21:32.040 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:32.352 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:21:32.352 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:21:32.487 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:32.630 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:21:32.645 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 114 frame
+2026-01-27 16:21:33.293 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:21:37.658 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 16:21:37.912 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:21:37.920 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:38.230 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:21:38.230 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:21:38.312 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:21:38.365 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:38.529 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:21:42.690 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 16:21:43.319 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:21:43.521 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.176)
+2026-01-27 16:21:43.528 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:43.837 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:21:43.837 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:21:43.971 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:21:44.138 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:21:47.725 [INFO] [YoloDetector] 📊 FPS: 22.8 | Toplam: 115 frame
+2026-01-27 16:21:48.309 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:21:52.729 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 108 frame
+2026-01-27 16:21:53.316 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:21:57.753 [INFO] [YoloDetector] 📊 FPS: 23.3 | Toplam: 117 frame
+2026-01-27 16:21:58.334 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:22:01.230 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-27 16:22:01.238 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:01.548 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:22:01.549 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:22:01.685 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:01.705 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:22:02.760 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 16:22:03.338 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:22:07.776 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 16:22:08.339 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:22:10.737 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.020)
+2026-01-27 16:22:10.750 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:11.065 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:22:11.066 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:22:11.201 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:11.344 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:22:12.800 [INFO] [YoloDetector] 📊 FPS: 23.3 | Toplam: 117 frame
+2026-01-27 16:22:13.341 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:22:16.643 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:22:16.651 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:16.965 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:22:16.966 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:22:17.110 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:17.253 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:22:17.813 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:22:18.346 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:22:22.251 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.178)
+2026-01-27 16:22:22.265 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:22.583 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:22:22.584 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:22:22.719 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:22.840 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:22:22.882 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:22:23.371 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:22:26.855 [INFO] [StateMachine] Alev onaylandı: 4/8 frame
+2026-01-27 16:22:26.856 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/tapo/detections/fire_confirmed_2026-01-27_13-22-26.jpg
+2026-01-27 16:22:26.856 [INFO] [StateMachine] 🔄 PATROL -> TRACKING
+2026-01-27 16:22:26.864 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:26.864 [INFO] [Patrol] ⏸️ DURAKLATILDI.
+2026-01-27 16:22:26.994 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.411, Tilt=-0.213
+2026-01-27 16:22:26.997 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:27.031 [INFO] [TRACKING] 📍 Kamera: X=-0.411, Y=-0.213 | UV:0
+2026-01-27 16:22:27.032 [INFO] [Tracking] 🔥 Alev: 35.5% | Pozisyon: (1659, 981)
+2026-01-27 16:22:27.032 [INFO] [PTZ] 🎯 SOFT START: 0.0549, 0.0866
+2026-01-27 16:22:27.033 [DEBUG] [PTZ] 🎬 AbsMove: (-0.4106, -0.2129) -> (-0.3557, -0.1263)
+2026-01-27 16:22:27.063 [INFO] [StateMachine] 🔄 TRACKING -> PATROL
+2026-01-27 16:22:27.063 [INFO] [Patrol] ▶️ DEVAM EDİYOR.
+2026-01-27 16:22:27.071 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.408, Tilt=-0.213
+2026-01-27 16:22:27.307 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:22:27.308 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:22:27.443 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:27.672 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:22:27.857 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 113 frame
+2026-01-27 16:22:28.362 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:22:32.914 [INFO] [YoloDetector] 📊 FPS: 21.0 | Toplam: 106 frame
+2026-01-27 16:22:32.952 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:22:32.959 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:33.267 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:22:33.268 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:22:33.377 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:22:33.402 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:33.541 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:22:37.960 [INFO] [YoloDetector] 📊 FPS: 22.0 | Toplam: 111 frame
+2026-01-27 16:22:38.295 [INFO] [StateMachine] Alev onaylandı: 4/8 frame
+2026-01-27 16:22:38.296 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/tapo/detections/fire_confirmed_2026-01-27_13-22-38.jpg
+2026-01-27 16:22:38.296 [INFO] [StateMachine] 🔄 PATROL -> TRACKING
+2026-01-27 16:22:38.303 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:38.304 [INFO] [Patrol] ⏸️ DURAKLATILDI.
+2026-01-27 16:22:38.462 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.301, Tilt=-0.154
+2026-01-27 16:22:38.473 [DEBUG] [MainLoop] Alive. Fire:26% | UV:0.00
+2026-01-27 16:22:38.480 [INFO] [TRACKING] 📍 Kamera: X=-0.301, Y=-0.154 | UV:0
+2026-01-27 16:22:38.481 [INFO] [PTZ] 🎯 SOFT START: 0.0486, 0.0538
+2026-01-27 16:22:38.481 [DEBUG] [PTZ] 🎬 AbsMove: (-0.3006, -0.1543) -> (-0.2521, -0.1005)
+2026-01-27 16:22:38.521 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:38.588 [INFO] [StateMachine] 🔄 TRACKING -> PATROL
+2026-01-27 16:22:38.588 [INFO] [Patrol] ▶️ DEVAM EDİYOR.
+2026-01-27 16:22:38.597 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.299, Tilt=-0.154
+2026-01-27 16:22:38.832 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:22:38.832 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:22:38.971 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:39.160 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:22:39.517 [INFO] [StateMachine] Alev onaylandı: 4/8 frame
+2026-01-27 16:22:39.518 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/tapo/detections/fire_confirmed_2026-01-27_13-22-39.jpg
+2026-01-27 16:22:39.518 [INFO] [StateMachine] 🔄 PATROL -> TRACKING
+2026-01-27 16:22:39.525 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:39.525 [INFO] [Patrol] ⏸️ DURAKLATILDI.
+2026-01-27 16:22:39.672 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.214, Tilt=-0.154
+2026-01-27 16:22:39.709 [INFO] [TRACKING] 📍 Kamera: X=-0.214, Y=-0.154 | UV:0
+2026-01-27 16:22:39.710 [INFO] [StateMachine] 🔄 TRACKING -> PATROL
+2026-01-27 16:22:39.710 [INFO] [Patrol] ▶️ DEVAM EDİYOR.
+2026-01-27 16:22:39.718 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.214, Tilt=-0.154
+2026-01-27 16:22:39.792 [INFO] [StateMachine] Alev onaylandı: 4/4 frame
+2026-01-27 16:22:39.794 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/tapo/detections/fire_confirmed_2026-01-27_13-22-39.jpg
+2026-01-27 16:22:39.796 [INFO] [StateMachine] 🔄 PATROL -> TRACKING
+2026-01-27 16:22:39.804 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:39.805 [INFO] [Patrol] ⏸️ DURAKLATILDI.
+2026-01-27 16:22:39.824 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.214, Tilt=-0.154
+2026-01-27 16:22:39.835 [INFO] [PTZ] 🎯 SOFT START: 0.0364, 0.0504
+2026-01-27 16:22:39.835 [DEBUG] [PTZ] 🎬 AbsMove: (-0.2145, -0.1543) -> (-0.1781, -0.1038)
+2026-01-27 16:22:39.860 [INFO] [StateMachine] 🔄 TRACKING -> PATROL
+2026-01-27 16:22:39.860 [INFO] [Patrol] ▶️ DEVAM EDİYOR.
+2026-01-27 16:22:39.868 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.211, Tilt=-0.154
+2026-01-27 16:22:39.950 [INFO] [StateMachine] Alev onaylandı: 4/5 frame
+2026-01-27 16:22:39.951 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/tapo/detections/fire_confirmed_2026-01-27_13-22-39.jpg
+2026-01-27 16:22:39.951 [INFO] [StateMachine] 🔄 PATROL -> TRACKING
+2026-01-27 16:22:39.958 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:39.959 [INFO] [Patrol] ⏸️ DURAKLATILDI.
+2026-01-27 16:22:40.081 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.191, Tilt=-0.154
+2026-01-27 16:22:40.098 [INFO] [PTZ] 🎯 SOFT START: 0.0328, 0.0467
+2026-01-27 16:22:40.111 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:22:40.716 [INFO] [TRACKING] 📍 Kamera: X=-0.191, Y=-0.154 | UV:0
+2026-01-27 16:22:41.716 [INFO] [TRACKING] 📍 Kamera: X=-0.191, Y=-0.154 | UV:0
+2026-01-27 16:22:42.719 [INFO] [TRACKING] 📍 Kamera: X=-0.191, Y=-0.154 | UV:0
+2026-01-27 16:22:42.989 [INFO] [YoloDetector] 📊 FPS: 23.3 | Toplam: 117 frame
+2026-01-27 16:22:43.490 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:22:43.732 [INFO] [TRACKING] 📍 Kamera: X=-0.191, Y=-0.154 | UV:0
+2026-01-27 16:22:44.733 [INFO] [TRACKING] 📍 Kamera: X=-0.191, Y=-0.154 | UV:0
+2026-01-27 16:22:45.233 [DEBUG] [PTZ] 🎬 AbsMove: (-0.1907, -0.1543) -> (-0.0961, -0.0097)
+2026-01-27 16:22:45.733 [INFO] [TRACKING] 📍 Kamera: X=-0.106, Y=-0.154 | UV:0
+2026-01-27 16:22:46.753 [INFO] [TRACKING] 📍 Kamera: X=-0.097, Y=-0.010 | UV:0
+2026-01-27 16:22:46.972 [DEBUG] [PTZ] 🎬 AbsMove: (-0.0961, -0.0097) -> (-0.0647, 0.0610)
+2026-01-27 16:22:47.741 [INFO] [TRACKING] 📍 Kamera: X=-0.065, Y=0.061 | UV:0
+2026-01-27 16:22:48.012 [INFO] [YoloDetector] 📊 FPS: 24.7 | Toplam: 124 frame
+2026-01-27 16:22:48.482 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:22:48.748 [INFO] [TRACKING] 📍 Kamera: X=-0.065, Y=0.061 | UV:0
+2026-01-27 16:22:49.779 [INFO] [TRACKING] 📍 Kamera: X=-0.065, Y=0.061 | UV:0
+2026-01-27 16:22:50.099 [DEBUG] [PTZ] 🎬 AbsMove: (-0.0647, 0.0610) -> (-0.0568, 0.0852)
+2026-01-27 16:22:50.760 [INFO] [TRACKING] 📍 Kamera: X=-0.057, Y=0.086 | UV:0
+2026-01-27 16:22:50.818 [INFO] [StateMachine] 🔄 TRACKING -> LOCKED
+2026-01-27 16:22:51.787 [INFO] [LOCKED] 📍 Kamera: X=-0.057, Y=0.086 | UV:0
+2026-01-27 16:22:52.812 [INFO] [LOCKED] 📍 Kamera: X=-0.057, Y=0.086 | UV:0
+2026-01-27 16:22:53.021 [INFO] [YoloDetector] 📊 FPS: 24.4 | Toplam: 122 frame
+2026-01-27 16:22:53.498 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:22:53.819 [INFO] [LOCKED] 📍 Kamera: X=-0.057, Y=0.086 | UV:0
+2026-01-27 16:22:54.838 [INFO] [LOCKED] 📍 Kamera: X=-0.057, Y=0.086 | UV:0
+2026-01-27 16:22:55.859 [INFO] [LOCKED] 📍 Kamera: X=-0.057, Y=0.086 | UV:0
+2026-01-27 16:22:56.886 [INFO] [LOCKED] 📍 Kamera: X=-0.057, Y=0.086 | UV:0
+2026-01-27 16:22:57.905 [INFO] [LOCKED] 📍 Kamera: X=-0.057, Y=0.086 | UV:0
+2026-01-27 16:22:58.026 [INFO] [YoloDetector] 📊 FPS: 24.4 | Toplam: 122 frame
+2026-01-27 16:22:58.499 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:22:58.899 [INFO] [LOCKED] 📍 Kamera: X=-0.057, Y=0.086 | UV:0
+2026-01-27 16:22:59.914 [INFO] [LOCKED] 📍 Kamera: X=-0.057, Y=0.086 | UV:0
+2026-01-27 16:23:00.303 [INFO] [StateMachine] 🔄 LOCKED -> TRACKING
+2026-01-27 16:23:00.304 [DEBUG] [PTZ] 🎬 AbsMove: (-0.0568, 0.0852) -> (-0.0636, -0.0149)
+2026-01-27 16:23:00.919 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:01.939 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:02.941 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:03.045 [INFO] [YoloDetector] 📊 FPS: 24.1 | Toplam: 121 frame
+2026-01-27 16:23:03.517 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:23:03.957 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:04.968 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:05.987 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:06.995 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:08.023 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:08.069 [INFO] [YoloDetector] 📊 FPS: 24.7 | Toplam: 124 frame
+2026-01-27 16:23:08.539 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:23:09.029 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:10.060 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:11.058 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:12.061 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:13.070 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:13.071 [INFO] [YoloDetector] 📊 FPS: 24.0 | Toplam: 120 frame
+2026-01-27 16:23:13.545 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:23:14.097 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:15.099 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:16.101 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:17.099 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:18.072 [INFO] [YoloDetector] 📊 FPS: 24.6 | Toplam: 123 frame
+2026-01-27 16:23:18.111 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:18.549 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:23:19.112 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:20.137 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:21.140 [INFO] [TRACKING] 📍 Kamera: X=-0.064, Y=-0.016 | UV:0
+2026-01-27 16:23:21.623 [INFO] [StateMachine] 🔄 TRACKING -> PATROL
+2026-01-27 16:23:21.624 [INFO] [Patrol] ▶️ DEVAM EDİYOR.
+2026-01-27 16:23:21.632 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.064, Tilt=-0.016
+2026-01-27 16:23:21.671 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:23:21.671 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:23:21.806 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:23:21.826 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:23:21.842 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.049)
+2026-01-27 16:23:21.855 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:23:22.166 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:23:22.167 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:23:22.309 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:23:22.474 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:23:23.105 [INFO] [YoloDetector] 📊 FPS: 24.2 | Toplam: 122 frame
+2026-01-27 16:23:23.573 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:23:26.859 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:23:26.866 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:23:27.175 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:23:27.175 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:23:27.310 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:23:27.453 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:23:28.134 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:23:28.579 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:23:32.461 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.180)
+2026-01-27 16:23:32.468 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:23:32.777 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:23:32.777 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:23:32.919 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:23:33.082 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:23:33.168 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:23:33.602 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:23:38.184 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:23:38.611 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:23:42.105 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 16:23:42.112 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:23:42.421 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:23:42.421 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:23:42.556 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:23:42.721 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:23:43.202 [INFO] [YoloDetector] 📊 FPS: 23.5 | Toplam: 118 frame
+2026-01-27 16:23:43.636 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:23:48.016 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:23:48.023 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:23:48.216 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 110 frame
+2026-01-27 16:23:48.332 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:23:48.332 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:23:48.467 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:23:48.610 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:23:48.622 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:23:53.248 [INFO] [YoloDetector] 📊 FPS: 23.1 | Toplam: 116 frame
+2026-01-27 16:23:53.581 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 16:23:53.588 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:23:53.643 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:23:53.897 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:23:53.897 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:23:54.031 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:23:54.169 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:23:58.271 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 16:23:58.635 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:24:03.282 [INFO] [YoloDetector] 📊 FPS: 22.0 | Toplam: 110 frame
+2026-01-27 16:24:03.642 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:24:08.347 [INFO] [YoloDetector] 📊 FPS: 21.9 | Toplam: 111 frame
+2026-01-27 16:24:08.664 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:24:11.268 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-27 16:24:11.288 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:11.599 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:24:11.600 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:24:11.737 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:11.754 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:24:13.381 [INFO] [YoloDetector] 📊 FPS: 23.8 | Toplam: 120 frame
+2026-01-27 16:24:13.669 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:24:18.417 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 114 frame
+2026-01-27 16:24:18.673 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:24:20.816 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.023)
+2026-01-27 16:24:20.823 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:21.132 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:24:21.133 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:24:21.267 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:21.405 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:24:23.447 [INFO] [YoloDetector] 📊 FPS: 23.5 | Toplam: 118 frame
+2026-01-27 16:24:23.695 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:24:26.687 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:24:26.696 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:27.006 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:24:27.006 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:24:27.142 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:27.285 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:24:28.453 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 108 frame
+2026-01-27 16:24:28.702 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:24:32.265 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.174)
+2026-01-27 16:24:32.284 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:32.596 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:24:32.596 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:24:32.741 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:32.884 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:24:33.455 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 111 frame
+2026-01-27 16:24:33.702 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:24:38.488 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 16:24:38.720 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:24:42.205 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 16:24:42.214 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:42.523 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:24:42.524 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:24:42.658 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:42.822 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:24:43.524 [INFO] [YoloDetector] 📊 FPS: 22.4 | Toplam: 113 frame
+2026-01-27 16:24:43.729 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:24:48.113 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:24:48.124 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:48.433 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:24:48.433 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:24:48.535 [INFO] [YoloDetector] 📊 FPS: 22.0 | Toplam: 110 frame
+2026-01-27 16:24:48.570 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:48.711 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:24:48.716 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:24:53.545 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 113 frame
+2026-01-27 16:24:53.692 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.174)
+2026-01-27 16:24:53.699 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:53.729 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:24:54.008 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:24:54.008 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:24:54.143 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:24:54.310 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:24:58.606 [INFO] [YoloDetector] 📊 FPS: 21.5 | Toplam: 109 frame
+2026-01-27 16:24:58.738 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:25:03.624 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 16:25:03.747 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:25:08.648 [INFO] [YoloDetector] 📊 FPS: 23.1 | Toplam: 116 frame
+2026-01-27 16:25:08.752 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:25:11.112 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (0.980)
+2026-01-27 16:25:11.121 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:11.430 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:25:11.431 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:25:11.569 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:11.576 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:25:13.674 [INFO] [YoloDetector] 📊 FPS: 24.3 | Toplam: 122 frame
+2026-01-27 16:25:13.772 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:25:18.738 [INFO] [YoloDetector] 📊 FPS: 23.1 | Toplam: 117 frame
+2026-01-27 16:25:18.768 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:25:20.568 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.014)
+2026-01-27 16:25:20.574 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:20.883 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:25:20.883 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:25:21.017 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:21.157 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:25:23.766 [INFO] [YoloDetector] 📊 FPS: 24.3 | Toplam: 122 frame
+2026-01-27 16:25:23.786 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:25:26.443 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:25:26.450 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:26.758 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:25:26.760 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:25:26.904 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:27.046 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:25:28.772 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:25:28.778 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:25:32.027 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.174)
+2026-01-27 16:25:32.038 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:32.348 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:25:32.348 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:25:32.490 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:32.655 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:25:33.777 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:25:33.813 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 110 frame
+2026-01-27 16:25:36.295 [INFO] [StateMachine] Alev onaylandı: 4/8 frame
+2026-01-27 16:25:36.296 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/tapo/detections/fire_confirmed_2026-01-27_13-25-36.jpg
+2026-01-27 16:25:36.296 [INFO] [StateMachine] 🔄 PATROL -> TRACKING
+2026-01-27 16:25:36.304 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:36.304 [INFO] [Patrol] ⏸️ DURAKLATILDI.
+2026-01-27 16:25:36.436 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.365, Tilt=-0.209
+2026-01-27 16:25:36.440 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:36.455 [INFO] [TRACKING] 📍 Kamera: X=-0.365, Y=-0.209 | UV:0
+2026-01-27 16:25:36.455 [INFO] [StateMachine] 🔄 TRACKING -> PATROL
+2026-01-27 16:25:36.455 [INFO] [Patrol] ▶️ DEVAM EDİYOR.
+2026-01-27 16:25:36.480 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.365, Tilt=-0.209
+2026-01-27 16:25:36.676 [INFO] [StateMachine] Alev onaylandı: 4/8 frame
+2026-01-27 16:25:36.678 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/tapo/detections/fire_confirmed_2026-01-27_13-25-36.jpg
+2026-01-27 16:25:36.678 [INFO] [StateMachine] 🔄 PATROL -> TRACKING
+2026-01-27 16:25:36.686 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:36.686 [INFO] [Patrol] ⏸️ DURAKLATILDI.
+2026-01-27 16:25:36.693 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.365, Tilt=-0.209
+2026-01-27 16:25:36.709 [INFO] [PTZ] 🎯 SOFT START: 0.0604, 0.0230
+2026-01-27 16:25:36.709 [DEBUG] [PTZ] 🎬 AbsMove: (-0.3650, -0.2090) -> (-0.3047, -0.1860)
+2026-01-27 16:25:36.747 [INFO] [StateMachine] 🔄 TRACKING -> PATROL
+2026-01-27 16:25:36.747 [INFO] [Patrol] ▶️ DEVAM EDİYOR.
+2026-01-27 16:25:36.757 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.361, Tilt=-0.209
+2026-01-27 16:25:36.851 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:25:36.852 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:25:36.943 [INFO] [StateMachine] Alev onaylandı: 4/8 frame
+2026-01-27 16:25:36.944 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/tapo/detections/fire_confirmed_2026-01-27_13-25-36.jpg
+2026-01-27 16:25:36.944 [INFO] [StateMachine] 🔄 PATROL -> TRACKING
+2026-01-27 16:25:36.956 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:36.956 [INFO] [Patrol] ⏸️ DURAKLATILDI.
+2026-01-27 16:25:37.196 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.310, Tilt=-0.209
+2026-01-27 16:25:37.201 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:37.207 [INFO] [StateMachine] 🔄 TRACKING -> PATROL
+2026-01-27 16:25:37.207 [INFO] [Patrol] ▶️ DEVAM EDİYOR.
+2026-01-27 16:25:37.211 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:25:37.217 [INFO] [CameraDriver] 🌱 Seed: Pan=-0.310, Tilt=-0.207
+2026-01-27 16:25:38.781 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:25:38.823 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 16:25:42.507 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:25:42.514 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:42.824 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:25:42.825 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:25:42.963 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:43.104 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:25:43.806 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:25:43.852 [INFO] [YoloDetector] 📊 FPS: 23.5 | Toplam: 118 frame
+2026-01-27 16:25:48.103 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.178)
+2026-01-27 16:25:48.118 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:48.432 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:25:48.433 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:25:48.568 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:25:48.733 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:25:48.819 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:25:48.861 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 109 frame
+2026-01-27 16:25:53.824 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:25:53.877 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 16:25:58.836 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:25:58.879 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 16:25:59.951 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-27 16:25:59.958 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:00.274 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:26:00.275 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:26:00.411 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:00.420 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:26:03.859 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:26:03.903 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 16:26:08.878 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:26:08.921 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 114 frame
+2026-01-27 16:26:09.462 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.020)
+2026-01-27 16:26:09.473 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:09.783 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:26:09.784 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:26:09.925 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:10.089 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:26:13.898 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:26:13.945 [INFO] [YoloDetector] 📊 FPS: 23.3 | Toplam: 117 frame
+2026-01-27 16:26:15.407 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:26:15.415 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:15.724 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:26:15.724 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:26:15.869 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:16.029 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:26:18.902 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:26:18.948 [INFO] [YoloDetector] 📊 FPS: 23.6 | Toplam: 118 frame
+2026-01-27 16:26:21.009 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.174)
+2026-01-27 16:26:21.018 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:21.326 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:26:21.326 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:26:21.467 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:21.628 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:26:23.921 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:26:23.967 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 111 frame
+2026-01-27 16:26:28.930 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:26:28.973 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 108 frame
+2026-01-27 16:26:30.958 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-0.998)
+2026-01-27 16:26:30.964 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:31.273 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:26:31.274 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:26:31.408 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:31.577 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:26:33.931 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:26:33.974 [INFO] [YoloDetector] 📊 FPS: 23.0 | Toplam: 115 frame
+2026-01-27 16:26:36.879 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:26:36.886 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:37.194 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:26:37.194 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:26:37.329 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:37.495 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:26:38.952 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:26:39.046 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 112 frame
+2026-01-27 16:26:42.498 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.178)
+2026-01-27 16:26:42.511 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:42.819 [INFO] [Patrol] ➡️ SAĞA hareketi başlıyor (Hedef: 0.98, vx=0.4, vy=0)...
+2026-01-27 16:26:42.820 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:26:42.956 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:26:43.097 [INFO] [Patrol] move_continuous(0.4, 0) sonucu: True
+2026-01-27 16:26:43.939 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:26:44.057 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 111 frame
+2026-01-27 16:26:48.942 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:26:49.061 [INFO] [YoloDetector] 📊 FPS: 21.4 | Toplam: 107 frame
+2026-01-27 16:26:53.964 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:26:54.097 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 112 frame
+2026-01-27 16:26:58.956 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:26:59.110 [INFO] [YoloDetector] 📊 FPS: 22.9 | Toplam: 115 frame
+2026-01-27 16:27:00.192 [INFO] [Patrol] ✅ SAĞA hedefe ulaşıldı (1.000)
+2026-01-27 16:27:00.204 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:27:00.513 [INFO] [Patrol] ➡️ MERKEZE hareketi başlıyor (Hedef: 0.00, vx=-0.4, vy=0)...
+2026-01-27 16:27:00.513 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:27:00.648 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:27:00.655 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:27:03.977 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:27:04.135 [INFO] [YoloDetector] 📊 FPS: 23.3 | Toplam: 117 frame
+2026-01-27 16:27:08.984 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:27:09.140 [INFO] [YoloDetector] 📊 FPS: 23.6 | Toplam: 118 frame
+2026-01-27 16:27:09.706 [INFO] [Patrol] ✅ MERKEZE hedefe ulaşıldı (-0.020)
+2026-01-27 16:27:09.725 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:27:10.035 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:27:10.035 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:27:10.179 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:27:10.316 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
+2026-01-27 16:27:13.991 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:27:14.185 [INFO] [YoloDetector] 📊 FPS: 22.4 | Toplam: 113 frame
+2026-01-27 16:27:15.603 [INFO] [Patrol] ✅ YUKARI hedefe ulaşıldı (1.000)
+2026-01-27 16:27:15.618 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:27:15.932 [INFO] [Patrol] ➡️ AŞAĞI hareketi başlıyor (Hedef: -0.15, vx=0, vy=0.4)...
+2026-01-27 16:27:15.933 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:27:16.071 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:27:16.210 [INFO] [Patrol] move_continuous(0, 0.4) sonucu: True
+2026-01-27 16:27:18.998 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:27:19.190 [INFO] [YoloDetector] 📊 FPS: 23.6 | Toplam: 118 frame
+2026-01-27 16:27:21.183 [INFO] [Patrol] ✅ AŞAĞI hedefe ulaşıldı (-0.172)
+2026-01-27 16:27:21.194 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:27:21.503 [INFO] [Patrol] ➡️ SOLA hareketi başlıyor (Hedef: -0.98, vx=-0.4, vy=0)...
+2026-01-27 16:27:21.504 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:27:21.640 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:27:21.803 [INFO] [Patrol] move_continuous(-0.4, 0) sonucu: True
+2026-01-27 16:27:23.998 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:27:24.220 [INFO] [YoloDetector] 📊 FPS: 22.3 | Toplam: 112 frame
+2026-01-27 16:27:29.013 [DEBUG] [MainLoop] Alive. No Fire | UV:0.00
+2026-01-27 16:27:29.242 [INFO] [YoloDetector] 📊 FPS: 20.9 | Toplam: 105 frame
+2026-01-27 16:27:31.150 [INFO] [Patrol] ✅ SOLA hedefe ulaşıldı (-1.000)
+2026-01-27 16:27:31.157 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:27:31.466 [INFO] [Patrol] ➡️ YUKARI hareketi başlıyor (Hedef: 1.00, vx=0, vy=-0.4)...
+2026-01-27 16:27:31.466 [INFO] [PTZ] Uyandırma (Wake Pulse)...
+2026-01-27 16:27:31.601 [DEBUG] [PTZ] STOP sent
+2026-01-27 16:27:31.738 [INFO] [Patrol] move_continuous(0, -0.4) sonucu: True
