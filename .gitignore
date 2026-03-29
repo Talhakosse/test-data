@@ -1,0 +1,8 @@
+.env
+logs/
+detections/
+*.log
+*.jpg
+*.jpeg
+*.png
+*.mp4
