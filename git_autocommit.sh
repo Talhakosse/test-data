@@ -2,7 +2,7 @@
 set -e
 
 # Repo dizini (logların olduğu yer)
-REPO_DIR="/opt/tapo"
+REPO_DIR="/opt/tapo/logs"
 
 cd "$REPO_DIR"
 

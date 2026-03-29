@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 
-REPO_DIR="/opt/tapo"
-WATCH_DIR="/opt/tapo/detections"
+REPO_DIR="/opt/tapo/logs"
+WATCH_DIR="/opt/tapo/logs/detections"
 LOCK_FILE="/tmp/fire_git.lock"
 
 cd "$REPO_DIR"
