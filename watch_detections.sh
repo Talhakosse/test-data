@@ -1,6 +1,6 @@
 #!/bin/bash
 
-WATCH_DIR="/opt/fire/logs/detection"   # detection klasörün buysa değiştir
+WATCH_DIR="/opt/fire/logs/detections"   # detection klasörün buysa değiştir
 REPO_DIR="/opt/fire"
 
 inotifywait -m -e close_write,create,moved_to "$WATCH_DIR" |
