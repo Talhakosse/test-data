@@ -2854,3 +2854,49 @@ Conf Threshold:0.5
 2026-04-27 15:54:35.596 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.3°)
 2026-04-27 15:54:35.608 [DEBUG] [PTZ] STOP sent
 2026-04-27 15:54:36.130 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 15:54:45.558 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-27 15:54:45.570 [DEBUG] [PTZ] STOP sent
+2026-04-27 15:54:49.214 [INFO] [YoloDetector] 📊 FPS: 21.5 | Toplam: 430 frame
+2026-04-27 15:54:51.149 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 15:54:58.391 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.8°)
+2026-04-27 15:54:58.403 [DEBUG] [PTZ] STOP sent
+2026-04-27 15:55:06.159 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 15:55:09.260 [INFO] [YoloDetector] 📊 FPS: 19.7 | Toplam: 394 frame
+2026-04-27 15:55:11.230 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.5°)
+2026-04-27 15:55:11.244 [DEBUG] [PTZ] STOP sent
+2026-04-27 15:55:16.951 [INFO] [StateMachine] Alev onaylandi: 4/8 frame
+2026-04-27 15:55:16.951 [INFO] [StateMachine] PATROL -> TRACKING
+2026-04-27 15:55:16.990 [DEBUG] [PTZ] STOP sent
+2026-04-27 15:55:16.990 [INFO] [Patrol] DURAKLATILDI.
+2026-04-27 15:55:17.045 [INFO] [CameraDriver] Seed: Pan=65.1, Tilt=20.5
+2026-04-27 15:55:17.079 [DEBUG] [PTZ] STOP sent
+2026-04-27 15:55:17.102 [INFO] [TRACKING] 📍 Kamera: X=66.300, Y=20.500 | UV:1
+2026-04-27 15:55:17.379 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 1)
+2026-04-27 15:55:17.401 [INFO] [PTZ] SOFT START: 1.20, -1.20
+2026-04-27 15:55:17.401 [DEBUG] [PTZ] AbsMove: (65.1, 20.5) -> (66.3, 19.3)
+2026-04-27 15:55:20.122 [INFO] [TRACKING] 📍 Kamera: X=66.300, Y=19.300 | UV:1
+2026-04-27 15:55:20.366 [DEBUG] [PTZ] AbsMove: (66.3, 19.3) -> (70.3, 15.3)
+2026-04-27 15:55:21.048 [INFO] [Tracking] 🔥 Alev: 52.5% | Pozisyon: (1106, 285)
+2026-04-27 15:55:21.059 [INFO] [Tracking] 🔥 Alev: 52.5% | Pozisyon: (1106, 285)
+2026-04-27 15:55:21.069 [INFO] [Tracking] 🔥 Alev: 52.5% | Pozisyon: (1106, 285)
+2026-04-27 15:55:21.080 [INFO] [Tracking] 🔥 Alev: 52.5% | Pozisyon: (1106, 285)
+2026-04-27 15:55:21.091 [INFO] [Tracking] 🔥 Alev: 52.5% | Pozisyon: (1106, 285)
+2026-04-27 15:55:21.165 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 15:55:21.576 [DEBUG] [PTZ] AbsMove: (70.3, 15.3) -> (74.0, 11.3)
+2026-04-27 15:55:23.195 [INFO] [TRACKING] 📍 Kamera: X=73.900, Y=11.300 | UV:1
+2026-04-27 15:55:26.235 [INFO] [TRACKING] 📍 Kamera: X=73.900, Y=11.300 | UV:1
+2026-04-27 15:55:29.268 [INFO] [YoloDetector] 📊 FPS: 18.2 | Toplam: 364 frame
+2026-04-27 15:55:29.282 [INFO] [TRACKING] 📍 Kamera: X=73.900, Y=11.300 | UV:1
+2026-04-27 15:55:32.312 [INFO] [TRACKING] 📍 Kamera: X=73.900, Y=11.300 | UV:1
+2026-04-27 15:55:35.336 [INFO] [TRACKING] 📍 Kamera: X=73.900, Y=11.300 | UV:1
+2026-04-27 15:55:36.166 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 15:55:38.375 [INFO] [TRACKING] 📍 Kamera: X=73.900, Y=11.300 | UV:1
+2026-04-27 15:55:41.395 [INFO] [TRACKING] 📍 Kamera: X=73.900, Y=11.300 | UV:1
+2026-04-27 15:55:44.414 [INFO] [TRACKING] 📍 Kamera: X=73.900, Y=11.300 | UV:1
+2026-04-27 15:55:46.865 [INFO] [StateMachine] TRACKING -> PATROL
+2026-04-27 15:55:46.866 [INFO] [Patrol] DEVAM EDİYOR.
+2026-04-27 15:55:46.876 [INFO] [CameraDriver] Seed: Pan=73.9, Tilt=11.3
+2026-04-27 15:55:46.989 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (73.9°)
+2026-04-27 15:55:47.012 [DEBUG] [PTZ] STOP sent
+2026-04-27 15:55:49.269 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 442 frame
+2026-04-27 15:55:51.171 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
