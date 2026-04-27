@@ -3211,3 +3211,137 @@ Conf Threshold:0.65
 2026-04-27 18:31:14.968 [DEBUG] [PTZ] AbsMove: (278.5, 20.8) -> (282.5, 24.8)
 2026-04-27 18:31:15.071 [INFO] [Tracking] 🔥 Alev: 68.6% | Pozisyon: (1465, 1000)
 2026-04-27 18:31:15.082 [INFO] [Tracking] 🔥 Alev: 68.6% | Pozisyon: (1465, 1000)
+2026-04-27 18:31:16.366 [DEBUG] [PTZ] AbsMove: (282.5, 24.8) -> (286.5, 28.8)
+2026-04-27 18:31:17.022 [INFO] [TRACKING] 📍 Kamera: X=285.100, Y=28.800 | UV:1
+2026-04-27 18:31:17.373 [DEBUG] [PTZ] AbsMove: (286.5, 28.8) -> (290.5, 32.8)
+2026-04-27 18:31:18.011 [INFO] [Tracking] 🔥 Alev: 73.4% | Pozisyon: (1352, 813)
+2026-04-27 18:31:18.022 [INFO] [Tracking] 🔥 Alev: 73.4% | Pozisyon: (1352, 813)
+2026-04-27 18:31:18.033 [INFO] [Tracking] 🔥 Alev: 73.4% | Pozisyon: (1352, 813)
+2026-04-27 18:31:18.043 [INFO] [Tracking] 🔥 Alev: 73.4% | Pozisyon: (1352, 813)
+2026-04-27 18:31:18.054 [INFO] [Tracking] 🔥 Alev: 73.4% | Pozisyon: (1352, 813)
+2026-04-27 18:31:18.363 [DEBUG] [PTZ] AbsMove: (290.5, 32.8) -> (294.5, 36.8)
+2026-04-27 18:31:19.377 [DEBUG] [PTZ] AbsMove: (294.5, 36.8) -> (298.5, 39.6)
+2026-04-27 18:31:20.061 [INFO] [TRACKING] 📍 Kamera: X=295.600, Y=39.400 | UV:1
+2026-04-27 18:31:20.392 [DEBUG] [PTZ] AbsMove: (298.5, 39.6) -> (302.5, 40.5)
+2026-04-27 18:31:21.017 [INFO] [Tracking] 🔥 Alev: 78.9% | Pozisyon: (1150, 558)
+2026-04-27 18:31:21.027 [INFO] [Tracking] 🔥 Alev: 78.9% | Pozisyon: (1150, 558)
+2026-04-27 18:31:21.038 [INFO] [Tracking] 🔥 Alev: 78.9% | Pozisyon: (1150, 558)
+2026-04-27 18:31:21.048 [INFO] [Tracking] 🔥 Alev: 78.9% | Pozisyon: (1150, 558)
+2026-04-27 18:31:21.059 [INFO] [Tracking] 🔥 Alev: 78.9% | Pozisyon: (1150, 558)
+2026-04-27 18:31:21.086 [INFO] [Tracking] 🔥 Alev: 78.1% | Pozisyon: (1149, 559)
+2026-04-27 18:31:21.096 [INFO] [Tracking] 🔥 Alev: 78.1% | Pozisyon: (1149, 559)
+2026-04-27 18:31:21.401 [DEBUG] [PTZ] AbsMove: (302.5, 40.5) -> (306.5, 40.5)
+2026-04-27 18:31:22.403 [DEBUG] [PTZ] AbsMove: (306.5, 40.5) -> (310.5, 40.3)
+2026-04-27 18:31:22.614 [INFO] [YoloDetector] 📊 FPS: 18.2 | Toplam: 365 frame
+2026-04-27 18:31:23.078 [INFO] [TRACKING] 📍 Kamera: X=307.500, Y=40.300 | UV:1
+2026-04-27 18:31:23.404 [DEBUG] [PTZ] AbsMove: (310.5, 40.3) -> (311.8, 39.9)
+2026-04-27 18:31:23.638 [INFO] [StateMachine] TRACKING -> LOCKED
+2026-04-27 18:31:24.450 [INFO] [StateMachine] LOCKED -> TRACKING
+2026-04-27 18:31:24.451 [DEBUG] [PTZ] AbsMove: (311.8, 39.9) -> (310.5, 39.3)
+2026-04-27 18:31:25.443 [DEBUG] [PTZ] AbsMove: (310.5, 39.3) -> (309.4, 38.9)
+2026-04-27 18:31:26.123 [INFO] [TRACKING] 📍 Kamera: X=309.300, Y=38.900 | UV:1
+2026-04-27 18:31:26.369 [INFO] [StateMachine] TRACKING -> LOCKED
+2026-04-27 18:31:28.378 [INFO] [StateMachine] LOCKED -> FIRING
+2026-04-27 18:31:28.379 [INFO] [Main] 🔥 NORMAL ATEŞ! Pan:309.375 Tilt:38.927
+2026-04-27 18:31:28.379 [INFO] [KlipperBridge] KAMERA SENKRONIZE ATES SEKANSI BASLIYOR...
+2026-04-27 18:31:28.389 [INFO] [KlipperBridge] Kamera konumu kaydedildi: pan=309.3
+2026-04-27 18:31:28.641 [INFO] [KlipperBridge] Homing (G28)...
+2026-04-27 18:31:30.148 [INFO] [Klipper] ==================== BASINÇ ÖLÇÜMÜ ====================
+2026-04-27 18:31:30.148 [INFO] [Sensors] Basınç baseline toplanıyor (7.0s)...
+2026-04-27 18:31:30.650 [DEBUG] [Sensors] T=0.5s P=0.02 bar
+2026-04-27 18:31:31.151 [DEBUG] [Sensors] T=1.0s P=0.00 bar
+2026-04-27 18:31:33.155 [DEBUG] [Sensors] T=3.0s P=0.02 bar
+2026-04-27 18:31:34.658 [DEBUG] [Sensors] T=4.5s P=0.00 bar
+2026-04-27 18:31:35.160 [DEBUG] [Sensors] T=5.0s P=0.02 bar
+2026-04-27 18:31:37.163 [INFO] [Sensors] Baseline tamamlandı: 5 ölçüm, medyan=0.02 bar
+2026-04-27 18:31:37.164 [INFO] [Klipper] Basınç ölçümü BAŞARILI: 0.02 bar (5 ölçüm)
+2026-04-27 18:31:37.165 [INFO] [Klipper] ========================================================
+2026-04-27 18:31:37.167 [INFO] [Nozzle] Tilt=38.9° → D=12.11m → D_corr=12.31m | P=0.02bar → X=238.02
+2026-04-27 18:31:37.167 [INFO] [KlipperBridge] Kamera->118, Nozul->X:238.02 Y:2912.67, P:0.02bar
+2026-04-27 18:31:37.168 [DEBUG] [PTZ] AbsMove: (309.4, 38.9) -> (118.5, 38.9)
+2026-04-27 18:31:42.655 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 426 frame
+2026-04-27 18:32:02.655 [INFO] [YoloDetector] 📊 FPS: 18.6 | Toplam: 373 frame
+2026-04-27 18:32:07.219 [WARNING] [KlipperBridge] Timeout (deneme 1/3)
+2026-04-27 18:32:22.723 [INFO] [YoloDetector] 📊 FPS: 20.1 | Toplam: 403 frame
+2026-04-27 18:32:27.123 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:32:27.123 [INFO] [Camera] Merkeze ulasildi: pan=118.5
+2026-04-27 18:32:27.134 [INFO] [KlipperBridge] Kamera pozisyon: pan=118.5
+2026-04-27 18:32:27.134 [INFO] [KlipperBridge] UV alev sensoru kontrol ediliyor...
+2026-04-27 18:32:27.134 [INFO] [UV] 🔍 UV alev sinyali bekleniyor (timeout: 30.0s, eşik: <10)...
+2026-04-27 18:32:27.134 [INFO] [UV] 📊 raw: 319 (1.03V) - geçen: 0.0s
+2026-04-27 18:32:27.135 [INFO] [UV] ✅ ALEV ALGILANDI! raw: 319 < 10
+2026-04-27 18:32:27.135 [INFO] [KlipperBridge] UV alev sinyali ONAYLANDI, su sikiliyor!
+2026-04-27 18:32:27.135 [INFO] [KlipperBridge] Sondurme baslatiliyor...
+2026-04-27 18:32:31.318 [DEBUG] [PTZ] AbsMove: (118.5, 38.9) -> (309.3, 38.9)
+2026-04-27 18:32:42.728 [INFO] [YoloDetector] 📊 FPS: 19.5 | Toplam: 391 frame
+2026-04-27 18:33:01.375 [WARNING] [KlipperBridge] Timeout (deneme 1/3)
+2026-04-27 18:33:02.744 [INFO] [YoloDetector] 📊 FPS: 18.7 | Toplam: 374 frame
+2026-04-27 18:41:59.681 [INFO] [Sensors] MCP3008 SPI başlatıldı
+2026-04-27 18:42:05.237 [INFO] Ayarlar /models/fire_config_v2.json uzerinden yuklendi.
+2026-04-27 18:42:05.238 [INFO] [KlipperBridge] Worker Thread başlatıldı.
+2026-04-27 18:42:05.238 [INFO] [YoloDetector] Model yükleniyor: /models/best.engine ...
+2026-04-27 18:42:05.248 [INFO] [YoloDetector] ✅ Model (TensorRT) hazır!
+2026-04-27 18:42:05.253 [INFO] [CameraDriver] State: DISCONNECTED -> CONNECTING
+2026-04-27 18:42:05.254 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-04-27 18:42:05.273 [INFO] [CameraDriver] PTZ Hazir (Hikvision ISAPI)
+2026-04-27 18:42:05.273 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 18:42:05.273 [WARNING] [CameraDriver] Seed alinamadi, merkez kabul edildi.
+2026-04-27 18:42:05.274 [INFO] [CameraDriver] State: CONNECTING -> CONNECTED
+2026-04-27 18:42:05.276 [INFO] 🚀 YOLO Detector başlatılıyor...
+Conf Threshold:0.65
+2026-04-27 18:42:05.276 [INFO] [YoloDetector] 🚀 Inference loop başlatıldı
+2026-04-27 18:42:05.277 [INFO] [YoloDetector] Inference thread başlatıldı.
+2026-04-27 18:42:05.277 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-04-27 18:42:05.277 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-04-27 18:42:06.677 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-04-27 18:42:06.679 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-04-27 18:42:06.679 [INFO]   -> conf: 0.65
+2026-04-27 18:42:06.679 [INFO]   -> imgsz: 640x640
+2026-04-27 18:42:06.679 [INFO]   -> class_id: 0
+2026-04-27 18:42:07.006 [INFO] [YoloDetector] ✅ YOLO predict generator oluştu, frame döngüsü başlıyor...
+2026-04-27 18:42:07.279 [INFO] 🔥 SİSTEM BAŞLATILDI - DÖNGÜ BAŞLIYOR 🔥
+2026-04-27 18:42:07.280 [INFO] [StateMachine] IDLE -> PATROL
+2026-04-27 18:42:07.280 [INFO] [Patrol] KARE TARAMA BAŞLIYOR...
+2026-04-27 18:42:07.282 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 18:42:17.867 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.6°)
+2026-04-27 18:42:17.877 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:42:22.284 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 18:42:25.293 [INFO] [YoloDetector] 📊 FPS: 10.1 | Toplam: 203 frame
+2026-04-27 18:42:27.236 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.2°)
+2026-04-27 18:42:27.272 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:42:37.298 [DEBUG] [MainLoop] Alive. No Fire | UV:1.05
+2026-04-27 18:42:40.104 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.9°)
+2026-04-27 18:42:40.116 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:42:45.318 [INFO] [YoloDetector] 📊 FPS: 22.1 | Toplam: 442 frame
+2026-04-27 18:42:52.314 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 18:42:54.909 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.6°)
+2026-04-27 18:42:54.929 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:43:05.348 [INFO] [YoloDetector] 📊 FPS: 18.0 | Toplam: 361 frame
+2026-04-27 18:43:07.315 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 18:43:07.796 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.4°)
+2026-04-27 18:43:07.813 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:43:20.687 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.8°)
+2026-04-27 18:43:20.701 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:43:22.317 [DEBUG] [MainLoop] Alive. No Fire | UV:1.04
+2026-04-27 18:43:25.397 [INFO] [YoloDetector] 📊 FPS: 21.7 | Toplam: 436 frame
+2026-04-27 18:43:37.325 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 18:43:45.422 [INFO] [YoloDetector] 📊 FPS: 19.3 | Toplam: 386 frame
+2026-04-27 18:43:49.236 [INFO] [Patrol] SAĞA hedefe ulaşıldı (349.1°)
+2026-04-27 18:43:49.250 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:43:49.551 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 1)
+2026-04-27 18:43:52.348 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 18:44:03.392 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.6°)
+2026-04-27 18:44:03.403 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:44:05.431 [INFO] [YoloDetector] 📊 FPS: 19.5 | Toplam: 390 frame
+2026-04-27 18:44:07.339 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 18:44:16.268 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.5°)
+2026-04-27 18:44:16.281 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:44:22.357 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 18:44:25.459 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 423 frame
+2026-04-27 18:44:29.424 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.3°)
+2026-04-27 18:44:29.441 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:44:37.344 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 18:44:44.267 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.2°)
+2026-04-27 18:44:44.301 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:44:45.501 [INFO] [YoloDetector] 📊 FPS: 17.7 | Toplam: 354 frame
+2026-04-27 18:44:47.485 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/fire/logs/detections/ilk_tespit_2026-04-27_15-44-47.jpg
