@@ -3375,3 +3375,11 @@ Conf Threshold:0.65
 2026-04-27 18:45:29.540 [INFO] [Patrol] DEVAM EDİYOR.
 2026-04-27 18:45:29.564 [INFO] [CameraDriver] Seed: Pan=175.9, Tilt=57.4
 2026-04-27 18:45:32.416 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/fire/logs/detections/ilk_tespit_2026-04-27_15-45-32.jpg
+2026-04-27 18:45:32.447 [INFO] [StateMachine] Alev onaylandi: 4/8 frame
+2026-04-27 18:45:32.447 [INFO] [StateMachine] PATROL -> TRACKING
+2026-04-27 18:45:32.460 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:45:32.460 [INFO] [Patrol] DURAKLATILDI.
+2026-04-27 18:45:32.490 [INFO] [CameraDriver] Seed: Pan=206.8, Tilt=57.4
+2026-04-27 18:45:32.563 [DEBUG] [PTZ] STOP sent
+2026-04-27 18:45:32.582 [INFO] [TRACKING] 📍 Kamera: X=208.300, Y=57.400 | UV:1
+2026-04-27 18:45:32.863 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 2)
