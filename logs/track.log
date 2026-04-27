@@ -3693,3 +3693,82 @@ Conf Threshold:0.65
 2026-04-27 20:06:46.768 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 1)
 2026-04-27 20:06:52.957 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
 2026-04-27 20:06:54.911 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/fire/logs/detections/ilk_tespit_2026-04-27_17-06-54.jpg
+2026-04-27 20:07:00.585 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (181.0°)
+2026-04-27 20:07:00.597 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:07:06.123 [INFO] [YoloDetector] 📊 FPS: 18.8 | Toplam: 377 frame
+2026-04-27 20:07:07.981 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:07:13.426 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.3°)
+2026-04-27 20:07:13.436 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:07:22.972 [DEBUG] [MainLoop] Alive. No Fire | UV:1.04
+2026-04-27 20:07:26.197 [INFO] [YoloDetector] 📊 FPS: 17.5 | Toplam: 352 frame
+2026-04-27 20:07:26.271 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.8°)
+2026-04-27 20:07:26.282 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:07:37.996 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:07:41.122 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.6°)
+2026-04-27 20:07:41.133 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:07:46.207 [INFO] [YoloDetector] 📊 FPS: 18.2 | Toplam: 364 frame
+2026-04-27 20:07:52.992 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:07:53.963 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.4°)
+2026-04-27 20:07:54.014 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:08:41.268 [INFO] [Sensors] MCP3008 SPI başlatıldı
+2026-04-27 20:08:46.776 [INFO] Ayarlar /models/fire_config_v2.json uzerinden yuklendi.
+2026-04-27 20:08:46.777 [INFO] [YoloDetector] Model yükleniyor: /models/best.engine ...
+2026-04-27 20:08:46.787 [INFO] [YoloDetector] ✅ Model (TensorRT) hazır!
+2026-04-27 20:08:46.792 [INFO] [CameraDriver] State: DISCONNECTED -> CONNECTING
+2026-04-27 20:08:46.792 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-04-27 20:08:46.821 [INFO] [CameraDriver] PTZ Hazir (Hikvision ISAPI)
+2026-04-27 20:08:46.822 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:08:46.822 [WARNING] [CameraDriver] Seed alinamadi, merkez kabul edildi.
+2026-04-27 20:08:46.822 [INFO] [CameraDriver] State: CONNECTING -> CONNECTED
+2026-04-27 20:08:46.824 [INFO] 🚀 YOLO Detector başlatılıyor...
+Conf Threshold:0.5
+2026-04-27 20:08:46.825 [INFO] [YoloDetector] 🚀 Inference loop başlatıldı
+2026-04-27 20:08:46.825 [INFO] [YoloDetector] Inference thread başlatıldı.
+2026-04-27 20:08:46.825 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-04-27 20:08:46.826 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-04-27 20:08:48.209 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-04-27 20:08:48.212 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-04-27 20:08:48.212 [INFO]   -> conf: 0.5
+2026-04-27 20:08:48.212 [INFO]   -> imgsz: 640x640
+2026-04-27 20:08:48.212 [INFO]   -> class_id: 0
+2026-04-27 20:08:48.538 [INFO] [YoloDetector] ✅ YOLO predict generator oluştu, frame döngüsü başlıyor...
+2026-04-27 20:08:48.827 [INFO] 🔥 SİSTEM BAŞLATILDI - DÖNGÜ BAŞLIYOR 🔥
+2026-04-27 20:08:48.827 [INFO] [StateMachine] IDLE -> PATROL
+2026-04-27 20:08:48.828 [INFO] [Patrol] KARE TARAMA BAŞLIYOR...
+2026-04-27 20:08:48.830 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:08:48.901 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (0.0°)
+2026-04-27 20:08:48.912 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:09:03.830 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:09:05.573 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.5°)
+2026-04-27 20:09:05.589 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:09:06.830 [INFO] [YoloDetector] 📊 FPS: 12.8 | Toplam: 257 frame
+2026-04-27 20:09:18.251 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (22.0°)
+2026-04-27 20:09:18.262 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:09:18.594 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-27 20:09:18.617 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:09:18.854 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:09:26.871 [INFO] [YoloDetector] 📊 FPS: 19.1 | Toplam: 382 frame
+2026-04-27 20:09:31.461 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.5°)
+2026-04-27 20:09:31.477 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:09:33.860 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:09:44.617 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.4°)
+2026-04-27 20:09:44.631 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:09:46.892 [INFO] [YoloDetector] 📊 FPS: 20.6 | Toplam: 413 frame
+2026-04-27 20:09:48.884 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:10:03.910 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:10:06.907 [INFO] [YoloDetector] 📊 FPS: 18.0 | Toplam: 361 frame
+2026-04-27 20:10:13.499 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-27 20:10:13.512 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:10:13.813 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 1)
+2026-04-27 20:10:18.919 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:10:26.915 [INFO] [YoloDetector] 📊 FPS: 20.5 | Toplam: 410 frame
+2026-04-27 20:10:27.622 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.9°)
+2026-04-27 20:10:27.657 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:10:33.934 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:10:40.542 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.1°)
+2026-04-27 20:10:40.567 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:10:46.927 [INFO] [YoloDetector] 📊 FPS: 19.2 | Toplam: 384 frame
+2026-04-27 20:10:48.945 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:10:53.385 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.8°)
+2026-04-27 20:10:53.412 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:11:03.953 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
