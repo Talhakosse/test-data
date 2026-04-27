@@ -2851,3 +2851,6 @@ Conf Threshold:0.5
 2026-04-27 15:54:22.770 [DEBUG] [PTZ] STOP sent
 2026-04-27 15:54:29.197 [INFO] [YoloDetector] 📊 FPS: 17.3 | Toplam: 346 frame
 2026-04-27 15:54:34.960 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/fire/logs/detections/ilk_tespit_2026-04-27_12-54-34.jpg
+2026-04-27 15:54:35.596 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.3°)
+2026-04-27 15:54:35.608 [DEBUG] [PTZ] STOP sent
+2026-04-27 15:54:36.130 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
