@@ -3027,3 +3027,4 @@ Conf Threshold:0.65
 2026-04-27 18:18:44.087 [DEBUG] [PTZ] STOP sent
 2026-04-27 18:18:44.388 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 3)
 2026-04-27 18:18:47.081 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/fire/logs/detections/ilk_tespit_2026-04-27_15-18-47.jpg
+2026-04-27 18:18:48.701 [INFO] [YoloDetector] 📊 FPS: 18.7 | Toplam: 375 frame
