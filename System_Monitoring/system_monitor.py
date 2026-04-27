@@ -8,7 +8,7 @@ import subprocess
 # ---------------------------------------------------------
 # LOG AYARLARI
 # ---------------------------------------------------------
-LOG_DIR = Path("/home/fire/logs") 
+LOG_DIR = Path("/opt/fire/logs") 
 LOG_DIR.mkdir(parents=True, exist_ok=True)
 
 LOG_FILE = LOG_DIR / "system_monitor.log"
@@ -56,7 +56,7 @@ def get_tegrastats_line():
 # ---------------------------------------------------------
 def main():
     # Döngü aralığı: 180 saniye (3 dakika) 
-    interval = 5
+    interval = 600
 
     while True:
         try:
