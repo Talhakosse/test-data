@@ -3960,3 +3960,220 @@ Conf Threshold:0.5
 2026-04-27 20:24:57.290 [DEBUG] [PTZ] STOP sent
 2026-04-27 20:24:57.590 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 1)
 2026-04-27 20:24:58.056 [DEBUG] [PTZ] AbsMove: (223.6, 20.7) -> (227.6, 24.7)
+2026-04-27 20:24:59.078 [DEBUG] [PTZ] AbsMove: (227.6, 24.7) -> (231.6, 28.7)
+2026-04-27 20:24:59.271 [DEBUG] [MainLoop] Alive. Fire:68% | UV:1.03
+2026-04-27 20:25:00.043 [INFO] [Tracking] 🔥 Alev: 69.9% | Pozisyon: (1417, 825)
+2026-04-27 20:25:00.054 [INFO] [Tracking] 🔥 Alev: 69.9% | Pozisyon: (1417, 825)
+2026-04-27 20:25:00.078 [INFO] [TRACKING] 📍 Kamera: X=231.200, Y=28.700 | UV:1
+2026-04-27 20:25:00.079 [INFO] [Tracking] 🔥 Alev: 69.9% | Pozisyon: (1417, 825)
+2026-04-27 20:25:00.089 [INFO] [Tracking] 🔥 Alev: 69.9% | Pozisyon: (1417, 825)
+2026-04-27 20:25:00.090 [DEBUG] [PTZ] AbsMove: (231.6, 28.7) -> (235.6, 32.7)
+2026-04-27 20:25:01.098 [DEBUG] [PTZ] AbsMove: (235.6, 32.7) -> (239.6, 36.7)
+2026-04-27 20:25:02.102 [DEBUG] [PTZ] AbsMove: (239.6, 36.7) -> (243.6, 39.7)
+2026-04-27 20:25:03.000 [INFO] [Tracking] 🔥 Alev: 73.7% | Pozisyon: (1243, 591)
+2026-04-27 20:25:03.011 [INFO] [Tracking] 🔥 Alev: 73.7% | Pozisyon: (1243, 591)
+2026-04-27 20:25:03.021 [INFO] [Tracking] 🔥 Alev: 73.7% | Pozisyon: (1243, 591)
+2026-04-27 20:25:03.048 [INFO] [Tracking] 🔥 Alev: 72.3% | Pozisyon: (1235, 568)
+2026-04-27 20:25:03.059 [INFO] [Tracking] 🔥 Alev: 72.3% | Pozisyon: (1235, 568)
+2026-04-27 20:25:03.069 [INFO] [Tracking] 🔥 Alev: 72.3% | Pozisyon: (1235, 568)
+2026-04-27 20:25:03.132 [INFO] [TRACKING] 📍 Kamera: X=242.900, Y=39.700 | UV:1
+2026-04-27 20:25:03.133 [INFO] [Tracking] 🔥 Alev: 72.3% | Pozisyon: (1235, 568)
+2026-04-27 20:25:03.143 [DEBUG] [PTZ] AbsMove: (243.6, 39.7) -> (247.6, 40.4)
+2026-04-27 20:25:04.166 [DEBUG] [PTZ] AbsMove: (247.6, 40.4) -> (251.6, 40.2)
+2026-04-27 20:25:05.184 [DEBUG] [PTZ] AbsMove: (251.6, 40.2) -> (255.6, 39.8)
+2026-04-27 20:25:06.007 [INFO] [Tracking] 🔥 Alev: 82.0% | Pozisyon: (1048, 523)
+2026-04-27 20:25:06.018 [INFO] [Tracking] 🔥 Alev: 82.0% | Pozisyon: (1048, 523)
+2026-04-27 20:25:06.028 [INFO] [Tracking] 🔥 Alev: 82.0% | Pozisyon: (1048, 523)
+2026-04-27 20:25:06.039 [INFO] [Tracking] 🔥 Alev: 82.0% | Pozisyon: (1048, 523)
+2026-04-27 20:25:06.049 [INFO] [Tracking] 🔥 Alev: 82.0% | Pozisyon: (1048, 523)
+2026-04-27 20:25:06.076 [INFO] [Tracking] 🔥 Alev: 80.6% | Pozisyon: (1041, 523)
+2026-04-27 20:25:06.086 [INFO] [Tracking] 🔥 Alev: 80.6% | Pozisyon: (1041, 523)
+2026-04-27 20:25:06.097 [INFO] [Tracking] 🔥 Alev: 80.6% | Pozisyon: (1041, 523)
+2026-04-27 20:25:06.172 [INFO] [TRACKING] 📍 Kamera: X=254.800, Y=39.800 | UV:1
+2026-04-27 20:25:06.207 [DEBUG] [PTZ] AbsMove: (255.6, 39.8) -> (258.7, 39.3)
+2026-04-27 20:25:07.221 [DEBUG] [PTZ] AbsMove: (258.7, 39.3) -> (259.0, 38.7)
+2026-04-27 20:25:07.386 [INFO] [YoloDetector] 📊 FPS: 18.4 | Toplam: 368 frame
+2026-04-27 20:25:08.239 [DEBUG] [PTZ] AbsMove: (259.0, 38.7) -> (258.0, 38.3)
+2026-04-27 20:25:09.028 [INFO] [Tracking] 🔥 Alev: 74.9% | Pozisyon: (941, 532)
+2026-04-27 20:25:09.057 [INFO] [Tracking] 🔥 Alev: 75.8% | Pozisyon: (942, 531)
+2026-04-27 20:25:09.068 [INFO] [Tracking] 🔥 Alev: 75.8% | Pozisyon: (942, 531)
+2026-04-27 20:25:09.097 [INFO] [Tracking] 🔥 Alev: 76.8% | Pozisyon: (942, 531)
+2026-04-27 20:25:09.215 [INFO] [TRACKING] 📍 Kamera: X=257.900, Y=38.200 | UV:1
+2026-04-27 20:25:09.265 [DEBUG] [PTZ] AbsMove: (258.0, 38.3) -> (257.1, 38.0)
+2026-04-27 20:25:09.925 [INFO] [StateMachine] TRACKING -> LOCKED
+2026-04-27 20:25:11.930 [INFO] [StateMachine] LOCKED -> FIRING
+2026-04-27 20:25:11.930 [INFO] [Main] 🔥 NORMAL ATEŞ! Pan:257.053 Tilt:38.014
+2026-04-27 20:25:11.931 [INFO] [KlipperBridge] KAMERA SENKRONIZE ATES SEKANSI BASLIYOR...
+2026-04-27 20:25:11.947 [INFO] [KlipperBridge] Kamera konumu kaydedildi: pan=257.0
+2026-04-27 20:25:12.104 [INFO] [KlipperBridge] Homing (G28)...
+2026-04-27 20:25:13.609 [INFO] [Klipper] ==================== BASINÇ ÖLÇÜMÜ ====================
+2026-04-27 20:25:13.609 [INFO] [Sensors] Basınç baseline toplanıyor (7.0s)...
+2026-04-27 20:25:13.609 [DEBUG] [Sensors] T=0.0s P=5.56 bar
+2026-04-27 20:25:14.111 [DEBUG] [Sensors] T=0.5s P=5.40 bar
+2026-04-27 20:25:14.612 [DEBUG] [Sensors] T=1.0s P=5.77 bar
+2026-04-27 20:25:15.113 [DEBUG] [Sensors] T=1.5s P=5.54 bar
+2026-04-27 20:25:15.614 [DEBUG] [Sensors] T=2.0s P=5.56 bar
+2026-04-27 20:25:16.116 [DEBUG] [Sensors] T=2.5s P=5.77 bar
+2026-04-27 20:25:16.617 [DEBUG] [Sensors] T=3.0s P=5.54 bar
+2026-04-27 20:25:17.119 [DEBUG] [Sensors] T=3.5s P=5.56 bar
+2026-04-27 20:25:17.620 [DEBUG] [Sensors] T=4.0s P=5.75 bar
+2026-04-27 20:25:18.121 [DEBUG] [Sensors] T=4.5s P=5.56 bar
+2026-04-27 20:25:18.623 [DEBUG] [Sensors] T=5.0s P=5.40 bar
+2026-04-27 20:25:19.124 [DEBUG] [Sensors] T=5.5s P=5.79 bar
+2026-04-27 20:25:19.625 [DEBUG] [Sensors] T=6.0s P=5.58 bar
+2026-04-27 20:25:20.126 [DEBUG] [Sensors] T=6.5s P=5.58 bar
+2026-04-27 20:25:20.627 [INFO] [Sensors] Baseline tamamlandı: 14 ölçüm, medyan=5.56 bar
+2026-04-27 20:25:20.630 [INFO] [Klipper] Basınç ölçümü BAŞARILI: 5.56 bar (14 ölçüm)
+2026-04-27 20:25:20.631 [INFO] [Klipper] ========================================================
+2026-04-27 20:25:20.633 [INFO] [Nozzle] Tilt=38.0° → D=12.51m → D_corr=12.71m | P=5.56bar → X=284.41
+2026-04-27 20:25:20.634 [INFO] [KlipperBridge] Kamera->118, Nozul->X:284.41 Y:-2386.16, P:5.56bar
+2026-04-27 20:25:20.634 [DEBUG] [PTZ] AbsMove: (257.1, 38.0) -> (118.5, 38.0)
+2026-04-27 20:25:27.406 [INFO] [YoloDetector] 📊 FPS: 21.0 | Toplam: 420 frame
+2026-04-27 20:25:47.434 [INFO] [YoloDetector] 📊 FPS: 19.7 | Toplam: 394 frame
+2026-04-27 20:25:50.687 [WARNING] [KlipperBridge] Timeout (deneme 1/3)
+2026-04-27 20:26:02.045 [DEBUG] [PTZ] STOP sent
+2026-04-27 20:26:02.045 [INFO] [Camera] Merkeze ulasildi: pan=118.5
+2026-04-27 20:26:02.057 [INFO] [KlipperBridge] Kamera pozisyon: pan=118.5
+2026-04-27 20:26:02.057 [INFO] [KlipperBridge] UV alev sensoru kontrol ediliyor...
+2026-04-27 20:26:02.057 [INFO] [UV] 🔍 UV alev sinyali bekleniyor (timeout: 30.0s, eşik: <10)...
+2026-04-27 20:26:02.058 [INFO] [UV] 📊 raw: 324 (1.05V) - geçen: 0.0s
+2026-04-27 20:26:02.058 [INFO] [UV] ✅ ALEV ALGILANDI! raw: 324 < 10
+2026-04-27 20:26:02.058 [INFO] [KlipperBridge] UV alev sinyali ONAYLANDI, su sikiliyor!
+2026-04-27 20:26:02.059 [INFO] [KlipperBridge] Sondurme baslatiliyor...
+2026-04-27 20:26:07.467 [INFO] [YoloDetector] 📊 FPS: 19.3 | Toplam: 386 frame
+2026-04-27 20:26:27.492 [INFO] [YoloDetector] 📊 FPS: 20.6 | Toplam: 413 frame
+2026-04-27 20:26:47.519 [INFO] [YoloDetector] 📊 FPS: 18.1 | Toplam: 363 frame
+2026-04-27 20:27:00.559 [WARNING] [CameraDriver] Health check BASARISIZ!
+2026-04-27 20:27:03.659 [DEBUG] [PTZ] AbsMove: (118.5, 38.0) -> (257.0, 38.0)
+2026-04-27 20:27:06.727 [ERROR] [PTZ] Baglanti hatasi: HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/absolute (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xfffe77abc130>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-04-27 20:27:13.563 [WARNING] [CameraDriver] Health check BASARISIZ!
+2026-04-27 20:27:17.470 [ERROR] [KlipperBridge] GCODE Send Error: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-04-27 20:27:20.635 [INFO] [YoloDetector] 📊 FPS: 1.9 | Toplam: 62 frame
+2026-04-27 20:27:26.567 [WARNING] [CameraDriver] Health check BASARISIZ!
+2026-04-27 20:27:39.574 [WARNING] [CameraDriver] Health check BASARISIZ!
+2026-04-27 20:27:39.575 [WARNING] [CameraDriver] Ardisik hata, reconnect baslatiliyor...
+2026-04-27 20:27:39.575 [INFO] [CameraDriver] Yeniden baglaniliyor...
+2026-04-27 20:27:39.575 [INFO] [CameraDriver] State: CONNECTED -> RECONNECTING
+2026-04-27 20:27:39.575 [ERROR] [CameraDriver] Health check exception: cannot join current thread
+2026-04-27 20:27:42.604 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:42.905 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:43.205 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:43.506 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:43.807 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:44.107 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:44.408 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:44.708 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:45.009 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:45.310 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:45.610 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:45.911 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:46.212 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:46.512 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:46.813 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:47.113 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:47.414 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:47.715 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:48.015 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:48.316 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:48.616 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:48.917 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:49.218 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:49.518 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:49.819 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:50.120 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:50.420 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:50.683 [INFO] [YoloDetector] 📊 FPS: 0.0 | Toplam: 1 frame
+2026-04-27 20:27:50.721 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:51.022 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:51.322 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:51.623 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:51.923 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:52.224 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:52.525 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:52.825 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:53.126 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:53.427 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:53.727 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:54.028 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:54.328 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:54.629 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:54.930 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:55.230 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:55.531 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:55.831 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:56.132 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:56.432 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:56.733 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:57.034 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:57.334 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:57.635 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:57.935 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:58.236 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:58.536 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:58.837 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:59.138 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:59.438 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:27:59.739 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:00.040 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:00.340 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:00.641 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:00.941 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:01.242 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:01.543 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:01.843 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:02.144 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:02.444 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:02.745 [WARNING] [PTZ] Stop: Bagli degil!
+2026-04-27 20:28:02.745 [WARNING] [Camera] Hedefe ulasma timeout! target=257.0
+2026-04-27 20:28:02.745 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:02.746 [INFO] [KlipperBridge] KAMERA SENKRONIZE ATES SEKANSI TAMAMLANDI
+2026-04-27 20:28:02.746 [INFO] [StateMachine] İş tamamlandı, izlemeye devam ediliyor (20 sn)...
+2026-04-27 20:28:02.746 [INFO] [StateMachine] FIRING -> TRACKING
+2026-04-27 20:28:02.756 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:28:02.757 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:05.760 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:08.764 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:11.768 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:14.771 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:15.256 [INFO] [StateMachine] TRACKING -> PATROL
+2026-04-27 20:28:15.256 [INFO] [Patrol] DEVAM EDİYOR.
+2026-04-27 20:28:15.256 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:15.256 [WARNING] [CameraDriver] Seed alinamadi, merkez kabul edildi.
+2026-04-27 20:28:15.354 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:15.855 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:16.355 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:16.856 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:17.357 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:17.757 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-27 20:28:17.858 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:18.359 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:18.860 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:19.360 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:19.861 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:20.362 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:20.863 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:21.363 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:21.864 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:22.365 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:22.866 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:23.367 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:23.810 [INFO] [YoloDetector] 📊 FPS: 0.1 | Toplam: 2 frame
+2026-04-27 20:28:23.828 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-04-27 20:28:23.828 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-04-27 20:28:23.867 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:24.368 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:24.869 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:25.370 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:25.870 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:26.371 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:26.856 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-04-27 20:28:26.856 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-04-27 20:28:26.856 [ERROR]   -> User: admin
+2026-04-27 20:28:26.872 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:27.372 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:27.873 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:28.374 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:28.858 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-04-27 20:28:28.858 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-04-27 20:28:28.875 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-27 20:28:29.375 [WARNING] [PTZ] GetPosition: Bagli degil!
