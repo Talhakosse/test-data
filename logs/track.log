@@ -4295,3 +4295,51 @@ Conf Threshold:0.5
 2026-04-28 12:32:11.288 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
 2026-04-28 12:32:12.097 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 3/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xffff095c3040>: Failed to establish a new connection: [Errno 111] Connection refused'))
 2026-04-28 12:32:12.097 [INFO] [CameraDriver] 4.0s sonra tekrar denenecek...
+2026-04-28 13:40:43.890 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-04-28 13:40:43.893 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 4/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xffff0936c520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-04-28 13:40:43.893 [INFO] [CameraDriver] 8.0s sonra tekrar denenecek...
+2026-04-28 13:40:51.902 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-04-28 13:40:51.919 [INFO] [CameraDriver] PTZ Hazir (Hikvision ISAPI)
+2026-04-28 13:40:51.919 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-28 13:40:51.919 [WARNING] [CameraDriver] Seed alinamadi, merkez kabul edildi.
+2026-04-28 13:40:51.919 [INFO] [CameraDriver] State: CONNECTING -> CONNECTED
+2026-04-28 13:40:51.921 [INFO] 🚀 YOLO Detector başlatılıyor...
+Conf Threshold:0.5
+2026-04-28 13:40:51.922 [INFO] [YoloDetector] 🚀 Inference loop başlatıldı
+2026-04-28 13:40:51.922 [INFO] [YoloDetector] Inference thread başlatıldı.
+2026-04-28 13:40:51.922 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-04-28 13:40:51.923 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-04-28 13:40:53.352 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-04-28 13:40:53.354 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-04-28 13:40:53.355 [INFO]   -> conf: 0.5
+2026-04-28 13:40:53.355 [INFO]   -> imgsz: 640x640
+2026-04-28 13:40:53.355 [INFO]   -> class_id: 0
+2026-04-28 13:40:53.887 [INFO] [YoloDetector] ✅ YOLO predict generator oluştu, frame döngüsü başlıyor...
+2026-04-28 13:40:53.925 [INFO] 🔥 SİSTEM BAŞLATILDI - DÖNGÜ BAŞLIYOR 🔥
+2026-04-28 13:40:53.925 [INFO] [StateMachine] IDLE -> PATROL
+2026-04-28 13:40:53.926 [INFO] [Patrol] KARE TARAMA BAŞLIYOR...
+2026-04-28 13:40:53.928 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 13:40:56.569 [WARNING] [Patrol] TAKILMA! x=342.0°, hedef=180.5°
+2026-04-28 13:40:56.570 [INFO] [Patrol] Dürtme: pan=-40, tilt=0
+2026-04-28 13:40:56.768 [DEBUG] [PTZ] STOP sent
+2026-04-28 13:40:58.930 [WARNING] [Patrol] TAKILMA! x=342.0°, hedef=180.5°
+2026-04-28 13:40:58.931 [INFO] [Patrol] Dürtme: pan=-40, tilt=0
+2026-04-28 13:40:59.171 [DEBUG] [PTZ] STOP sent
+2026-04-28 13:41:01.391 [WARNING] [Patrol] TAKILMA! x=342.0°, hedef=180.5°
+2026-04-28 13:41:01.391 [INFO] [Patrol] Dürtme: pan=-40, tilt=0
+2026-04-28 13:41:01.561 [DEBUG] [PTZ] STOP sent
+2026-04-28 13:41:03.868 [WARNING] [Patrol] TAKILMA! x=342.0°, hedef=180.5°
+2026-04-28 13:41:03.868 [INFO] [Patrol] Dürtme: pan=-40, tilt=0
+2026-04-28 13:41:04.037 [DEBUG] [PTZ] STOP sent
+2026-04-28 13:41:06.389 [WARNING] [Patrol] TAKILMA! x=342.0°, hedef=180.5°
+2026-04-28 13:41:06.390 [INFO] [Patrol] Dürtme: pan=-40, tilt=0
+2026-04-28 13:41:06.559 [DEBUG] [PTZ] STOP sent
+2026-04-28 13:41:08.887 [WARNING] [Patrol] TAKILMA! x=342.0°, hedef=180.5°
+2026-04-28 13:41:08.887 [INFO] [Patrol] Dürtme: pan=-40, tilt=0
+2026-04-28 13:41:08.932 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 13:41:09.075 [DEBUG] [PTZ] STOP sent
+2026-04-28 13:41:11.432 [WARNING] [Patrol] TAKILMA! x=342.0°, hedef=180.5°
+2026-04-28 13:41:11.432 [INFO] [Patrol] Dürtme: pan=-40, tilt=0
+2026-04-28 13:41:11.602 [DEBUG] [PTZ] STOP sent
+2026-04-28 13:41:11.955 [INFO] [YoloDetector] 📊 FPS: 9.3 | Toplam: 187 frame
+2026-04-28 13:41:20.009 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/fire/logs/detections/ilk_tespit_2026-04-28_10-41-20.jpg
