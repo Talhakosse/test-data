@@ -6429,3 +6429,906 @@ Conf Threshold:0.5
 2026-04-28 15:59:58.354 [DEBUG] [PTZ] STOP sent
 2026-04-28 15:59:58.655 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 2)
 2026-04-28 16:00:01.342 [INFO] [YoloDetector] 📊 FPS: 18.9 | Toplam: 379 frame
+2026-04-28 16:00:02.531 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:00:12.459 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (181.0°)
+2026-04-28 16:00:12.469 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:00:17.532 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:00:21.344 [INFO] [YoloDetector] 📊 FPS: 20.9 | Toplam: 419 frame
+2026-04-28 16:00:25.342 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.3°)
+2026-04-28 16:00:25.355 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:00:32.552 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:00:38.214 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.7°)
+2026-04-28 16:00:38.229 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:00:41.378 [INFO] [YoloDetector] 📊 FPS: 18.3 | Toplam: 367 frame
+2026-04-28 16:00:47.559 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:00:53.284 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:00:53.295 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:01:01.389 [INFO] [YoloDetector] 📊 FPS: 21.2 | Toplam: 424 frame
+2026-04-28 16:01:02.565 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:01:06.124 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.3°)
+2026-04-28 16:01:06.138 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:01:17.590 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:01:18.960 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.9°)
+2026-04-28 16:01:18.974 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:01:21.405 [INFO] [YoloDetector] 📊 FPS: 19.5 | Toplam: 391 frame
+2026-04-28 16:01:32.599 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:01:41.435 [INFO] [YoloDetector] 📊 FPS: 20.0 | Toplam: 400 frame
+2026-04-28 16:01:47.523 [INFO] [Patrol] SAĞA hedefe ulaşıldı (349.3°)
+2026-04-28 16:01:47.555 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:01:47.619 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:01:47.856 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 3)
+2026-04-28 16:02:01.464 [INFO] [YoloDetector] 📊 FPS: 20.9 | Toplam: 419 frame
+2026-04-28 16:02:01.678 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.8°)
+2026-04-28 16:02:01.687 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:02:02.626 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:02:14.546 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.3°)
+2026-04-28 16:02:14.559 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:02:17.635 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:02:21.489 [INFO] [YoloDetector] 📊 FPS: 17.9 | Toplam: 359 frame
+2026-04-28 16:02:27.421 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.8°)
+2026-04-28 16:02:27.433 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:02:32.628 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:02:41.497 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 427 frame
+2026-04-28 16:02:42.496 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:02:42.505 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:02:47.632 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:02:55.368 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.4°)
+2026-04-28 16:02:55.378 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:03:01.537 [INFO] [YoloDetector] 📊 FPS: 18.6 | Toplam: 373 frame
+2026-04-28 16:03:02.633 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:03:08.252 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.8°)
+2026-04-28 16:03:08.309 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:03:17.652 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:03:21.611 [INFO] [YoloDetector] 📊 FPS: 18.4 | Toplam: 369 frame
+2026-04-28 16:03:32.658 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:03:37.156 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:03:37.172 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:03:37.473 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 4)
+2026-04-28 16:03:41.633 [INFO] [YoloDetector] 📊 FPS: 20.3 | Toplam: 407 frame
+2026-04-28 16:03:47.663 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:03:51.355 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (179.9°)
+2026-04-28 16:03:51.365 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:04:01.644 [INFO] [YoloDetector] 📊 FPS: 19.4 | Toplam: 388 frame
+2026-04-28 16:04:02.668 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:04:04.193 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.1°)
+2026-04-28 16:04:04.202 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:04:17.041 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.6°)
+2026-04-28 16:04:17.062 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:04:17.689 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:04:21.654 [INFO] [YoloDetector] 📊 FPS: 20.9 | Toplam: 419 frame
+2026-04-28 16:04:31.788 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.9°)
+2026-04-28 16:04:31.801 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:04:32.696 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:04:41.685 [INFO] [YoloDetector] 📊 FPS: 18.3 | Toplam: 366 frame
+2026-04-28 16:04:44.626 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.9°)
+2026-04-28 16:04:44.640 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:04:47.699 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:04:57.506 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.4°)
+2026-04-28 16:04:57.543 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:05:01.749 [INFO] [YoloDetector] 📊 FPS: 20.9 | Toplam: 420 frame
+2026-04-28 16:05:02.723 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:05:17.739 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:05:21.810 [INFO] [YoloDetector] 📊 FPS: 18.6 | Toplam: 374 frame
+2026-04-28 16:05:26.412 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:05:26.427 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:05:26.728 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 5)
+2026-04-28 16:05:26.728 [INFO] [Patrol] 5 döngü tamamlandı! Preset 1'e gidiliyor...
+2026-04-28 16:05:32.756 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:05:41.842 [INFO] [YoloDetector] 📊 FPS: 19.5 | Toplam: 391 frame
+2026-04-28 16:05:47.777 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:05:56.907 [WARNING] [Patrol] Preset hareketi timeout! (30.0s)
+2026-04-28 16:05:56.908 [INFO] [Patrol] Preset 2'ye gidiliyor...
+2026-04-28 16:06:01.888 [INFO] [YoloDetector] 📊 FPS: 20.1 | Toplam: 402 frame
+2026-04-28 16:06:02.787 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:06:17.778 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:06:21.902 [INFO] [YoloDetector] 📊 FPS: 18.3 | Toplam: 367 frame
+2026-04-28 16:06:27.060 [WARNING] [Patrol] Preset hareketi timeout! (30.0s)
+2026-04-28 16:06:27.060 [INFO] [Patrol] Preset turu tamamlandı, devriye devam ediyor...
+2026-04-28 16:06:32.793 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:06:41.195 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (179.6°)
+2026-04-28 16:06:41.205 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:06:41.554 [INFO] [Patrol] YUKARI hedefe ulaşıldı (90.0°)
+2026-04-28 16:06:41.563 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:06:41.914 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 426 frame
+2026-04-28 16:06:47.793 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:06:55.311 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.7°)
+2026-04-28 16:06:55.319 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:07:01.979 [INFO] [YoloDetector] 📊 FPS: 17.5 | Toplam: 351 frame
+2026-04-28 16:07:02.812 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:07:10.082 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.1°)
+2026-04-28 16:07:10.125 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:07:17.803 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:07:21.982 [INFO] [YoloDetector] 📊 FPS: 20.9 | Toplam: 419 frame
+2026-04-28 16:07:23.023 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.5°)
+2026-04-28 16:07:23.039 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:07:32.810 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:07:35.867 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.0°)
+2026-04-28 16:07:35.879 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:07:42.001 [INFO] [YoloDetector] 📊 FPS: 17.8 | Toplam: 357 frame
+2026-04-28 16:07:47.817 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:08:02.017 [INFO] [YoloDetector] 📊 FPS: 20.8 | Toplam: 417 frame
+2026-04-28 16:08:02.831 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:08:04.465 [INFO] [Patrol] SAĞA hedefe ulaşıldı (349.6°)
+2026-04-28 16:08:04.527 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:08:04.828 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 1)
+2026-04-28 16:08:17.848 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:08:18.651 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.9°)
+2026-04-28 16:08:18.660 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:08:22.029 [INFO] [YoloDetector] 📊 FPS: 18.6 | Toplam: 372 frame
+2026-04-28 16:08:31.606 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.1°)
+2026-04-28 16:08:31.620 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:08:32.871 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:08:42.045 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 426 frame
+2026-04-28 16:08:44.441 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.7°)
+2026-04-28 16:08:44.451 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:08:47.877 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:08:59.516 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:08:59.554 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:09:02.077 [INFO] [YoloDetector] 📊 FPS: 18.7 | Toplam: 375 frame
+2026-04-28 16:09:02.878 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:09:12.363 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.1°)
+2026-04-28 16:09:12.374 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:09:17.894 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:09:22.146 [INFO] [YoloDetector] 📊 FPS: 20.7 | Toplam: 415 frame
+2026-04-28 16:09:25.154 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.8°)
+2026-04-28 16:09:25.171 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:09:32.888 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:09:42.169 [INFO] [YoloDetector] 📊 FPS: 20.4 | Toplam: 409 frame
+2026-04-28 16:09:47.896 [DEBUG] [MainLoop] Alive. No Fire | UV:1.05
+2026-04-28 16:09:53.982 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:09:53.998 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:09:54.299 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 2)
+2026-04-28 16:10:02.175 [INFO] [YoloDetector] 📊 FPS: 18.7 | Toplam: 375 frame
+2026-04-28 16:10:02.902 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:10:08.106 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (181.0°)
+2026-04-28 16:10:08.139 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:10:17.925 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:10:20.942 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.2°)
+2026-04-28 16:10:20.956 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:10:22.219 [INFO] [YoloDetector] 📊 FPS: 21.0 | Toplam: 420 frame
+2026-04-28 16:10:32.936 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:10:33.812 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.6°)
+2026-04-28 16:10:33.824 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:10:42.240 [INFO] [YoloDetector] 📊 FPS: 18.1 | Toplam: 363 frame
+2026-04-28 16:10:47.956 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:10:48.612 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.5°)
+2026-04-28 16:10:48.626 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:11:01.404 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.8°)
+2026-04-28 16:11:01.460 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:11:02.296 [INFO] [YoloDetector] 📊 FPS: 20.4 | Toplam: 409 frame
+2026-04-28 16:11:02.967 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:11:14.238 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.7°)
+2026-04-28 16:11:14.249 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:11:17.983 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:11:22.305 [INFO] [YoloDetector] 📊 FPS: 18.4 | Toplam: 369 frame
+2026-04-28 16:11:32.990 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:11:42.352 [INFO] [YoloDetector] 📊 FPS: 19.7 | Toplam: 395 frame
+2026-04-28 16:11:42.837 [INFO] [Patrol] SAĞA hedefe ulaşıldı (349.6°)
+2026-04-28 16:11:42.848 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:11:43.149 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 3)
+2026-04-28 16:11:47.994 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:11:56.912 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (181.4°)
+2026-04-28 16:11:56.924 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:12:02.373 [INFO] [YoloDetector] 📊 FPS: 20.3 | Toplam: 406 frame
+2026-04-28 16:12:03.000 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:12:09.750 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.2°)
+2026-04-28 16:12:09.765 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:12:18.013 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:12:22.414 [INFO] [YoloDetector] 📊 FPS: 20.2 | Toplam: 405 frame
+2026-04-28 16:12:22.597 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.8°)
+2026-04-28 16:12:22.618 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:12:33.015 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:12:37.744 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:12:37.755 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:12:42.453 [INFO] [YoloDetector] 📊 FPS: 19.7 | Toplam: 394 frame
+2026-04-28 16:12:48.027 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:12:50.574 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.1°)
+2026-04-28 16:12:50.585 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:13:02.492 [INFO] [YoloDetector] 📊 FPS: 18.4 | Toplam: 369 frame
+2026-04-28 16:13:03.040 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:13:03.406 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.7°)
+2026-04-28 16:13:03.416 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:13:18.046 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:13:22.522 [INFO] [YoloDetector] 📊 FPS: 20.0 | Toplam: 400 frame
+2026-04-28 16:13:31.967 [INFO] [Patrol] SAĞA hedefe ulaşıldı (349.3°)
+2026-04-28 16:13:31.976 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:13:32.277 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 4)
+2026-04-28 16:13:33.067 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:13:42.557 [INFO] [YoloDetector] 📊 FPS: 19.2 | Toplam: 385 frame
+2026-04-28 16:13:46.083 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.9°)
+2026-04-28 16:13:46.093 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:13:48.055 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:13:58.960 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.3°)
+2026-04-28 16:13:59.006 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:14:02.574 [INFO] [YoloDetector] 📊 FPS: 19.6 | Toplam: 392 frame
+2026-04-28 16:14:03.062 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:14:11.835 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (22.0°)
+2026-04-28 16:14:11.847 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:14:18.076 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:14:22.598 [INFO] [YoloDetector] 📊 FPS: 20.7 | Toplam: 415 frame
+2026-04-28 16:14:26.915 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:14:26.929 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:14:33.079 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:14:39.465 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.0°)
+2026-04-28 16:14:39.475 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:14:42.673 [INFO] [YoloDetector] 📊 FPS: 17.7 | Toplam: 356 frame
+2026-04-28 16:14:48.101 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:14:52.263 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.6°)
+2026-04-28 16:14:52.276 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:15:02.690 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 427 frame
+2026-04-28 16:15:03.124 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:15:18.120 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:15:21.098 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:15:21.143 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:15:21.444 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 5)
+2026-04-28 16:15:21.444 [INFO] [Patrol] 5 döngü tamamlandı! Preset 1'e gidiliyor...
+2026-04-28 16:15:22.720 [INFO] [YoloDetector] 📊 FPS: 17.9 | Toplam: 358 frame
+2026-04-28 16:15:33.134 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:15:42.730 [INFO] [YoloDetector] 📊 FPS: 20.3 | Toplam: 407 frame
+2026-04-28 16:15:48.136 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:15:51.631 [WARNING] [Patrol] Preset hareketi timeout! (30.0s)
+2026-04-28 16:15:51.632 [INFO] [Patrol] Preset 2'ye gidiliyor...
+2026-04-28 16:16:02.751 [INFO] [YoloDetector] 📊 FPS: 20.6 | Toplam: 412 frame
+2026-04-28 16:16:03.147 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:16:18.164 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:16:21.821 [WARNING] [Patrol] Preset hareketi timeout! (30.0s)
+2026-04-28 16:16:21.822 [INFO] [Patrol] Preset turu tamamlandı, devriye devam ediyor...
+2026-04-28 16:16:22.766 [INFO] [YoloDetector] 📊 FPS: 18.9 | Toplam: 378 frame
+2026-04-28 16:16:33.173 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:16:35.928 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (179.8°)
+2026-04-28 16:16:35.947 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:16:36.299 [INFO] [Patrol] YUKARI hedefe ulaşıldı (90.0°)
+2026-04-28 16:16:36.317 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:16:42.788 [INFO] [YoloDetector] 📊 FPS: 20.3 | Toplam: 406 frame
+2026-04-28 16:16:48.179 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:16:49.834 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (22.0°)
+2026-04-28 16:16:49.850 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:17:02.798 [INFO] [YoloDetector] 📊 FPS: 19.7 | Toplam: 394 frame
+2026-04-28 16:17:03.200 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:17:04.590 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.2°)
+2026-04-28 16:17:04.604 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:17:17.441 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.5°)
+2026-04-28 16:17:17.459 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:17:18.216 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:17:22.860 [INFO] [YoloDetector] 📊 FPS: 18.9 | Toplam: 379 frame
+2026-04-28 16:17:30.582 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.5°)
+2026-04-28 16:17:30.592 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:17:33.217 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:17:42.874 [INFO] [YoloDetector] 📊 FPS: 20.0 | Toplam: 400 frame
+2026-04-28 16:17:48.238 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:17:59.132 [INFO] [Patrol] SAĞA hedefe ulaşıldı (349.0°)
+2026-04-28 16:17:59.143 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:17:59.444 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 1)
+2026-04-28 16:18:02.884 [INFO] [YoloDetector] 📊 FPS: 19.7 | Toplam: 394 frame
+2026-04-28 16:18:03.251 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:18:13.247 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (181.2°)
+2026-04-28 16:18:13.259 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:18:18.271 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:18:22.909 [INFO] [YoloDetector] 📊 FPS: 20.5 | Toplam: 411 frame
+2026-04-28 16:18:26.086 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.0°)
+2026-04-28 16:18:26.096 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:18:33.272 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:18:38.925 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.4°)
+2026-04-28 16:18:38.936 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:18:42.940 [INFO] [YoloDetector] 📊 FPS: 18.5 | Toplam: 371 frame
+2026-04-28 16:18:48.292 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:18:54.002 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:18:54.017 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:19:02.947 [INFO] [YoloDetector] 📊 FPS: 21.2 | Toplam: 424 frame
+2026-04-28 16:19:03.313 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:19:06.914 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.3°)
+2026-04-28 16:19:06.923 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:19:18.337 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:19:19.752 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.9°)
+2026-04-28 16:19:19.762 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:19:22.977 [INFO] [YoloDetector] 📊 FPS: 19.2 | Toplam: 385 frame
+2026-04-28 16:19:33.346 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:19:42.986 [INFO] [YoloDetector] 📊 FPS: 19.9 | Toplam: 398 frame
+2026-04-28 16:19:48.369 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:19:48.585 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:19:48.598 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:19:48.899 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 2)
+2026-04-28 16:20:02.739 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.5°)
+2026-04-28 16:20:02.750 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:20:03.010 [INFO] [YoloDetector] 📊 FPS: 19.9 | Toplam: 398 frame
+2026-04-28 16:20:03.361 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:20:15.617 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.6°)
+2026-04-28 16:20:15.627 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:20:18.380 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:20:23.024 [INFO] [YoloDetector] 📊 FPS: 19.1 | Toplam: 383 frame
+2026-04-28 16:20:28.457 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.1°)
+2026-04-28 16:20:28.467 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:20:33.393 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:20:43.048 [INFO] [YoloDetector] 📊 FPS: 21.2 | Toplam: 425 frame
+2026-04-28 16:20:43.247 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.6°)
+2026-04-28 16:20:43.256 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:20:48.394 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:20:56.096 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.7°)
+2026-04-28 16:20:56.113 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:21:03.122 [INFO] [YoloDetector] 📊 FPS: 18.8 | Toplam: 378 frame
+2026-04-28 16:21:03.413 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:21:08.881 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.6°)
+2026-04-28 16:21:08.894 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:21:18.419 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:21:23.161 [INFO] [YoloDetector] 📊 FPS: 22.5 | Toplam: 450 frame
+2026-04-28 16:21:33.423 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:21:37.724 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:21:37.741 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:21:38.042 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 3)
+2026-04-28 16:21:43.234 [INFO] [YoloDetector] 📊 FPS: 18.0 | Toplam: 361 frame
+2026-04-28 16:21:48.437 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:21:51.966 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (179.3°)
+2026-04-28 16:21:51.985 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:22:03.252 [INFO] [YoloDetector] 📊 FPS: 18.3 | Toplam: 366 frame
+2026-04-28 16:22:03.446 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:22:04.865 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.3°)
+2026-04-28 16:22:04.895 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:22:18.028 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.4°)
+2026-04-28 16:22:18.038 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:22:18.465 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:22:23.268 [INFO] [YoloDetector] 📊 FPS: 22.7 | Toplam: 454 frame
+2026-04-28 16:22:32.792 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.1°)
+2026-04-28 16:22:32.809 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:22:33.491 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:22:43.291 [INFO] [YoloDetector] 📊 FPS: 17.7 | Toplam: 354 frame
+2026-04-28 16:22:45.916 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.2°)
+2026-04-28 16:22:45.931 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:22:48.501 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:22:58.768 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.7°)
+2026-04-28 16:22:58.778 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:23:03.360 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 423 frame
+2026-04-28 16:23:03.526 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:23:18.525 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:23:23.431 [INFO] [YoloDetector] 📊 FPS: 18.6 | Toplam: 374 frame
+2026-04-28 16:23:27.595 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:23:27.611 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:23:27.912 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 4)
+2026-04-28 16:23:33.543 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:23:41.758 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.5°)
+2026-04-28 16:23:41.778 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:23:43.446 [INFO] [YoloDetector] 📊 FPS: 19.6 | Toplam: 393 frame
+2026-04-28 16:23:48.552 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:23:54.616 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.3°)
+2026-04-28 16:23:54.630 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:24:03.447 [INFO] [YoloDetector] 📊 FPS: 20.9 | Toplam: 418 frame
+2026-04-28 16:24:03.558 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:24:07.473 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.7°)
+2026-04-28 16:24:07.483 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:24:18.562 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:24:22.230 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.8°)
+2026-04-28 16:24:22.242 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:24:23.460 [INFO] [YoloDetector] 📊 FPS: 18.8 | Toplam: 376 frame
+2026-04-28 16:24:33.582 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:24:35.055 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.3°)
+2026-04-28 16:24:35.073 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:24:43.469 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 427 frame
+2026-04-28 16:24:47.908 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.8°)
+2026-04-28 16:24:47.919 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:24:48.575 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:25:03.478 [INFO] [YoloDetector] 📊 FPS: 18.0 | Toplam: 361 frame
+2026-04-28 16:25:03.577 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:25:16.724 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:25:16.738 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:25:17.039 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 5)
+2026-04-28 16:25:17.039 [INFO] [Patrol] 5 döngü tamamlandı! Preset 1'e gidiliyor...
+2026-04-28 16:25:18.590 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:25:23.525 [INFO] [YoloDetector] 📊 FPS: 21.4 | Toplam: 430 frame
+2026-04-28 16:25:33.599 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:25:43.547 [INFO] [YoloDetector] 📊 FPS: 19.1 | Toplam: 382 frame
+2026-04-28 16:25:47.217 [WARNING] [Patrol] Preset hareketi timeout! (30.0s)
+2026-04-28 16:25:47.218 [INFO] [Patrol] Preset 2'ye gidiliyor...
+2026-04-28 16:25:48.607 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:26:03.552 [INFO] [YoloDetector] 📊 FPS: 21.4 | Toplam: 428 frame
+2026-04-28 16:26:03.613 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:26:17.453 [WARNING] [Patrol] Preset hareketi timeout! (30.0s)
+2026-04-28 16:26:17.454 [INFO] [Patrol] Preset turu tamamlandı, devriye devam ediyor...
+2026-04-28 16:26:18.625 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:26:23.582 [INFO] [YoloDetector] 📊 FPS: 20.6 | Toplam: 413 frame
+2026-04-28 16:26:31.710 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (178.8°)
+2026-04-28 16:26:31.721 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:26:32.066 [INFO] [Patrol] YUKARI hedefe ulaşıldı (90.0°)
+2026-04-28 16:26:32.083 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:26:33.632 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:26:43.610 [INFO] [YoloDetector] 📊 FPS: 18.8 | Toplam: 377 frame
+2026-04-28 16:26:45.639 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.9°)
+2026-04-28 16:26:45.658 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:26:48.647 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:27:00.377 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:27:00.420 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:27:03.615 [INFO] [YoloDetector] 📊 FPS: 21.0 | Toplam: 420 frame
+2026-04-28 16:27:03.645 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:27:13.259 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.3°)
+2026-04-28 16:27:13.270 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:27:18.648 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:27:23.684 [INFO] [YoloDetector] 📊 FPS: 20.1 | Toplam: 403 frame
+2026-04-28 16:27:26.091 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.8°)
+2026-04-28 16:27:26.112 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:27:33.649 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:27:43.696 [INFO] [YoloDetector] 📊 FPS: 18.6 | Toplam: 372 frame
+2026-04-28 16:27:48.669 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:27:54.921 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:27:54.933 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:27:55.234 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 1)
+2026-04-28 16:28:03.670 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:28:03.726 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 423 frame
+2026-04-28 16:28:09.041 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (181.0°)
+2026-04-28 16:28:09.050 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:28:18.673 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:28:21.716 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.5°)
+2026-04-28 16:28:21.726 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:28:23.746 [INFO] [YoloDetector] 📊 FPS: 18.3 | Toplam: 367 frame
+2026-04-28 16:28:33.674 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:28:34.592 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.7°)
+2026-04-28 16:28:34.604 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:28:43.755 [INFO] [YoloDetector] 📊 FPS: 20.8 | Toplam: 416 frame
+2026-04-28 16:28:48.683 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:28:49.670 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:28:49.680 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:29:02.505 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.0°)
+2026-04-28 16:29:02.542 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:29:03.687 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:29:03.765 [INFO] [YoloDetector] 📊 FPS: 18.6 | Toplam: 373 frame
+2026-04-28 16:29:15.302 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.9°)
+2026-04-28 16:29:15.318 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:29:18.696 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:29:23.799 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 427 frame
+2026-04-28 16:29:33.705 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:29:43.828 [INFO] [YoloDetector] 📊 FPS: 18.9 | Toplam: 379 frame
+2026-04-28 16:29:43.981 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:29:43.995 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:29:44.296 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 2)
+2026-04-28 16:29:48.723 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:29:58.129 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.6°)
+2026-04-28 16:29:58.138 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:30:03.713 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:30:03.830 [INFO] [YoloDetector] 📊 FPS: 20.8 | Toplam: 416 frame
+2026-04-28 16:30:11.006 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.6°)
+2026-04-28 16:30:11.015 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:30:18.721 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:30:23.852 [INFO] [YoloDetector] 📊 FPS: 20.4 | Toplam: 409 frame
+2026-04-28 16:30:23.883 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.9°)
+2026-04-28 16:30:23.894 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:30:33.725 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:30:38.960 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:30:38.970 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:30:43.919 [INFO] [YoloDetector] 📊 FPS: 19.2 | Toplam: 386 frame
+2026-04-28 16:30:48.729 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:30:51.871 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.6°)
+2026-04-28 16:30:51.884 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:31:03.745 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:31:03.944 [INFO] [YoloDetector] 📊 FPS: 20.5 | Toplam: 411 frame
+2026-04-28 16:31:04.710 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.0°)
+2026-04-28 16:31:04.720 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:31:18.751 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:31:23.980 [INFO] [YoloDetector] 📊 FPS: 17.7 | Toplam: 354 frame
+2026-04-28 16:31:33.261 [INFO] [Patrol] SAĞA hedefe ulaşıldı (349.1°)
+2026-04-28 16:31:33.276 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:31:33.576 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 3)
+2026-04-28 16:31:33.755 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:31:44.013 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 433 frame
+2026-04-28 16:31:47.380 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (181.1°)
+2026-04-28 16:31:47.390 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:31:48.756 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:32:00.339 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.2°)
+2026-04-28 16:32:00.352 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:32:03.767 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:32:04.027 [INFO] [YoloDetector] 📊 FPS: 19.3 | Toplam: 387 frame
+2026-04-28 16:32:13.171 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.8°)
+2026-04-28 16:32:13.182 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:32:18.775 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:32:24.051 [INFO] [YoloDetector] 📊 FPS: 19.7 | Toplam: 395 frame
+2026-04-28 16:32:28.247 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:32:28.262 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:32:33.798 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:32:41.075 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.3°)
+2026-04-28 16:32:41.089 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:32:44.071 [INFO] [YoloDetector] 📊 FPS: 20.3 | Toplam: 407 frame
+2026-04-28 16:32:48.786 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:32:54.186 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.3°)
+2026-04-28 16:32:54.200 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:33:03.801 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:33:04.111 [INFO] [YoloDetector] 📊 FPS: 18.7 | Toplam: 374 frame
+2026-04-28 16:33:18.825 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:33:23.030 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:33:23.039 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:33:23.340 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 4)
+2026-04-28 16:33:24.124 [INFO] [YoloDetector] 📊 FPS: 21.6 | Toplam: 433 frame
+2026-04-28 16:33:33.830 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:33:37.186 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.4°)
+2026-04-28 16:33:37.195 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:33:44.138 [INFO] [YoloDetector] 📊 FPS: 17.8 | Toplam: 357 frame
+2026-04-28 16:33:48.846 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:33:50.315 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.3°)
+2026-04-28 16:33:50.334 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:34:03.149 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (22.0°)
+2026-04-28 16:34:03.190 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:34:03.856 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:34:04.153 [INFO] [YoloDetector] 📊 FPS: 21.4 | Toplam: 429 frame
+2026-04-28 16:34:18.213 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:34:18.222 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:34:18.864 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:34:24.165 [INFO] [YoloDetector] 📊 FPS: 18.7 | Toplam: 374 frame
+2026-04-28 16:34:31.051 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.2°)
+2026-04-28 16:34:31.061 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:34:33.865 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:34:43.967 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.3°)
+2026-04-28 16:34:43.978 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:34:44.202 [INFO] [YoloDetector] 📊 FPS: 19.9 | Toplam: 399 frame
+2026-04-28 16:34:48.875 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:35:03.883 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:35:04.273 [INFO] [YoloDetector] 📊 FPS: 20.2 | Toplam: 406 frame
+2026-04-28 16:35:12.801 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:35:12.814 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:35:13.115 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 5)
+2026-04-28 16:35:13.115 [INFO] [Patrol] 5 döngü tamamlandı! Preset 1'e gidiliyor...
+2026-04-28 16:35:18.892 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:35:24.327 [INFO] [YoloDetector] 📊 FPS: 18.5 | Toplam: 372 frame
+2026-04-28 16:35:33.901 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:35:43.331 [WARNING] [Patrol] Preset hareketi timeout! (30.0s)
+2026-04-28 16:35:43.331 [INFO] [Patrol] Preset 2'ye gidiliyor...
+2026-04-28 16:35:44.341 [INFO] [YoloDetector] 📊 FPS: 20.3 | Toplam: 407 frame
+2026-04-28 16:35:48.908 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:36:03.911 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:36:04.359 [INFO] [YoloDetector] 📊 FPS: 17.9 | Toplam: 359 frame
+2026-04-28 16:36:13.526 [WARNING] [Patrol] Preset hareketi timeout! (30.0s)
+2026-04-28 16:36:13.526 [INFO] [Patrol] Preset turu tamamlandı, devriye devam ediyor...
+2026-04-28 16:36:18.920 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:36:24.408 [INFO] [YoloDetector] 📊 FPS: 22.6 | Toplam: 454 frame
+2026-04-28 16:36:27.664 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (179.0°)
+2026-04-28 16:36:27.675 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:36:28.019 [INFO] [Patrol] YUKARI hedefe ulaşıldı (90.0°)
+2026-04-28 16:36:28.029 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:36:33.928 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:36:41.533 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (22.0°)
+2026-04-28 16:36:41.544 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:36:44.437 [INFO] [YoloDetector] 📊 FPS: 19.5 | Toplam: 391 frame
+2026-04-28 16:36:48.935 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:36:56.285 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:36:56.298 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:37:03.944 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:37:04.486 [INFO] [YoloDetector] 📊 FPS: 19.3 | Toplam: 386 frame
+2026-04-28 16:37:08.841 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.0°)
+2026-04-28 16:37:08.852 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:37:18.953 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:37:21.642 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.7°)
+2026-04-28 16:37:21.656 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:37:24.504 [INFO] [YoloDetector] 📊 FPS: 21.0 | Toplam: 420 frame
+2026-04-28 16:37:33.960 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:37:44.557 [INFO] [YoloDetector] 📊 FPS: 18.8 | Toplam: 377 frame
+2026-04-28 16:37:48.979 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:37:50.475 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:37:50.486 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:37:50.787 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 1)
+2026-04-28 16:38:03.979 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:38:04.626 [INFO] [YoloDetector] 📊 FPS: 20.4 | Toplam: 410 frame
+2026-04-28 16:38:04.688 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.2°)
+2026-04-28 16:38:04.705 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:38:17.837 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.7°)
+2026-04-28 16:38:17.850 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:38:18.979 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:38:24.640 [INFO] [YoloDetector] 📊 FPS: 19.1 | Toplam: 382 frame
+2026-04-28 16:38:31.029 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.4°)
+2026-04-28 16:38:31.041 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:38:33.991 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:38:44.707 [INFO] [YoloDetector] 📊 FPS: 20.0 | Toplam: 402 frame
+2026-04-28 16:38:45.827 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.3°)
+2026-04-28 16:38:45.842 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:38:48.993 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:38:58.959 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.4°)
+2026-04-28 16:38:58.979 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:39:04.015 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:39:04.776 [INFO] [YoloDetector] 📊 FPS: 20.6 | Toplam: 414 frame
+2026-04-28 16:39:12.100 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.5°)
+2026-04-28 16:39:12.110 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:39:19.009 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:39:24.850 [INFO] [YoloDetector] 📊 FPS: 18.3 | Toplam: 367 frame
+2026-04-28 16:39:34.026 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:39:40.669 [INFO] [Patrol] SAĞA hedefe ulaşıldı (349.4°)
+2026-04-28 16:39:40.688 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:39:40.988 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 2)
+2026-04-28 16:39:44.853 [INFO] [YoloDetector] 📊 FPS: 21.4 | Toplam: 429 frame
+2026-04-28 16:39:49.012 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:39:54.854 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.4°)
+2026-04-28 16:39:54.869 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:40:04.035 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:40:04.896 [INFO] [YoloDetector] 📊 FPS: 18.3 | Toplam: 366 frame
+2026-04-28 16:40:07.768 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.3°)
+2026-04-28 16:40:07.780 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:40:19.051 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:40:20.607 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.8°)
+2026-04-28 16:40:20.617 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:40:24.902 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 444 frame
+2026-04-28 16:40:34.046 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:40:35.406 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.7°)
+2026-04-28 16:40:35.417 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:40:44.906 [INFO] [YoloDetector] 📊 FPS: 18.9 | Toplam: 379 frame
+2026-04-28 16:40:48.237 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.2°)
+2026-04-28 16:40:48.250 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:40:49.063 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:41:00.876 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.8°)
+2026-04-28 16:41:00.887 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:41:04.054 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:41:04.908 [INFO] [YoloDetector] 📊 FPS: 20.1 | Toplam: 402 frame
+2026-04-28 16:41:19.059 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:41:24.980 [INFO] [YoloDetector] 📊 FPS: 20.1 | Toplam: 404 frame
+2026-04-28 16:41:29.723 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:41:29.751 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:41:30.052 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 3)
+2026-04-28 16:41:34.068 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:41:43.830 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (181.4°)
+2026-04-28 16:41:43.843 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:41:45.013 [INFO] [YoloDetector] 📊 FPS: 18.9 | Toplam: 378 frame
+2026-04-28 16:41:49.070 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:41:56.706 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.6°)
+2026-04-28 16:41:56.717 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:42:04.077 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:42:05.022 [INFO] [YoloDetector] 📊 FPS: 19.6 | Toplam: 393 frame
+2026-04-28 16:42:09.582 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.9°)
+2026-04-28 16:42:09.595 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:42:19.089 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:42:24.618 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:42:24.629 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:42:25.071 [INFO] [YoloDetector] 📊 FPS: 19.6 | Toplam: 393 frame
+2026-04-28 16:42:34.111 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:42:37.417 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.2°)
+2026-04-28 16:42:37.437 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:42:45.102 [INFO] [YoloDetector] 📊 FPS: 17.9 | Toplam: 358 frame
+2026-04-28 16:42:49.108 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:42:50.289 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.6°)
+2026-04-28 16:42:50.300 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:43:04.122 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:43:05.130 [INFO] [YoloDetector] 📊 FPS: 18.8 | Toplam: 377 frame
+2026-04-28 16:43:18.927 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:43:18.937 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:43:19.132 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:43:19.237 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 4)
+2026-04-28 16:43:25.144 [INFO] [YoloDetector] 📊 FPS: 20.1 | Toplam: 403 frame
+2026-04-28 16:43:33.088 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.3°)
+2026-04-28 16:43:33.102 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:43:34.136 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:43:45.144 [INFO] [YoloDetector] 📊 FPS: 20.3 | Toplam: 406 frame
+2026-04-28 16:43:45.920 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.1°)
+2026-04-28 16:43:45.932 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:43:49.167 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:43:58.765 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.6°)
+2026-04-28 16:43:58.793 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:44:04.160 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:44:05.145 [INFO] [YoloDetector] 📊 FPS: 18.3 | Toplam: 366 frame
+2026-04-28 16:44:13.831 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:44:13.844 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:44:19.183 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:44:25.192 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 423 frame
+2026-04-28 16:44:26.694 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.1°)
+2026-04-28 16:44:26.708 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:44:34.170 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:44:39.517 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.8°)
+2026-04-28 16:44:39.559 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:44:45.200 [INFO] [YoloDetector] 📊 FPS: 18.1 | Toplam: 363 frame
+2026-04-28 16:44:49.192 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:45:04.184 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:45:05.206 [INFO] [YoloDetector] 📊 FPS: 21.7 | Toplam: 434 frame
+2026-04-28 16:45:08.382 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:45:08.393 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:45:08.694 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 5)
+2026-04-28 16:45:08.694 [INFO] [Patrol] 5 döngü tamamlandı! Preset 1'e gidiliyor...
+2026-04-28 16:45:19.198 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:45:25.223 [INFO] [YoloDetector] 📊 FPS: 18.9 | Toplam: 378 frame
+2026-04-28 16:45:34.200 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:45:38.916 [WARNING] [Patrol] Preset hareketi timeout! (30.0s)
+2026-04-28 16:45:38.916 [INFO] [Patrol] Preset 2'ye gidiliyor...
+2026-04-28 16:45:45.241 [INFO] [YoloDetector] 📊 FPS: 18.9 | Toplam: 378 frame
+2026-04-28 16:45:49.224 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:46:04.232 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:46:05.269 [INFO] [YoloDetector] 📊 FPS: 21.0 | Toplam: 420 frame
+2026-04-28 16:46:09.148 [WARNING] [Patrol] Preset hareketi timeout! (30.0s)
+2026-04-28 16:46:09.149 [INFO] [Patrol] Preset turu tamamlandı, devriye devam ediyor...
+2026-04-28 16:46:19.253 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:46:23.289 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (179.3°)
+2026-04-28 16:46:23.302 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:46:23.653 [INFO] [Patrol] YUKARI hedefe ulaşıldı (90.0°)
+2026-04-28 16:46:23.674 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:46:25.279 [INFO] [YoloDetector] 📊 FPS: 18.7 | Toplam: 375 frame
+2026-04-28 16:46:34.267 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:46:37.493 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.4°)
+2026-04-28 16:46:37.511 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:46:45.280 [INFO] [YoloDetector] 📊 FPS: 21.3 | Toplam: 427 frame
+2026-04-28 16:46:49.276 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:46:52.253 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:46:52.271 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:47:04.293 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:47:05.282 [INFO] [YoloDetector] 📊 FPS: 19.6 | Toplam: 392 frame
+2026-04-28 16:47:05.387 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.4°)
+2026-04-28 16:47:05.404 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:47:18.307 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.5°)
+2026-04-28 16:47:18.345 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:47:19.317 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:47:25.301 [INFO] [YoloDetector] 📊 FPS: 19.7 | Toplam: 395 frame
+2026-04-28 16:47:34.317 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:47:45.307 [INFO] [YoloDetector] 📊 FPS: 18.9 | Toplam: 379 frame
+2026-04-28 16:47:46.905 [INFO] [Patrol] SAĞA hedefe ulaşıldı (349.3°)
+2026-04-28 16:47:46.917 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:47:47.217 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 1)
+2026-04-28 16:47:49.320 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:48:01.063 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.4°)
+2026-04-28 16:48:01.077 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:48:04.322 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:48:05.347 [INFO] [YoloDetector] 📊 FPS: 20.3 | Toplam: 406 frame
+2026-04-28 16:48:13.897 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.8°)
+2026-04-28 16:48:13.907 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:48:19.336 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:48:25.353 [INFO] [YoloDetector] 📊 FPS: 20.3 | Toplam: 407 frame
+2026-04-28 16:48:26.736 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.3°)
+2026-04-28 16:48:26.746 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:48:34.338 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:48:41.489 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.8°)
+2026-04-28 16:48:41.498 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:48:45.359 [INFO] [YoloDetector] 📊 FPS: 18.5 | Toplam: 371 frame
+2026-04-28 16:48:49.354 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:48:54.336 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.7°)
+2026-04-28 16:48:54.359 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:49:04.354 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:49:05.389 [INFO] [YoloDetector] 📊 FPS: 20.7 | Toplam: 415 frame
+2026-04-28 16:49:07.119 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.7°)
+2026-04-28 16:49:07.129 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:49:19.348 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:49:25.392 [INFO] [YoloDetector] 📊 FPS: 18.4 | Toplam: 368 frame
+2026-04-28 16:49:34.372 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:49:35.647 [INFO] [Patrol] SAĞA hedefe ulaşıldı (349.1°)
+2026-04-28 16:49:35.671 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:49:35.971 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 2)
+2026-04-28 16:49:45.437 [INFO] [YoloDetector] 📊 FPS: 21.8 | Toplam: 437 frame
+2026-04-28 16:49:49.378 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:49:49.917 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (179.4°)
+2026-04-28 16:49:49.932 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:50:02.802 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.3°)
+2026-04-28 16:50:02.820 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:50:04.401 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:50:05.449 [INFO] [YoloDetector] 📊 FPS: 19.6 | Toplam: 392 frame
+2026-04-28 16:50:15.627 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (22.0°)
+2026-04-28 16:50:15.637 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:50:19.391 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:50:25.475 [INFO] [YoloDetector] 📊 FPS: 18.7 | Toplam: 374 frame
+2026-04-28 16:50:30.424 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:50:30.463 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:50:34.397 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:50:43.183 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.9°)
+2026-04-28 16:50:43.194 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:50:45.509 [INFO] [YoloDetector] 📊 FPS: 21.4 | Toplam: 429 frame
+2026-04-28 16:50:49.416 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:50:55.975 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.7°)
+2026-04-28 16:50:55.993 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:51:04.401 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:51:05.547 [INFO] [YoloDetector] 📊 FPS: 17.5 | Toplam: 351 frame
+2026-04-28 16:51:19.419 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:51:24.805 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:51:24.815 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:51:25.116 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 3)
+2026-04-28 16:51:25.551 [INFO] [YoloDetector] 📊 FPS: 22.2 | Toplam: 445 frame
+2026-04-28 16:51:34.427 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:51:38.967 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.4°)
+2026-04-28 16:51:38.980 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:51:45.585 [INFO] [YoloDetector] 📊 FPS: 19.1 | Toplam: 383 frame
+2026-04-28 16:51:49.439 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:51:51.804 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.1°)
+2026-04-28 16:51:51.817 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:52:04.464 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:52:04.679 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.5°)
+2026-04-28 16:52:04.689 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:52:05.589 [INFO] [YoloDetector] 📊 FPS: 19.9 | Toplam: 399 frame
+2026-04-28 16:52:19.469 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:52:19.513 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:52:19.522 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:52:25.593 [INFO] [YoloDetector] 📊 FPS: 20.1 | Toplam: 402 frame
+2026-04-28 16:52:32.359 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.1°)
+2026-04-28 16:52:32.371 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:52:34.475 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:52:45.129 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.9°)
+2026-04-28 16:52:45.145 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:52:45.663 [INFO] [YoloDetector] 📊 FPS: 19.7 | Toplam: 396 frame
+2026-04-28 16:52:49.475 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:53:04.482 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:53:05.681 [INFO] [YoloDetector] 📊 FPS: 19.6 | Toplam: 393 frame
+2026-04-28 16:53:13.936 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:53:13.949 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:53:14.249 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 4)
+2026-04-28 16:53:19.492 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:53:25.748 [INFO] [YoloDetector] 📊 FPS: 19.6 | Toplam: 394 frame
+2026-04-28 16:53:28.056 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (181.1°)
+2026-04-28 16:53:28.065 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:53:34.508 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:53:40.932 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.5°)
+2026-04-28 16:53:40.947 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:53:45.759 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 423 frame
+2026-04-28 16:53:49.498 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:53:54.105 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.5°)
+2026-04-28 16:53:54.128 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:54:04.508 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:54:05.794 [INFO] [YoloDetector] 📊 FPS: 18.6 | Toplam: 373 frame
+2026-04-28 16:54:09.017 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:54:09.037 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:54:19.513 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:54:21.922 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.2°)
+2026-04-28 16:54:21.932 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:54:25.813 [INFO] [YoloDetector] 📊 FPS: 21.0 | Toplam: 421 frame
+2026-04-28 16:54:34.537 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:54:34.602 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.8°)
+2026-04-28 16:54:34.616 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:54:45.844 [INFO] [YoloDetector] 📊 FPS: 18.5 | Toplam: 371 frame
+2026-04-28 16:54:49.542 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:55:03.402 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:55:03.426 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:55:03.727 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 5)
+2026-04-28 16:55:03.759 [INFO] [Patrol] 5 döngü tamamlandı! Preset 1'e gidiliyor...
+2026-04-28 16:55:04.549 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:55:05.865 [INFO] [YoloDetector] 📊 FPS: 20.2 | Toplam: 405 frame
+2026-04-28 16:55:19.554 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:55:25.933 [INFO] [YoloDetector] 📊 FPS: 20.3 | Toplam: 408 frame
+2026-04-28 16:55:33.961 [WARNING] [Patrol] Preset hareketi timeout! (30.0s)
+2026-04-28 16:55:33.962 [INFO] [Patrol] Preset 2'ye gidiliyor...
+2026-04-28 16:55:34.557 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:55:45.971 [INFO] [YoloDetector] 📊 FPS: 18.9 | Toplam: 378 frame
+2026-04-28 16:55:49.566 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:56:04.159 [WARNING] [Patrol] Preset hareketi timeout! (30.0s)
+2026-04-28 16:56:04.160 [INFO] [Patrol] Preset turu tamamlandı, devriye devam ediyor...
+2026-04-28 16:56:04.568 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:56:06.044 [INFO] [YoloDetector] 📊 FPS: 20.5 | Toplam: 411 frame
+2026-04-28 16:56:18.295 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (179.0°)
+2026-04-28 16:56:18.309 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:56:18.659 [INFO] [Patrol] YUKARI hedefe ulaşıldı (90.0°)
+2026-04-28 16:56:18.671 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:56:19.577 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:56:26.071 [INFO] [YoloDetector] 📊 FPS: 18.2 | Toplam: 364 frame
+2026-04-28 16:56:32.450 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.5°)
+2026-04-28 16:56:32.459 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:56:34.578 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:56:46.100 [INFO] [YoloDetector] 📊 FPS: 22.4 | Toplam: 448 frame
+2026-04-28 16:56:47.206 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:56:47.215 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:56:49.588 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:57:00.073 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.3°)
+2026-04-28 16:57:00.087 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:57:04.616 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:57:06.147 [INFO] [YoloDetector] 📊 FPS: 22.8 | Toplam: 458 frame
+2026-04-28 16:57:12.955 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.7°)
+2026-04-28 16:57:12.976 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:57:19.637 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:57:26.163 [INFO] [YoloDetector] 📊 FPS: 18.2 | Toplam: 365 frame
+2026-04-28 16:57:34.637 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:57:41.561 [INFO] [Patrol] SAĞA hedefe ulaşıldı (349.6°)
+2026-04-28 16:57:41.589 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:57:41.889 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 1)
+2026-04-28 16:57:46.227 [INFO] [YoloDetector] 📊 FPS: 20.3 | Toplam: 408 frame
+2026-04-28 16:57:49.640 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:57:55.747 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.3°)
+2026-04-28 16:57:55.757 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:58:04.655 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:58:06.259 [INFO] [YoloDetector] 📊 FPS: 18.4 | Toplam: 369 frame
+2026-04-28 16:58:08.629 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.4°)
+2026-04-28 16:58:08.654 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:58:19.664 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:58:21.453 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.1°)
+2026-04-28 16:58:21.464 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:58:26.259 [INFO] [YoloDetector] 📊 FPS: 19.9 | Toplam: 399 frame
+2026-04-28 16:58:34.680 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:58:36.510 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-04-28 16:58:36.556 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:58:46.278 [INFO] [YoloDetector] 📊 FPS: 20.1 | Toplam: 402 frame
+2026-04-28 16:58:49.406 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.7°)
+2026-04-28 16:58:49.427 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:58:49.674 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 16:59:02.331 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.8°)
+2026-04-28 16:59:02.346 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:59:04.694 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:59:06.294 [INFO] [YoloDetector] 📊 FPS: 18.7 | Toplam: 375 frame
+2026-04-28 16:59:19.684 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:59:26.318 [INFO] [YoloDetector] 📊 FPS: 20.9 | Toplam: 418 frame
+2026-04-28 16:59:31.161 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-04-28 16:59:31.170 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:59:31.471 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 2)
+2026-04-28 16:59:34.688 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:59:45.316 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (181.0°)
+2026-04-28 16:59:45.326 [DEBUG] [PTZ] STOP sent
+2026-04-28 16:59:46.323 [INFO] [YoloDetector] 📊 FPS: 18.4 | Toplam: 368 frame
+2026-04-28 16:59:49.703 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-04-28 16:59:58.191 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.3°)
+2026-04-28 16:59:58.201 [DEBUG] [PTZ] STOP sent
