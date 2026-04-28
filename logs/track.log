@@ -4789,3 +4789,62 @@ Conf Threshold:0.5
 2026-04-28 13:58:06.519 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 4)
 2026-04-28 13:58:07.263 [DEBUG] [MainLoop] Alive. Fire:65% | UV:1.03
 2026-04-28 13:58:07.419 [DEBUG] [PTZ] AbsMove: (258.9, 21.7) -> (254.9, 25.7)
+2026-04-28 13:58:08.430 [DEBUG] [PTZ] AbsMove: (254.9, 25.7) -> (250.9, 29.7)
+2026-04-28 13:58:09.046 [INFO] [Tracking] 🔥 Alev: 56.3% | Pozisyon: (865, 832)
+2026-04-28 13:58:09.057 [INFO] [Tracking] 🔥 Alev: 56.3% | Pozisyon: (865, 832)
+2026-04-28 13:58:09.067 [INFO] [Tracking] 🔥 Alev: 56.3% | Pozisyon: (865, 832)
+2026-04-28 13:58:09.078 [INFO] [Tracking] 🔥 Alev: 56.3% | Pozisyon: (865, 832)
+2026-04-28 13:58:09.088 [INFO] [Tracking] 🔥 Alev: 56.3% | Pozisyon: (865, 832)
+2026-04-28 13:58:09.099 [INFO] [Tracking] 🔥 Alev: 56.3% | Pozisyon: (865, 832)
+2026-04-28 13:58:09.176 [INFO] [TRACKING] 📍 Kamera: X=252.700, Y=29.700 | UV:1
+2026-04-28 13:58:09.451 [DEBUG] [PTZ] AbsMove: (250.9, 29.7) -> (248.1, 33.7)
+2026-04-28 13:58:10.472 [DEBUG] [PTZ] AbsMove: (248.1, 33.7) -> (248.7, 37.5)
+2026-04-28 13:58:11.499 [DEBUG] [PTZ] AbsMove: (248.7, 37.5) -> (249.7, 38.8)
+2026-04-28 13:58:12.013 [INFO] [Tracking] 🔥 Alev: 77.1% | Pozisyon: (981, 575)
+2026-04-28 13:58:12.041 [INFO] [Tracking] 🔥 Alev: 77.7% | Pozisyon: (982, 575)
+2026-04-28 13:58:12.052 [INFO] [Tracking] 🔥 Alev: 77.7% | Pozisyon: (982, 575)
+2026-04-28 13:58:12.080 [INFO] [Tracking] 🔥 Alev: 72.8% | Pozisyon: (980, 562)
+2026-04-28 13:58:12.091 [INFO] [Tracking] 🔥 Alev: 72.8% | Pozisyon: (980, 562)
+2026-04-28 13:58:12.215 [INFO] [TRACKING] 📍 Kamera: X=249.700, Y=38.700 | UV:1
+2026-04-28 13:58:12.387 [INFO] [StateMachine] TRACKING -> LOCKED
+2026-04-28 13:58:14.389 [INFO] [StateMachine] LOCKED -> FIRING
+2026-04-28 13:58:14.389 [INFO] [Main] 🔥 NORMAL ATEŞ! Pan:249.728 Tilt:38.798
+2026-04-28 13:58:14.390 [INFO] [KlipperBridge] KAMERA SENKRONIZE ATES SEKANSI BASLIYOR...
+2026-04-28 13:58:14.408 [INFO] [KlipperBridge] Kamera konumu kaydedildi: pan=249.7
+2026-04-28 13:58:14.499 [INFO] [Klipper] ==================== BASINÇ ÖLÇÜMÜ ====================
+2026-04-28 13:58:14.499 [INFO] [Sensors] Basınç baseline toplanıyor (7.0s)...
+2026-04-28 13:58:14.499 [DEBUG] [Sensors] T=0.0s P=6.44 bar
+2026-04-28 13:58:15.001 [DEBUG] [Sensors] T=0.5s P=6.48 bar
+2026-04-28 13:58:15.502 [DEBUG] [Sensors] T=1.0s P=6.42 bar
+2026-04-28 13:58:16.003 [DEBUG] [Sensors] T=1.5s P=6.46 bar
+2026-04-28 13:58:16.505 [DEBUG] [Sensors] T=2.0s P=6.58 bar
+2026-04-28 13:58:17.006 [DEBUG] [Sensors] T=2.5s P=6.28 bar
+2026-04-28 13:58:17.508 [DEBUG] [Sensors] T=3.0s P=6.46 bar
+2026-04-28 13:58:18.009 [DEBUG] [Sensors] T=3.5s P=6.44 bar
+2026-04-28 13:58:18.510 [DEBUG] [Sensors] T=4.0s P=6.24 bar
+2026-04-28 13:58:19.011 [DEBUG] [Sensors] T=4.5s P=6.50 bar
+2026-04-28 13:58:19.513 [DEBUG] [Sensors] T=5.0s P=6.30 bar
+2026-04-28 13:58:20.014 [DEBUG] [Sensors] T=5.5s P=6.26 bar
+2026-04-28 13:58:20.515 [DEBUG] [Sensors] T=6.0s P=6.24 bar
+2026-04-28 13:58:21.017 [DEBUG] [Sensors] T=6.5s P=6.14 bar
+2026-04-28 13:58:21.519 [INFO] [Sensors] Baseline tamamlandı: 14 ölçüm, medyan=6.43 bar
+2026-04-28 13:58:21.519 [INFO] [Klipper] Basınç ölçümü BAŞARILI: 6.43 bar (14 ölçüm)
+2026-04-28 13:58:21.520 [INFO] [Klipper] ========================================================
+2026-04-28 13:58:21.520 [INFO] [Nozzle] Tilt=38.8° → D=12.16m → D_corr=12.36m | P=6.43bar → X=299.90
+2026-04-28 13:58:21.520 [INFO] [KlipperBridge] Kamera->118, Nozul->X:299.90 Y:-2260.01, P:6.43bar
+2026-04-28 13:58:21.520 [DEBUG] [PTZ] AbsMove: (249.7, 38.8) -> (118.5, 38.7)
+2026-04-28 13:58:25.732 [INFO] [YoloDetector] 📊 FPS: 21.2 | Toplam: 426 frame
+2026-04-28 13:58:45.744 [INFO] [YoloDetector] 📊 FPS: 18.8 | Toplam: 377 frame
+2026-04-28 13:58:51.576 [WARNING] [KlipperBridge] Timeout (deneme 1/3)
+2026-04-28 13:59:00.922 [DEBUG] [PTZ] STOP sent
+2026-04-28 13:59:00.922 [INFO] [Camera] Merkeze ulasildi: pan=118.5
+2026-04-28 13:59:00.933 [INFO] [KlipperBridge] Kamera pozisyon: pan=118.5
+2026-04-28 13:59:00.934 [INFO] [KlipperBridge] UV alev sensoru kontrol ediliyor...
+2026-04-28 13:59:00.934 [INFO] [UV] 🔍 UV alev sinyali bekleniyor (timeout: 30.0s, eşik: <10)...
+2026-04-28 13:59:00.934 [INFO] [UV] 📊 raw: 324 (1.05V) - geçen: 0.0s
+2026-04-28 13:59:00.934 [INFO] [UV] ✅ ALEV ALGILANDI! raw: 324 < 10
+2026-04-28 13:59:00.935 [INFO] [KlipperBridge] UV alev sinyali ONAYLANDI, su sikiliyor!
+2026-04-28 13:59:00.935 [INFO] [KlipperBridge] Sondurme baslatiliyor...
+2026-04-28 13:59:05.812 [INFO] [YoloDetector] 📊 FPS: 20.6 | Toplam: 414 frame
+2026-04-28 13:59:25.840 [INFO] [YoloDetector] 📊 FPS: 19.7 | Toplam: 395 frame
+2026-04-28 13:59:45.841 [INFO] [YoloDetector] 📊 FPS: 18.9 | Toplam: 379 frame
