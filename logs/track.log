@@ -4516,3 +4516,17 @@ Conf Threshold:0.5
 2026-04-28 13:45:15.125 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.2°)
 2026-04-28 13:45:15.144 [DEBUG] [PTZ] STOP sent
 2026-04-28 13:45:20.720 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/fire/logs/detections/ilk_tespit_2026-04-28_10-45-20.jpg
+2026-04-28 13:45:20.805 [INFO] [StateMachine] Alev onaylandi: 4/8 frame
+2026-04-28 13:45:20.806 [INFO] [StateMachine] PATROL -> TRACKING
+2026-04-28 13:45:20.827 [DEBUG] [PTZ] STOP sent
+2026-04-28 13:45:20.827 [INFO] [Patrol] DURAKLATILDI.
+2026-04-28 13:45:20.851 [INFO] [CameraDriver] Seed: Pan=118.4, Tilt=57.9
+2026-04-28 13:45:20.873 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 13:45:20.890 [INFO] [TRACKING] 📍 Kamera: X=118.400, Y=57.600 | UV:1
+2026-04-28 13:45:20.908 [DEBUG] [PTZ] STOP sent
+2026-04-28 13:45:21.023 [INFO] [Tracking] 🔥 Alev: 64.4% | Pozisyon: (943, 88)
+2026-04-28 13:45:21.023 [INFO] [PTZ] SOFT START: -0.24, -1.20
+2026-04-28 13:45:21.023 [DEBUG] [PTZ] AbsMove: (118.4, 57.9) -> (118.2, 56.7)
+2026-04-28 13:45:21.061 [INFO] [Tracking] 🔥 Alev: 61.7% | Pozisyon: (941, 91)
+2026-04-28 13:45:21.072 [INFO] [Tracking] 🔥 Alev: 61.7% | Pozisyon: (941, 91)
+2026-04-28 13:45:21.099 [INFO] [Tracking] 🔥 Alev: 69.1% | Pozisyon: (942, 94)
