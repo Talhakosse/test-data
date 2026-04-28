@@ -4177,3 +4177,57 @@ Conf Threshold:0.5
 2026-04-27 20:28:28.858 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
 2026-04-27 20:28:28.875 [WARNING] [PTZ] GetPosition: Bagli degil!
 2026-04-27 20:28:29.375 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-28 12:11:37.980 [INFO] [Sensors] MCP3008 SPI başlatıldı
+2026-04-28 12:11:44.222 [INFO] Ayarlar /models/fire_config_v2.json uzerinden yuklendi.
+2026-04-28 12:11:44.223 [INFO] [KlipperBridge] Worker Thread başlatıldı.
+2026-04-28 12:11:44.223 [INFO] [YoloDetector] Model yükleniyor: /models/best.engine ...
+2026-04-28 12:11:44.234 [INFO] [YoloDetector] ✅ Model (TensorRT) hazır!
+2026-04-28 12:11:44.239 [INFO] [CameraDriver] State: DISCONNECTED -> CONNECTING
+2026-04-28 12:11:44.239 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-04-28 12:11:44.255 [INFO] [CameraDriver] PTZ Hazir (Hikvision ISAPI)
+2026-04-28 12:11:44.255 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-04-28 12:11:44.255 [WARNING] [CameraDriver] Seed alinamadi, merkez kabul edildi.
+2026-04-28 12:11:44.256 [INFO] [CameraDriver] State: CONNECTING -> CONNECTED
+2026-04-28 12:11:44.258 [INFO] 🚀 YOLO Detector başlatılıyor...
+Conf Threshold:0.5
+2026-04-28 12:11:44.258 [INFO] [YoloDetector] 🚀 Inference loop başlatıldı
+2026-04-28 12:11:44.259 [INFO] [YoloDetector] Inference thread başlatıldı.
+2026-04-28 12:11:44.259 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-04-28 12:11:44.260 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-04-28 12:11:45.557 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-04-28 12:11:45.560 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-04-28 12:11:45.560 [INFO]   -> conf: 0.5
+2026-04-28 12:11:45.560 [INFO]   -> imgsz: 640x640
+2026-04-28 12:11:45.560 [INFO]   -> class_id: 0
+2026-04-28 12:11:46.084 [INFO] [YoloDetector] ✅ YOLO predict generator oluştu, frame döngüsü başlıyor...
+2026-04-28 12:11:46.261 [INFO] 🔥 SİSTEM BAŞLATILDI - DÖNGÜ BAŞLIYOR 🔥
+2026-04-28 12:11:46.262 [INFO] [StateMachine] IDLE -> PATROL
+2026-04-28 12:11:46.262 [INFO] [Patrol] KARE TARAMA BAŞLIYOR...
+2026-04-28 12:11:46.265 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 12:11:46.339 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (117.0°)
+2026-04-28 12:11:46.360 [DEBUG] [PTZ] STOP sent
+2026-04-28 12:12:00.920 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.0°)
+2026-04-28 12:12:00.938 [DEBUG] [PTZ] STOP sent
+2026-04-28 12:12:01.267 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 12:12:04.259 [INFO] [YoloDetector] 📊 FPS: 10.6 | Toplam: 212 frame
+2026-04-28 12:12:16.289 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 12:12:24.004 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (22.0°)
+2026-04-28 12:12:24.017 [DEBUG] [PTZ] STOP sent
+2026-04-28 12:12:24.325 [INFO] [YoloDetector] 📊 FPS: 21.2 | Toplam: 425 frame
+2026-04-28 12:12:31.293 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 12:12:44.351 [INFO] [YoloDetector] 📊 FPS: 19.9 | Toplam: 398 frame
+2026-04-28 12:12:44.503 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.3°)
+2026-04-28 12:12:44.512 [DEBUG] [PTZ] STOP sent
+2026-04-28 12:12:46.319 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 12:13:01.345 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 12:13:04.355 [INFO] [YoloDetector] 📊 FPS: 20.6 | Toplam: 412 frame
+2026-04-28 12:13:07.655 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.3°)
+2026-04-28 12:13:07.665 [DEBUG] [PTZ] STOP sent
+2026-04-28 12:13:16.365 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 12:13:24.433 [INFO] [YoloDetector] 📊 FPS: 21.2 | Toplam: 426 frame
+2026-04-28 12:13:31.032 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.4°)
+2026-04-28 12:13:31.041 [DEBUG] [PTZ] STOP sent
+2026-04-28 12:13:31.378 [DEBUG] [MainLoop] Alive. No Fire | UV:1.04
+2026-04-28 12:13:44.441 [INFO] [YoloDetector] 📊 FPS: 19.0 | Toplam: 381 frame
+2026-04-28 12:13:46.388 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-04-28 12:14:01.394 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
