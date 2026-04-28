@@ -8,4 +8,4 @@ if git diff --cached --quiet; then
 fi
 
 git commit -m "Auto log update: $(date '+%Y-%m-%d %H:%M:%S')"
-git push origin master
+git push origin master --force

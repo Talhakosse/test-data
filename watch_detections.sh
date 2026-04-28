@@ -14,5 +14,5 @@ while read path action file; do
     fi
 
     git commit -m "FİREEE Auto detection: $file - $(date '+%Y-%m-%d %H:%M:%S')"
-    git push origin master
+    git push origin master --force
 done
