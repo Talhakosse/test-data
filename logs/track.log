@@ -7606,3 +7606,26 @@ Conf Threshold:0.5
 2026-05-01 14:17:20.855 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
 2026-05-01 14:17:22.988 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 422 frame
 2026-05-01 14:17:29.019 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/fire/logs/detections/ilk_tespit_2026-05-01_11-17-29.jpg
+2026-05-01 14:17:29.217 [INFO] [StateMachine] Alev onaylandi: 4/8 frame
+2026-05-01 14:17:29.217 [INFO] [StateMachine] PATROL -> TRACKING
+2026-05-01 14:17:29.240 [DEBUG] [PTZ] STOP sent
+2026-05-01 14:17:29.240 [INFO] [Patrol] DURAKLATILDI.
+2026-05-01 14:17:29.255 [INFO] [CameraDriver] Seed: Pan=244.4, Tilt=19.5
+2026-05-01 14:17:29.290 [INFO] [TRACKING] 📍 Kamera: X=244.900, Y=19.500 | UV:1
+2026-05-01 14:17:29.290 [INFO] [PTZ] SOFT START: 1.20, 1.20
+2026-05-01 14:17:29.291 [DEBUG] [PTZ] AbsMove: (244.4, 19.5) -> (245.6, 20.7)
+2026-05-01 14:17:29.322 [DEBUG] [PTZ] STOP sent
+2026-05-01 14:17:29.622 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 5)
+2026-05-01 14:17:29.623 [INFO] [Patrol] 5 döngü tamamlandı! Preset 1'e gidiliyor...
+2026-05-01 14:17:29.645 [INFO] [Patrol] Preset 2'ye gidiliyor...
+2026-05-01 14:17:29.660 [INFO] [Patrol] Preset turu tamamlandı, devriye devam ediyor...
+2026-05-01 14:17:30.000 [INFO] [Tracking] 🔥 Alev: 76.1% | Pozisyon: (1598, 979)
+2026-05-01 14:17:30.011 [INFO] [Tracking] 🔥 Alev: 76.1% | Pozisyon: (1598, 979)
+2026-05-01 14:17:30.022 [INFO] [Tracking] 🔥 Alev: 76.1% | Pozisyon: (1598, 979)
+2026-05-01 14:17:30.032 [INFO] [Tracking] 🔥 Alev: 76.1% | Pozisyon: (1598, 979)
+2026-05-01 14:17:30.043 [INFO] [Tracking] 🔥 Alev: 76.1% | Pozisyon: (1598, 979)
+2026-05-01 14:17:30.070 [INFO] [Tracking] 🔥 Alev: 74.2% | Pozisyon: (1599, 978)
+2026-05-01 14:17:30.080 [INFO] [Tracking] 🔥 Alev: 74.2% | Pozisyon: (1599, 978)
+2026-05-01 14:17:30.091 [INFO] [Tracking] 🔥 Alev: 74.2% | Pozisyon: (1599, 978)
+2026-05-01 14:17:30.277 [DEBUG] [PTZ] AbsMove: (245.6, 20.7) -> (249.6, 24.7)
+2026-05-01 14:17:31.285 [DEBUG] [PTZ] AbsMove: (249.6, 24.7) -> (253.6, 28.1)
