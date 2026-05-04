@@ -2250,3 +2250,566 @@ Conf Threshold:0.5
 2026-05-04 16:56:28.023 [INFO] [PTZ] Baglanti hatasi, reconnect deneniyor...
 2026-05-04 16:56:28.023 [INFO] [CameraDriver] Yeniden baglaniliyor...
 2026-05-04 16:56:28.023 [INFO] [CameraDriver] State: CONNECTED -> RECONNECTING
+2026-05-04 16:56:29.555 [WARNING] [CameraDriver] Health check BASARISIZ!
+2026-05-04 16:56:29.555 [INFO] [CameraDriver] State: RECONNECTING -> CONNECTING
+2026-05-04 16:56:29.555 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-05-04 16:56:29.619 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 1/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xfffea09704c0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-05-04 16:56:29.619 [INFO] [CameraDriver] 1.0s sonra tekrar denenecek...
+2026-05-04 16:56:30.620 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-05-04 16:56:32.691 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 2/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xfffea0970550>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-05-04 16:56:32.691 [INFO] [CameraDriver] 2.0s sonra tekrar denenecek...
+2026-05-04 16:56:34.692 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-05-04 16:56:35.270 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:56:35.767 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 3/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xfffea09724d0>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-05-04 16:56:35.767 [INFO] [CameraDriver] 4.0s sonra tekrar denenecek...
+2026-05-04 16:56:39.770 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-05-04 16:56:42.671 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 4/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xfffea16b9a20>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-05-04 16:56:42.671 [INFO] [CameraDriver] 8.0s sonra tekrar denenecek...
+2026-05-04 16:56:50.278 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:56:50.679 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-05-04 16:56:51.887 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 5/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xfffea16ba380>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-05-04 16:56:51.887 [INFO] [CameraDriver] State: CONNECTING -> FAILED
+2026-05-04 16:56:51.887 [ERROR] [CameraDriver] Baglanti BASARISIZ (5 deneme)
+2026-05-04 16:56:52.388 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:52.889 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:53.390 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:53.891 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:54.391 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:54.892 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:55.393 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:55.894 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:56.394 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:56.549 [INFO] [YoloDetector] 📊 FPS: 4.6 | Toplam: 188 frame
+2026-05-04 16:56:56.895 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:57.396 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:57.897 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:58.398 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:58.898 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:59.399 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:56:59.900 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:00.401 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:00.902 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:01.402 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:01.903 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:02.404 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:02.905 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:03.406 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:03.930 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:04.431 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:04.931 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:05.287 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:57:05.432 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:05.933 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:06.434 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:06.934 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:07.435 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:07.936 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:08.437 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:08.950 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:09.451 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:09.952 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:10.453 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:10.954 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:11.454 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:11.955 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:12.456 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:12.957 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:13.457 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:13.973 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:14.473 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:14.974 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:15.475 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:15.975 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:16.476 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:16.977 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:17.478 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:17.978 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:18.479 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:18.979 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:19.480 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:19.981 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:20.287 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:57:20.482 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:20.982 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:21.483 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:21.984 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:22.485 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:22.985 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:23.486 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:23.987 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:24.487 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:24.988 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:25.489 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:25.990 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:26.490 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:26.589 [INFO] [YoloDetector] 📊 FPS: 0.0 | Toplam: 1 frame
+2026-05-04 16:57:26.991 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:27.492 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:27.993 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:28.493 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:28.994 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:29.495 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:29.995 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:30.496 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:30.997 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:31.498 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:31.998 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:32.499 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:33.000 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:33.501 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:34.002 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:34.503 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:35.004 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:35.294 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:57:35.504 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:36.005 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:36.506 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:37.007 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:37.507 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:38.008 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:38.509 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:39.010 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:39.510 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:40.011 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:40.512 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:41.013 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:41.513 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:42.014 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:42.515 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:43.015 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:43.516 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:44.043 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:44.544 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:45.045 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:45.546 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:46.046 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:46.547 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:47.048 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:47.549 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:48.049 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:48.550 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:49.065 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:49.565 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:50.066 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:50.299 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:57:50.566 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:51.067 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:51.568 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:52.069 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:52.569 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:53.070 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:53.571 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:54.082 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:54.583 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:55.084 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:55.584 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:56.085 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:56.586 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:57.086 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:57.587 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:58.088 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:58.588 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:59.089 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:57:59.510 [INFO] [YoloDetector] 📊 FPS: 0.1 | Toplam: 2 frame
+2026-05-04 16:57:59.528 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:57:59.528 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:57:59.590 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:00.090 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:00.591 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:01.091 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:01.592 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:02.093 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:02.544 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:02.544 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:02.544 [ERROR]   -> User: admin
+2026-05-04 16:58:02.593 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:03.094 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:03.595 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:04.096 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:04.546 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:04.547 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:04.597 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:05.097 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:05.305 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:58:05.598 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:05.619 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:05.619 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:05.619 [ERROR]   -> User: admin
+2026-05-04 16:58:06.099 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:06.599 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:07.100 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:07.601 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:07.622 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:07.622 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:08.101 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:08.602 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:08.687 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:08.687 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:08.687 [ERROR]   -> User: admin
+2026-05-04 16:58:09.103 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:09.603 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:10.104 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:10.605 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:10.690 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:10.690 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:11.105 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:11.606 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:11.759 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:11.759 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:11.759 [ERROR]   -> User: admin
+2026-05-04 16:58:12.107 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:12.608 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:13.109 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:13.610 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:13.762 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:13.762 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:14.111 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:14.612 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:14.831 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:14.831 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:14.831 [ERROR]   -> User: admin
+2026-05-04 16:58:15.112 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:15.613 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:16.114 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:16.615 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:16.834 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:16.834 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:17.116 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:17.616 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:17.903 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:17.903 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:17.903 [ERROR]   -> User: admin
+2026-05-04 16:58:18.117 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:18.618 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:19.119 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:19.619 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:19.906 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:19.906 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:20.120 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:20.310 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:58:20.621 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:20.975 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:20.975 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:20.975 [ERROR]   -> User: admin
+2026-05-04 16:58:21.122 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:21.623 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:22.123 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:22.624 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:22.978 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:22.978 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:23.125 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:23.626 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:24.127 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:24.627 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:25.128 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:25.629 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:26.031 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:26.031 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:26.031 [ERROR]   -> User: admin
+2026-05-04 16:58:26.130 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:26.630 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:27.131 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:27.632 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:28.033 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:28.034 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:28.133 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:28.634 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:29.103 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:29.103 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:29.103 [ERROR]   -> User: admin
+2026-05-04 16:58:29.135 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:29.635 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:30.136 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:30.637 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:31.106 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:31.106 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:31.138 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:31.639 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:32.140 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:32.641 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:33.141 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:33.231 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:33.231 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:33.231 [ERROR]   -> User: admin
+2026-05-04 16:58:33.642 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:34.143 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:34.644 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:35.145 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:35.234 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:35.234 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:35.314 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:58:35.645 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:36.146 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:36.303 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:36.303 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:36.303 [ERROR]   -> User: admin
+2026-05-04 16:58:36.647 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:37.148 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:37.649 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:38.149 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:38.306 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:38.306 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:38.650 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:39.151 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:39.375 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:39.375 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:39.375 [ERROR]   -> User: admin
+2026-05-04 16:58:39.651 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:40.152 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:40.653 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:41.154 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:41.378 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:41.378 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:41.655 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:42.155 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:42.447 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:42.447 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:42.447 [ERROR]   -> User: admin
+2026-05-04 16:58:42.656 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:43.157 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:43.658 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:44.159 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:44.450 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:44.450 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:44.660 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:45.160 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:45.519 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:45.519 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:45.519 [ERROR]   -> User: admin
+2026-05-04 16:58:45.661 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:46.162 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:46.663 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:47.163 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:47.522 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:47.522 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:47.664 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:48.165 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:48.591 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:48.591 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:48.591 [ERROR]   -> User: admin
+2026-05-04 16:58:48.666 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:49.167 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:49.667 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:50.168 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:50.323 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:58:50.593 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:50.594 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:50.669 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:51.170 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:51.663 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:51.663 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:51.663 [ERROR]   -> User: admin
+2026-05-04 16:58:51.671 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:52.171 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:52.672 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:53.173 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:53.665 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:53.666 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:53.674 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:54.175 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:54.675 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:54.735 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:54.735 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:54.735 [ERROR]   -> User: admin
+2026-05-04 16:58:55.176 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:55.677 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:56.178 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:56.678 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:56.737 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:56.738 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:58:57.179 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:57.680 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:57.807 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:58:57.807 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:58:57.807 [ERROR]   -> User: admin
+2026-05-04 16:58:58.181 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:58.682 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:59.182 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:59.683 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:58:59.809 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:58:59.810 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:59:00.184 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:00.685 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:00.879 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:59:00.879 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:59:00.879 [ERROR]   -> User: admin
+2026-05-04 16:59:01.186 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:01.686 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:02.187 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:02.687 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:02.882 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:59:02.882 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:59:03.188 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:03.689 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:03.951 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:59:03.951 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:59:03.951 [ERROR]   -> User: admin
+2026-05-04 16:59:04.190 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:04.690 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:05.191 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:05.324 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:59:05.692 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:05.953 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:59:05.954 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:59:06.193 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:06.694 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:07.023 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:59:07.023 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:59:07.023 [ERROR]   -> User: admin
+2026-05-04 16:59:07.194 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:07.695 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:08.196 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:08.697 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:09.026 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:59:09.026 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:59:09.197 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:09.698 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:10.095 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:59:10.095 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:59:10.095 [ERROR]   -> User: admin
+2026-05-04 16:59:10.199 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:10.699 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:11.200 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:11.701 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:12.098 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:59:12.098 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:59:12.099 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:59:12.099 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:59:12.100 [ERROR]   -> User: admin
+2026-05-04 16:59:12.202 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:12.703 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:13.203 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:13.704 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:14.102 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:59:14.102 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:59:14.103 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:59:14.103 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:59:14.104 [ERROR]   -> User: admin
+2026-05-04 16:59:14.205 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:14.706 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:15.207 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:15.707 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:16.106 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:59:16.106 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:59:16.107 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:59:16.107 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:59:16.108 [ERROR]   -> User: admin
+2026-05-04 16:59:16.208 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:16.709 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:17.210 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:17.711 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:18.110 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:59:18.110 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:59:18.111 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:59:18.111 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:59:18.112 [ERROR]   -> User: admin
+2026-05-04 16:59:18.211 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:18.712 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:19.213 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:19.714 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:20.114 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:59:20.114 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:59:20.115 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:59:20.115 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:59:20.116 [ERROR]   -> User: admin
+2026-05-04 16:59:20.215 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:20.328 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:59:20.715 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:21.216 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:21.717 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:22.118 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:59:22.118 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:59:22.119 [ERROR] [YoloDetector] ❌ CV2 RTSP açılamadı! Kamera erişilebilir değil.
+2026-05-04 16:59:22.120 [ERROR]   -> IP: 192.168.10.2, Port: 554
+2026-05-04 16:59:22.120 [ERROR]   -> User: admin
+2026-05-04 16:59:22.218 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:22.719 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:23.219 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:23.720 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:24.122 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-04 16:59:24.122 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-04 16:59:24.221 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:24.722 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:25.223 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:25.372 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-05-04 16:59:25.377 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-05-04 16:59:25.378 [INFO]   -> conf: 0.5
+2026-05-04 16:59:25.378 [INFO]   -> imgsz: 640x640
+2026-05-04 16:59:25.378 [INFO]   -> class_id: 0
+2026-05-04 16:59:25.378 [INFO] [YoloDetector] ✅ YOLO predict generator oluştu, frame döngüsü başlıyor...
+2026-05-04 16:59:25.724 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:26.225 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:26.725 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:26.936 [INFO] [YoloDetector] 📊 FPS: 0.0 | Toplam: 1 frame
+2026-05-04 16:59:27.226 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:27.727 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:28.228 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:28.729 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:29.231 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:29.732 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:30.232 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:30.733 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:31.234 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:31.735 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:32.237 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:32.737 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:33.238 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:33.739 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:34.241 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:34.742 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:35.243 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:35.351 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:59:35.744 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:36.245 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:36.746 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:37.247 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:37.748 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:38.249 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:38.750 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:39.252 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:39.753 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:40.254 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:40.755 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:41.256 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:41.757 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:42.258 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:42.759 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:43.260 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:43.760 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:44.262 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:44.763 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:45.264 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:45.765 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:46.266 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:46.767 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:46.940 [INFO] [YoloDetector] 📊 FPS: 18.9 | Toplam: 378 frame
+2026-05-04 16:59:47.268 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:47.768 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:48.269 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:48.770 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:49.271 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:49.772 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:50.273 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:50.339 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:59:50.774 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:51.275 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:51.776 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:52.277 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:52.778 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:53.279 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:53.780 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:54.313 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:54.814 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:55.315 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:55.816 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:56.317 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:56.818 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:57.319 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:57.820 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:58.321 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:58.822 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:59.355 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 16:59:59.856 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 17:00:00.357 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 17:00:00.858 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-04 17:00:01.359 [WARNING] [PTZ] GetPosition: Bagli degil!
