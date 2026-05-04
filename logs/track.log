@@ -2113,3 +2113,140 @@ Conf Threshold:0.5
 2026-05-03 20:35:46.686 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
 2026-05-03 20:35:46.889 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 2/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xfffefc562470>: Failed to establish a new connection: [Errno 111] Connection refused'))
 2026-05-03 20:35:46.889 [INFO] [CameraDriver] 2.0s sonra tekrar denenecek...
+2026-05-03 20:35:48.891 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-05-03 20:35:48.894 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 3/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xfffefc563040>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-05-03 20:35:48.895 [INFO] [CameraDriver] 4.0s sonra tekrar denenecek...
+2026-05-03 20:35:52.896 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-05-03 20:35:52.901 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 4/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xfffefc298520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+2026-05-03 20:35:52.901 [INFO] [CameraDriver] 8.0s sonra tekrar denenecek...
+2026-05-03 20:36:00.908 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-05-03 20:36:00.929 [INFO] [CameraDriver] PTZ Hazir (Hikvision ISAPI)
+2026-05-03 20:36:00.930 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-03 20:36:00.930 [WARNING] [CameraDriver] Seed alinamadi, merkez kabul edildi.
+2026-05-03 20:36:00.930 [INFO] [CameraDriver] State: CONNECTING -> CONNECTED
+2026-05-03 20:36:00.932 [INFO] 🚀 YOLO Detector başlatılıyor...
+Conf Threshold:0.5
+2026-05-03 20:36:00.932 [INFO] [YoloDetector] 🚀 Inference loop başlatıldı
+2026-05-03 20:36:00.933 [INFO] [YoloDetector] Inference thread başlatıldı.
+2026-05-03 20:36:00.933 [INFO] [YoloDetector] 🔗 RTSP Bağlanıyor: rtsp://admin:sanfire12!@192.168.10.2:554/stream1
+2026-05-03 20:36:00.933 [INFO] [YoloDetector] 🧪 CV2 ile RTSP test ediliyor...
+2026-05-03 20:36:02.271 [INFO] [YoloDetector] ✅ CV2 RTSP OK! Frame: (1080, 1920, 3)
+2026-05-03 20:36:02.279 [INFO] [YoloDetector] 🤖 YOLO predict başlatılıyor...
+2026-05-03 20:36:02.279 [INFO]   -> conf: 0.5
+2026-05-03 20:36:02.279 [INFO]   -> imgsz: 640x640
+2026-05-03 20:36:02.279 [INFO]   -> class_id: 0
+2026-05-03 20:36:02.822 [INFO] [YoloDetector] ✅ YOLO predict generator oluştu, frame döngüsü başlıyor...
+2026-05-03 20:36:02.935 [INFO] 🔥 SİSTEM BAŞLATILDI - DÖNGÜ BAŞLIYOR 🔥
+2026-05-03 20:36:02.935 [INFO] [StateMachine] IDLE -> PATROL
+2026-05-03 20:36:02.936 [INFO] [Patrol] KARE TARAMA BAŞLIYOR...
+2026-05-03 20:36:02.938 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:36:03.156 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (0.0°)
+2026-05-03 20:36:03.177 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:05.797 [WARNING] [Patrol] TAKILMA! y=0.0°, hedef=85.0°
+2026-05-03 20:36:05.798 [INFO] [Patrol] Dürtme: pan=0, tilt=-40
+2026-05-03 20:36:06.013 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:08.445 [WARNING] [Patrol] TAKILMA! y=0.0°, hedef=85.0°
+2026-05-03 20:36:08.446 [INFO] [Patrol] Dürtme: pan=0, tilt=-40
+2026-05-03 20:36:08.665 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:10.849 [WARNING] [Patrol] TAKILMA! y=0.0°, hedef=85.0°
+2026-05-03 20:36:10.850 [INFO] [Patrol] Dürtme: pan=0, tilt=-40
+2026-05-03 20:36:11.020 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:13.367 [WARNING] [Patrol] TAKILMA! y=0.0°, hedef=85.0°
+2026-05-03 20:36:13.368 [INFO] [Patrol] Dürtme: pan=0, tilt=-40
+2026-05-03 20:36:13.538 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:15.888 [WARNING] [Patrol] TAKILMA! y=0.0°, hedef=85.0°
+2026-05-03 20:36:15.888 [INFO] [Patrol] Dürtme: pan=0, tilt=-40
+2026-05-03 20:36:16.063 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:17.937 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:36:18.373 [WARNING] [Patrol] TAKILMA! y=0.0°, hedef=85.0°
+2026-05-03 20:36:18.374 [INFO] [Patrol] Dürtme: pan=0, tilt=-40
+2026-05-03 20:36:18.542 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:20.949 [INFO] [YoloDetector] 📊 FPS: 9.7 | Toplam: 195 frame
+2026-05-03 20:36:21.171 [WARNING] [Patrol] TAKILMA! y=45.0°, hedef=85.0°
+2026-05-03 20:36:21.172 [INFO] [Patrol] Dürtme: pan=0, tilt=-40
+2026-05-03 20:36:21.340 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:23.647 [WARNING] [Patrol] TAKILMA! y=45.0°, hedef=85.0°
+2026-05-03 20:36:23.647 [INFO] [Patrol] Dürtme: pan=0, tilt=-40
+2026-05-03 20:36:23.819 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:28.685 [WARNING] [Patrol] TAKILMA! y=0.0°, hedef=85.0°
+2026-05-03 20:36:28.686 [INFO] [Patrol] Dürtme: pan=0, tilt=-40
+2026-05-03 20:36:28.854 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:32.956 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:36:33.451 [WARNING] [Patrol] TAKILMA! y=35.8°, hedef=85.0°
+2026-05-03 20:36:33.451 [INFO] [Patrol] Dürtme: pan=0, tilt=-40
+2026-05-03 20:36:33.619 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:35.968 [WARNING] [Patrol] TAKILMA! y=35.8°, hedef=85.0°
+2026-05-03 20:36:35.968 [INFO] [Patrol] Dürtme: pan=0, tilt=-40
+2026-05-03 20:36:36.140 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:38.487 [WARNING] [Patrol] TAKILMA! y=35.8°, hedef=85.0°
+2026-05-03 20:36:38.487 [INFO] [Patrol] Dürtme: pan=0, tilt=-40
+2026-05-03 20:36:38.665 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:40.990 [INFO] [YoloDetector] 📊 FPS: 20.0 | Toplam: 401 frame
+2026-05-03 20:36:41.078 [WARNING] [Patrol] TAKILMA! y=35.8°, hedef=85.0°
+2026-05-03 20:36:41.079 [INFO] [Patrol] Dürtme: pan=0, tilt=-40
+2026-05-03 20:36:41.319 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:36:47.975 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:36:50.725 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.4°)
+2026-05-03 20:36:50.737 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:37:01.008 [INFO] [YoloDetector] 📊 FPS: 20.2 | Toplam: 404 frame
+2026-05-03 20:37:02.978 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-03 20:37:03.562 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.7°)
+2026-05-03 20:37:03.572 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:37:17.979 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:37:21.064 [INFO] [YoloDetector] 📊 FPS: 17.2 | Toplam: 345 frame
+2026-05-03 20:37:27.004 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-05-03 20:37:27.022 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:37:32.991 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:37:39.826 [INFO] [Patrol] YUKARI hedefe ulaşıldı (84.0°)
+2026-05-03 20:37:39.837 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:37:41.084 [INFO] [YoloDetector] 📊 FPS: 20.7 | Toplam: 414 frame
+2026-05-03 20:37:48.011 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:37:52.382 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (22.0°)
+2026-05-03 20:37:52.397 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:38:01.157 [INFO] [YoloDetector] 📊 FPS: 17.7 | Toplam: 356 frame
+2026-05-03 20:38:03.028 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:38:18.049 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:38:20.977 [INFO] [Patrol] SAĞA hedefe ulaşıldı (349.8°)
+2026-05-03 20:38:20.993 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:38:21.176 [INFO] [YoloDetector] 📊 FPS: 19.5 | Toplam: 391 frame
+2026-05-03 20:38:21.294 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 1)
+2026-05-03 20:38:33.064 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:38:35.134 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.8°)
+2026-05-03 20:38:35.146 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:38:41.206 [INFO] [YoloDetector] 📊 FPS: 19.6 | Toplam: 392 frame
+2026-05-03 20:38:47.974 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.0°)
+2026-05-03 20:38:47.984 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:38:48.055 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:39:00.806 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.6°)
+2026-05-03 20:39:00.822 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:39:01.213 [INFO] [YoloDetector] 📊 FPS: 19.2 | Toplam: 384 frame
+2026-05-03 20:39:03.069 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:39:15.878 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
+2026-05-03 20:39:15.893 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:39:18.076 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:39:21.271 [INFO] [YoloDetector] 📊 FPS: 19.7 | Toplam: 395 frame
+2026-05-03 20:39:28.714 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.0°)
+2026-05-03 20:39:28.724 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:39:33.082 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-03 20:39:41.306 [INFO] [YoloDetector] 📊 FPS: 19.3 | Toplam: 387 frame
+2026-05-03 20:39:41.550 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (21.5°)
+2026-05-03 20:39:41.559 [DEBUG] [PTZ] STOP sent
+2026-05-03 20:39:48.105 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-04 16:55:35.271 [DEBUG] [MainLoop] Alive. No Fire | UV:1.04
+2026-05-04 16:55:35.293 [INFO] [YoloDetector] 📊 FPS: 0.0 | Toplam: 181 frame
+2026-05-04 16:55:50.274 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-04 16:55:55.327 [INFO] [YoloDetector] 📊 FPS: 20.8 | Toplam: 417 frame
+2026-05-04 16:55:55.498 [INFO] [Patrol] SAĞA hedefe ulaşıldı (350.0°)
+2026-05-04 16:55:55.512 [DEBUG] [PTZ] STOP sent
+2026-05-04 16:55:55.813 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 2)
+2026-05-04 16:56:05.266 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-04 16:56:09.666 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (180.2°)
+2026-05-04 16:56:09.680 [DEBUG] [PTZ] STOP sent
+2026-05-04 16:56:15.378 [INFO] [YoloDetector] 📊 FPS: 19.7 | Toplam: 395 frame
+2026-05-04 16:56:20.269 [DEBUG] [MainLoop] Alive. No Fire | UV:1.02
+2026-05-04 16:56:22.483 [INFO] [Patrol] YUKARI hedefe ulaşıldı (85.0°)
+2026-05-04 16:56:22.493 [DEBUG] [PTZ] STOP sent
+2026-05-04 16:56:28.023 [ERROR] [PTZ] GetPosition hatasi: HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0xfffea1e6ae30>, 'Connection to 192.168.10.2 timed out. (connect timeout=2)'))
+2026-05-04 16:56:28.023 [INFO] [PTZ] Baglanti hatasi, reconnect deneniyor...
+2026-05-04 16:56:28.023 [INFO] [CameraDriver] Yeniden baglaniliyor...
+2026-05-04 16:56:28.023 [INFO] [CameraDriver] State: CONNECTED -> RECONNECTING
