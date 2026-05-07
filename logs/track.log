@@ -3147,3 +3147,82 @@ Conf Threshold:0.5
 2026-05-07 12:46:47.649 [DEBUG] [PTZ] AbsMove: (0.0, 81.7) -> (0.0, 82.9)
 2026-05-07 12:46:48.083 [INFO] [Tracking] 🔥 Alev: 58.2% | Pozisyon: (759, 823)
 2026-05-07 12:46:48.093 [INFO] [Tracking] 🔥 Alev: 58.2% | Pozisyon: (759, 823)
+2026-05-07 12:46:49.344 [DEBUG] [MainLoop] Alive. No Fire | UV:1.05
+2026-05-07 12:46:50.069 [INFO] [TRACKING] 📍 Kamera: X=0.000, Y=82.900 | UV:1
+2026-05-07 12:46:50.854 [INFO] [YoloDetector] 📊 FPS: 18.4 | Toplam: 369 frame
+2026-05-07 12:46:51.102 [INFO] [Tracking] 🔥 Alev: 50.3% | Pozisyon: (761, 817)
+2026-05-07 12:46:51.103 [WARNING] [Main] ⚠️ Ölü bölge tespit #2! Pan=-4.000
+2026-05-07 12:46:51.103 [WARNING] [Main] 🎯 ÖLÜ BÖLGE AKTİF! Pre-move başlatılıyor...
+2026-05-07 12:46:51.104 [INFO] [Main] Kamera ters yone: 350.0 derece
+2026-05-07 12:46:51.104 [DEBUG] [PTZ] AbsMove: (0.0, 82.9) -> (350.0, 82.9)
+2026-05-07 12:46:51.118 [WARNING] [KlipperBridge] 🎯 ÖLÜ BÖLGE G91 PRE-MOVE: Y=-861mm
+2026-05-07 12:47:06.697 [WARNING] [KlipperBridge] ✅ G91 PRE-MOVE TAMAMLANDI (G91 modunda kalıyor)
+2026-05-07 12:47:06.697 [DEBUG] [PTZ] AbsMove: (350.0, 82.9) -> (0.0, 86.9)
+2026-05-07 12:47:06.723 [DEBUG] [MainLoop] Alive. Fire:53% | UV:1.03
+2026-05-07 12:47:06.738 [INFO] [TRACKING] 📍 Kamera: X=107.900, Y=82.900 | UV:1
+2026-05-07 12:47:06.738 [DEBUG] [PTZ] AbsMove: (0.0, 86.9) -> (4.0, 90.0)
+2026-05-07 12:47:07.745 [DEBUG] [PTZ] AbsMove: (4.0, 90.0) -> (8.0, 90.0)
+2026-05-07 12:47:08.753 [DEBUG] [PTZ] AbsMove: (8.0, 90.0) -> (12.0, 90.0)
+2026-05-07 12:47:09.023 [INFO] [Tracking] 🔥 Alev: 75.2% | Pozisyon: (1216, 576)
+2026-05-07 12:47:09.034 [INFO] [Tracking] 🔥 Alev: 75.2% | Pozisyon: (1216, 576)
+2026-05-07 12:47:09.061 [INFO] [Tracking] 🔥 Alev: 72.9% | Pozisyon: (1215, 577)
+2026-05-07 12:47:09.072 [INFO] [Tracking] 🔥 Alev: 72.9% | Pozisyon: (1215, 577)
+2026-05-07 12:47:09.100 [INFO] [Tracking] 🔥 Alev: 73.6% | Pozisyon: (1216, 579)
+2026-05-07 12:47:09.783 [INFO] [TRACKING] 📍 Kamera: X=98.500, Y=90.000 | UV:1
+2026-05-07 12:47:09.808 [DEBUG] [PTZ] AbsMove: (12.0, 90.0) -> (16.0, 90.0)
+2026-05-07 12:47:10.796 [DEBUG] [PTZ] AbsMove: (16.0, 90.0) -> (20.0, 90.0)
+2026-05-07 12:47:10.882 [INFO] [YoloDetector] 📊 FPS: 21.1 | Toplam: 423 frame
+2026-05-07 12:47:11.802 [DEBUG] [PTZ] AbsMove: (20.0, 90.0) -> (24.0, 90.0)
+2026-05-07 12:47:12.007 [INFO] [Tracking] 🔥 Alev: 71.5% | Pozisyon: (1210, 626)
+2026-05-07 12:47:12.018 [INFO] [Tracking] 🔥 Alev: 71.5% | Pozisyon: (1210, 626)
+2026-05-07 12:47:12.028 [INFO] [Tracking] 🔥 Alev: 71.5% | Pozisyon: (1210, 626)
+2026-05-07 12:47:12.039 [INFO] [Tracking] 🔥 Alev: 71.5% | Pozisyon: (1210, 626)
+2026-05-07 12:47:12.049 [INFO] [Tracking] 🔥 Alev: 71.5% | Pozisyon: (1210, 626)
+2026-05-07 12:47:12.076 [INFO] [Tracking] 🔥 Alev: 73.2% | Pozisyon: (1209, 628)
+2026-05-07 12:47:12.086 [INFO] [Tracking] 🔥 Alev: 73.2% | Pozisyon: (1209, 628)
+2026-05-07 12:47:12.097 [INFO] [Tracking] 🔥 Alev: 73.2% | Pozisyon: (1209, 628)
+2026-05-07 12:47:12.813 [INFO] [TRACKING] 📍 Kamera: X=86.900, Y=90.000 | UV:1
+2026-05-07 12:47:12.860 [DEBUG] [PTZ] AbsMove: (24.0, 90.0) -> (28.0, 90.0)
+2026-05-07 12:47:14.018 [DEBUG] [PTZ] AbsMove: (28.0, 90.0) -> (32.0, 90.0)
+2026-05-07 12:47:15.001 [INFO] [Tracking] 🔥 Alev: 64.9% | Pozisyon: (1194, 673)
+2026-05-07 12:47:15.002 [DEBUG] [PTZ] AbsMove: (32.0, 90.0) -> (36.0, 90.0)
+2026-05-07 12:47:15.026 [INFO] [Tracking] 🔥 Alev: 64.9% | Pozisyon: (1194, 673)
+2026-05-07 12:47:15.036 [INFO] [Tracking] 🔥 Alev: 64.9% | Pozisyon: (1194, 673)
+2026-05-07 12:47:15.047 [INFO] [Tracking] 🔥 Alev: 64.9% | Pozisyon: (1194, 673)
+2026-05-07 12:47:15.071 [INFO] [Tracking] 🔥 Alev: 68.4% | Pozisyon: (1193, 676)
+2026-05-07 12:47:15.082 [INFO] [Tracking] 🔥 Alev: 68.4% | Pozisyon: (1193, 676)
+2026-05-07 12:47:15.092 [INFO] [Tracking] 🔥 Alev: 68.4% | Pozisyon: (1193, 676)
+2026-05-07 12:47:15.831 [INFO] [TRACKING] 📍 Kamera: X=75.200, Y=90.000 | UV:1
+2026-05-07 12:47:16.149 [DEBUG] [PTZ] AbsMove: (36.0, 90.0) -> (40.0, 90.0)
+2026-05-07 12:47:17.147 [DEBUG] [PTZ] AbsMove: (40.0, 90.0) -> (44.0, 90.0)
+2026-05-07 12:47:18.025 [INFO] [Tracking] 🔥 Alev: 67.2% | Pozisyon: (1168, 717)
+2026-05-07 12:47:18.036 [INFO] [Tracking] 🔥 Alev: 67.2% | Pozisyon: (1168, 717)
+2026-05-07 12:47:18.064 [INFO] [Tracking] 🔥 Alev: 63.9% | Pozisyon: (1168, 716)
+2026-05-07 12:47:18.075 [INFO] [Tracking] 🔥 Alev: 63.9% | Pozisyon: (1168, 716)
+2026-05-07 12:47:18.103 [INFO] [Tracking] 🔥 Alev: 63.2% | Pozisyon: (1169, 716)
+2026-05-07 12:47:18.152 [DEBUG] [PTZ] AbsMove: (44.0, 90.0) -> (48.0, 90.0)
+2026-05-07 12:47:18.855 [INFO] [TRACKING] 📍 Kamera: X=63.500, Y=90.000 | UV:1
+2026-05-07 12:47:21.727 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-07 12:47:21.876 [INFO] [TRACKING] 📍 Kamera: X=48.000, Y=90.000 | UV:1
+2026-05-07 12:47:24.893 [INFO] [TRACKING] 📍 Kamera: X=48.000, Y=90.000 | UV:1
+2026-05-07 12:47:27.924 [INFO] [TRACKING] 📍 Kamera: X=48.000, Y=90.000 | UV:1
+2026-05-07 12:47:30.888 [INFO] [YoloDetector] 📊 FPS: 18.0 | Toplam: 360 frame
+2026-05-07 12:47:30.941 [INFO] [TRACKING] 📍 Kamera: X=48.000, Y=90.000 | UV:1
+2026-05-07 12:47:31.527 [INFO] [StateMachine] TRACKING -> PATROL
+2026-05-07 12:47:31.528 [INFO] [Patrol] DEVAM EDİYOR.
+2026-05-07 12:47:31.537 [INFO] [CameraDriver] Seed: Pan=48.0, Tilt=90.0
+2026-05-07 12:47:36.751 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-07 12:47:45.124 [INFO] [Patrol] AŞAĞI hedefe ulaşıldı (20.4°)
+2026-05-07 12:47:45.138 [DEBUG] [PTZ] STOP sent
+2026-05-07 12:47:50.944 [INFO] [YoloDetector] 📊 FPS: 21.7 | Toplam: 436 frame
+2026-05-07 12:47:51.760 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-07 12:48:06.780 [DEBUG] [MainLoop] Alive. No Fire | UV:1.04
+2026-05-07 12:48:09.879 [INFO] [Patrol] SAĞA hedefe ulaşıldı (349.6°)
+2026-05-07 12:48:09.889 [DEBUG] [PTZ] STOP sent
+2026-05-07 12:48:10.189 [INFO] [Patrol] Tam döngü tamamlandı (Toplam: 2)
+2026-05-07 12:48:10.975 [INFO] [YoloDetector] 📊 FPS: 19.9 | Toplam: 398 frame
+2026-05-07 12:48:19.199 [INFO] [Patrol] MERKEZE hedefe ulaşıldı (240.7°)
+2026-05-07 12:48:19.218 [DEBUG] [PTZ] STOP sent
+2026-05-07 12:48:21.782 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-07 12:48:30.978 [INFO] [YoloDetector] 📊 FPS: 19.1 | Toplam: 382 frame
+2026-05-07 12:48:31.740 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/fire/logs/detections/ilk_tespit_2026-05-07_09-48-31.jpg
