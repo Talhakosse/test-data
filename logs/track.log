@@ -3135,3 +3135,15 @@ Conf Threshold:0.5
 2026-05-07 12:46:38.076 [INFO] [Patrol] SOLA hedefe ulaşıldı (0.0°)
 2026-05-07 12:46:38.105 [DEBUG] [PTZ] STOP sent
 2026-05-07 12:46:46.275 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/fire/logs/detections/ilk_tespit_2026-05-07_09-46-46.jpg
+2026-05-07 12:46:46.954 [INFO] [StateMachine] Alev onaylandi: 4/8 frame
+2026-05-07 12:46:46.954 [INFO] [StateMachine] PATROL -> TRACKING
+2026-05-07 12:46:46.973 [DEBUG] [PTZ] STOP sent
+2026-05-07 12:46:46.973 [INFO] [Patrol] DURAKLATILDI.
+2026-05-07 12:46:46.988 [INFO] [CameraDriver] Seed: Pan=0.0, Tilt=81.7
+2026-05-07 12:46:47.035 [INFO] [TRACKING] 📍 Kamera: X=0.000, Y=82.000 | UV:1
+2026-05-07 12:46:47.137 [DEBUG] [PTZ] STOP sent
+2026-05-07 12:46:47.648 [INFO] [PTZ] SOFT START: -1.20, 1.20
+2026-05-07 12:46:47.649 [WARNING] [Main] ⚠️ Ölü bölge tespit #1! Pan=-1.200
+2026-05-07 12:46:47.649 [DEBUG] [PTZ] AbsMove: (0.0, 81.7) -> (0.0, 82.9)
+2026-05-07 12:46:48.083 [INFO] [Tracking] 🔥 Alev: 58.2% | Pozisyon: (759, 823)
+2026-05-07 12:46:48.093 [INFO] [Tracking] 🔥 Alev: 58.2% | Pozisyon: (759, 823)
