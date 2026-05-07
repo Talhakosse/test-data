@@ -3269,3 +3269,13 @@ Conf Threshold:0.5
 2026-05-07 12:50:20.494 [DEBUG] [PTZ] STOP sent
 2026-05-07 12:50:21.838 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
 2026-05-07 12:50:29.935 [INFO] [YOLO] Tespit görüntüsü kaydedildi: /opt/fire/logs/detections/ilk_tespit_2026-05-07_09-50-29.jpg
+2026-05-07 12:50:31.175 [INFO] [YoloDetector] 📊 FPS: 19.6 | Toplam: 393 frame
+2026-05-07 12:50:31.225 [INFO] [StateMachine] Alev onaylandi: 4/8 frame
+2026-05-07 12:50:31.225 [INFO] [StateMachine] PATROL -> TRACKING
+2026-05-07 12:50:31.244 [DEBUG] [PTZ] STOP sent
+2026-05-07 12:50:31.245 [INFO] [Patrol] DURAKLATILDI.
+2026-05-07 12:50:31.261 [INFO] [CameraDriver] Seed: Pan=238.3, Tilt=73.2
+2026-05-07 12:50:31.306 [INFO] [TRACKING] 📍 Kamera: X=238.300, Y=73.500 | UV:1
+2026-05-07 12:50:31.306 [INFO] [PTZ] SOFT START: 0.58, 1.20
+2026-05-07 12:50:31.306 [DEBUG] [PTZ] AbsMove: (238.3, 73.2) -> (238.9, 74.4)
+2026-05-07 12:50:31.408 [DEBUG] [PTZ] STOP sent
