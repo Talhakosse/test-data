@@ -3665,3 +3665,98 @@ Conf Threshold:0.5
 2026-05-08 11:11:37.099 [DEBUG] [PTZ] STOP sent
 2026-05-08 11:11:37.516 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
 2026-05-08 11:11:40.640 [INFO] [YoloDetector] 📊 FPS: 20.0 | Toplam: 401 frame
+2026-05-08 11:11:45.882 [ERROR] [PTZ] GetPosition hatasi: HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0xfffe972cf6d0>, 'Connection to 192.168.10.2 timed out. (connect timeout=2)'))
+2026-05-08 11:11:45.882 [INFO] [PTZ] Baglanti hatasi, reconnect deneniyor...
+2026-05-08 11:11:45.883 [INFO] [CameraDriver] Yeniden baglaniliyor...
+2026-05-08 11:11:45.883 [INFO] [CameraDriver] State: CONNECTED -> RECONNECTING
+2026-05-08 11:11:45.883 [INFO] [CameraDriver] State: RECONNECTING -> CONNECTING
+2026-05-08 11:11:45.883 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-05-08 11:11:50.887 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 1/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0xfffe972ce860>, 'Connection to 192.168.10.2 timed out. (connect timeout=5)'))
+2026-05-08 11:11:50.888 [INFO] [CameraDriver] 1.0s sonra tekrar denenecek...
+2026-05-08 11:11:51.889 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-05-08 11:11:51.991 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 2/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xfffe972cc790>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-05-08 11:11:51.992 [INFO] [CameraDriver] 2.0s sonra tekrar denenecek...
+2026-05-08 11:11:52.521 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-08 11:11:53.994 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-05-08 11:11:56.347 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 3/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xfffe972cd390>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-05-08 11:11:56.348 [INFO] [CameraDriver] 4.0s sonra tekrar denenecek...
+2026-05-08 11:12:00.351 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-05-08 11:12:03.415 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 4/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xfffe972cd810>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-05-08 11:12:03.416 [INFO] [CameraDriver] 8.0s sonra tekrar denenecek...
+2026-05-08 11:12:07.525 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-08 11:12:11.423 [INFO] [CameraDriver] Baglaniliyor: 192.168.10.2 (ISAPI)...
+2026-05-08 11:12:13.842 [INFO] [YoloDetector] 📊 FPS: 1.7 | Toplam: 57 frame
+2026-05-08 11:12:14.487 [ERROR] [CameraDriver] Baglanti hatasi (Deneme 5/5): HTTPConnectionPool(host='192.168.10.2', port=80): Max retries exceeded with url: /ISAPI/PTZCtrl/channels/1/status (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xfffe97e15480>: Failed to establish a new connection: [Errno 113] No route to host'))
+2026-05-08 11:12:14.488 [INFO] [CameraDriver] State: CONNECTING -> FAILED
+2026-05-08 11:12:14.488 [ERROR] [CameraDriver] Baglanti BASARISIZ (5 deneme)
+2026-05-08 11:12:14.989 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:15.490 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:15.991 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:16.492 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:16.993 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:17.493 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:17.994 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:18.495 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:18.996 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:19.496 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:19.997 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:20.498 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:20.999 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:21.500 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:22.001 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:22.502 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:22.528 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-08 11:12:23.003 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:23.504 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:24.005 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:24.506 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:25.006 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:25.507 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:26.008 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:26.509 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:27.010 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:27.510 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:28.012 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:28.513 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:29.013 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:29.514 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:30.015 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:30.516 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:31.017 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:31.518 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:32.018 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:32.519 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:33.020 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:33.521 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:34.022 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:34.523 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:35.024 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:35.525 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:36.026 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:36.527 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:37.028 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:37.529 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:37.536 [DEBUG] [MainLoop] Alive. No Fire | UV:1.03
+2026-05-08 11:12:38.030 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:38.531 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:39.032 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:39.533 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:40.034 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:40.535 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:41.035 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:41.536 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:42.037 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:42.539 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:43.040 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:43.541 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:43.878 [INFO] [YoloDetector] 📊 FPS: 0.0 | Toplam: 1 frame
+2026-05-08 11:12:44.041 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:44.542 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:45.043 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:45.544 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:46.045 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:46.546 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:47.047 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:47.548 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:48.048 [WARNING] [PTZ] GetPosition: Bagli degil!
+2026-05-08 11:12:48.549 [WARNING] [PTZ] GetPosition: Bagli degil!
